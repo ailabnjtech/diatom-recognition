@@ -1,0 +1,2003 @@
+0;E:\浦思悦\2023.3代码/datasets/test\Acanthoceras zachariasii\Acanthoceras zachariasii6.jpg
+0;E:\浦思悦\2023.3代码/datasets/test\Acanthoceras zachariasii\Acanthoceras zachariasii7.jpg
+1;E:\浦思悦\2023.3代码/datasets/test\Achnanthes brevipes\Achnanthes brevipes 6.12(5μm).png
+1;E:\浦思悦\2023.3代码/datasets/test\Achnanthes brevipes\Achnanthes brevipes 6.8(5μm).png
+1;E:\浦思悦\2023.3代码/datasets/test\Achnanthes brevipes\Achnanthes brevipes 6.9(10μm).png
+2;E:\浦思悦\2023.3代码/datasets/test\Achnanthes coarctata\Achnanthes coarctata_2.jpg
+3;E:\浦思悦\2023.3代码/datasets/test\Achnanthes felinophila\Achnanhes felinophila-Afelinophila.jpg
+3;E:\浦思悦\2023.3代码/datasets/test\Achnanthes felinophila\Achnanhes felinophila-Afelinprv.jpg
+4;E:\浦思悦\2023.3代码/datasets/test\Achnanthes inflata\Achnanthes inflata 8.3(10μm).png
+4;E:\浦思悦\2023.3代码/datasets/test\Achnanthes inflata\Achnanthes inflata_2.jpg
+4;E:\浦思悦\2023.3代码/datasets/test\Achnanthes inflata\Achnanthes inflata_3.jpg
+5;E:\浦思悦\2023.3代码/datasets/test\Achnanthes longboardia\Achnanthes longboardia  -A_lngboardia_typerv.jpg
+5;E:\浦思悦\2023.3代码/datasets/test\Achnanthes longboardia\Achnanthes longboardia_2.jpg
+6;E:\浦思悦\2023.3代码/datasets/test\Achnanthes mauiensis\Achnanthes mauiensis-Amauiensisprv.jpg
+6;E:\浦思悦\2023.3代码/datasets/test\Achnanthes mauiensis\Achnanthes mauiensis-Mauiensiss.jpg
+7;E:\浦思悦\2023.3代码/datasets/test\Achnanthes rostellata\Achnanthes rostellata_408001rv.jpg
+7;E:\浦思悦\2023.3代码/datasets/test\Achnanthes rostellata\Achnanthes rostellata_439301prv.jpg
+8;E:\浦思悦\2023.3代码/datasets/test\Achnanthes tumescens\Achnanthes tumescens-Atumprv.jpg
+8;E:\浦思悦\2023.3代码/datasets/test\Achnanthes tumescens\Achnanthes tumescens_5.jpg
+9;E:\浦思悦\2023.3代码/datasets/test\Achnanthes undulorostrata\Achnanthes undulorostrata -Aundulo.jpg
+9;E:\浦思悦\2023.3代码/datasets/test\Achnanthes undulorostrata\Achnanthes undulorostrata_1.jpg
+10;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium affine\Achnanthidium affine 6.8(1μm).png
+10;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium affine\Achnanthidium affine_5.jpg
+11;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium alpestre\Achnanthidium alpestre-ADA_2a_ed.jpg
+11;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium alpestre\Achnanthidium alpestre-NotInCircle4_ed.jpg
+12;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium atomus\Achnanthidium atomus-Ach_atomom_plate1_ed.jpg
+12;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium atomus\Achnanthidium atomus-Ach_atomom_plate4_ed.jpg
+13;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium catenattum\Achnanthidium catenattum 6.7(1μm).png
+13;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium catenattum\Achnanthidium catenattum 6.8(1μm).png
+14;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium crassum\Achnanthidium crassum -CT10010_A_122017_89.jpg
+14;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium crassum\Achnanthidium crassum -NRSA2361_053116_3.jpg
+15;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium deflexum\Achnanthidium deflexum-Utah_GC6777a_AD2.jpg
+15;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium deflexum\Achnanthidium deflexum-YELL_GSN07248_AD11.jpg
+16;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium delmontii\Achnanthidium delmontii-25.4(10μm).jpg
+16;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium delmontii\Achnanthidium delmontii-VA000670.jpg
+17;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium druartii\Achnanthidium druartii-KDOW42_02.jpg
+17;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium druartii\Achnanthidium druartii-KDOW42_10.jpg
+17;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium druartii\Achnanthidium druartii_8.jpg
+18;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium duthiei\Achnanthidium duthiei-GSS01047_Duthii4_ed.jpg
+18;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium duthiei\Achnanthidium duthiei-GSS01047_Duthii7_ed.jpg
+19;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium eutrophilum\Achnanthidium eutrophilum-GS001021_R25.jpg
+19;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium eutrophilum\Achnanthidium eutrophilum-GS009181_RL4.jpg
+19;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium eutrophilum\Achnanthidium eutrophilum_3.jpg
+20;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium exiguum\Achnanthidium exiguum-GS027521_24.jpg
+20;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium exiguum\Achnanthidium exiguum-GS027521_26.jpg
+20;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium exiguum\Achnanthidium exiguum-GS027521_6.jpg
+21;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium gracillimum\Achnanthidium gracillimum-MO000019_1ed.jpg
+21;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium gracillimum\Achnanthidium gracillimum-MO000019_2_ed.jpg
+21;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium gracillimum\Achnanthidium gracillimum_2_vertical.jpg
+22;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium kranzii\Achnanthidium kranzii-Kranz1b.jpg
+22;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium kranzii\Achnanthidium kranzii-Kranz7.jpg
+22;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium kranzii\Achnanthidium kranzii_2.jpg
+23;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium latecephalum\Achnanthidium latecephalum-Achn_lateceph6b_ed.jpg
+23;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium latecephalum\Achnanthidium latecephalum-GSS01047_Latec2b_ed_1.jpg
+23;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium latecephalum\Achnanthidium latecephalum_1.jpg
+24;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium minutissimum\Achnanthidium minutissimum-25.2(10μm).jpg
+24;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium minutissimum\Achnanthidium minutissimum-25.3(10μm).jpg
+24;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium minutissimum\Achnanthidium minutissimum-SEM2.jpg
+24;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium minutissimum\Achnanthidium minutissimum-SEM3.jpg
+24;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium minutissimum\Achnanthidium minutissimum_2.jpg
+24;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium minutissimum\Achnanthidium minutissimum_8.jpg
+25;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium pyrenaicum\Achnanthidium pyrenaicum-25.4(1μm).jpg
+25;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium pyrenaicum\Achnanthidium pyrenaicum_2.jpg
+25;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium pyrenaicum\Achnanthidium pyrenaicum_3.jpg
+26;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium reimeri\Achnanthidium reimeri-25.4(10μm).jpg
+27;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium rivulare\Achnanthidium  rivulare-SEM3.jpg
+27;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium rivulare\Achnanthidium  rivulare-SEM4.jpg
+27;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium rivulare\Achnanthidium rivulare_2.jpg
+28;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium rosenstockii\Achnanthidium rosenstockii-VT10089_A_010418_10_c.jpg
+28;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium rosenstockii\Achnanthidium rosenstockii-VT10093_A_012618_02_c.jpg
+29;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium subhudsonis\Achnanthidium subhudsonis 6.7(1μm).png
+29;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium subhudsonis\Achnanthidium subhudsonis 6.8(1μm).png
+30;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium subhudsonis var. kraeuselii\Achnanthidium subhudsonis var. kraeuselii-25.4(5μm).png
+30;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium subhudsonis var. kraeuselii\Achnanthidium subhudsonis var. kraeuselii_3.jpg
+30;E:\浦思悦\2023.3代码/datasets/test\Achnanthidium subhudsonis var. kraeuselii\Achnanthidium subhudsonis var. kraeuselii_5.jpg
+31;E:\浦思悦\2023.3代码/datasets/test\Actinella punctata\Actinella punctata-NCPA0001_04.png
+31;E:\浦思悦\2023.3代码/datasets/test\Actinella punctata\Actinella punctata-NCPA0001_05.png
+31;E:\浦思悦\2023.3代码/datasets/test\Actinella punctata\Actinella punctata-NCPA0001_07.png
+32;E:\浦思悦\2023.3代码/datasets/test\Actinocyclus normanii\Actinocyclus normanii8.jpg
+32;E:\浦思悦\2023.3代码/datasets/test\Actinocyclus normanii\Actinocyclus normanii_4.jpg
+33;E:\浦思悦\2023.3代码/datasets/test\Adlafia detenta\Adlafia detenta-Navdetenta5.jpg
+33;E:\浦思悦\2023.3代码/datasets/test\Adlafia detenta\Adlafia detenta-Navdetenta6.jpg
+33;E:\浦思悦\2023.3代码/datasets/test\Adlafia detenta\Adlafia detenta-Navdetenta7.jpg
+34;E:\浦思悦\2023.3代码/datasets/test\Adlafia multnomahii\Adlafia multnomahii-WI3.jpg
+34;E:\浦思悦\2023.3代码/datasets/test\Adlafia multnomahii\Adlafia multnomahii_2.jpg
+34;E:\浦思悦\2023.3代码/datasets/test\Adlafia multnomahii\Adlafia multnomahii_3.jpg
+35;E:\浦思悦\2023.3代码/datasets/test\Adlafia suchlandtii\Adlafia suchlandtii_3.jpg
+36;E:\浦思悦\2023.3代码/datasets/test\Amphipleura pellucida\Amphipleura pellucida-Pellu5.png
+36;E:\浦思悦\2023.3代码/datasets/test\Amphipleura pellucida\Amphipleura pellucida_7.jpg
+37;E:\浦思悦\2023.3代码/datasets/test\Amphora bicapitata\Amphora bicapitata-2_TYPESLIDE_cl.jpeg
+37;E:\浦思悦\2023.3代码/datasets/test\Amphora bicapitata\Amphora bicapitata_2.jpg
+38;E:\浦思悦\2023.3代码/datasets/test\Amphora calumetica\Amphora calumetica-MBE2215b_1283_58.jpg
+39;E:\浦思悦\2023.3代码/datasets/test\Amphora copulata\Amphora copulata-332_01_final.jpg
+39;E:\浦思悦\2023.3代码/datasets/test\Amphora copulata\Amphora copulata-344_01_final.jpg
+39;E:\浦思悦\2023.3代码/datasets/test\Amphora copulata\Amphora copulata-RL207_01_final.jpg
+40;E:\浦思悦\2023.3代码/datasets/test\Amphora delphinea var. minor\Amphora delphinea var. minor -NY10014_A_121417_37.jpg
+40;E:\浦思悦\2023.3代码/datasets/test\Amphora delphinea var. minor\Amphora delphinea var. minor -_139.4_11.3.jpg
+40;E:\浦思悦\2023.3代码/datasets/test\Amphora delphinea var. minor\Amphora delphinea var. minor_1.jpg
+41;E:\浦思悦\2023.3代码/datasets/test\Amphora minutissima\Amphora minutissima_3.jpg
+42;E:\浦思悦\2023.3代码/datasets/test\Amphora montana\Amphora montana 13.7(2μm).png
+42;E:\浦思悦\2023.3代码/datasets/test\Amphora montana\Amphora montana_7.jpg
+43;E:\浦思悦\2023.3代码/datasets/test\Amphora oligotraphenta\Amphora oligotraphenta 13.7(1μm).png
+43;E:\浦思悦\2023.3代码/datasets/test\Amphora oligotraphenta\Amphora oligotraphenta 13.8(1μm).png
+44;E:\浦思悦\2023.3代码/datasets/test\Amphora ovalis\Amphora ovalis -2833_01_final.jpg
+44;E:\浦思悦\2023.3代码/datasets/test\Amphora ovalis\Amphora ovalis -332_03_final.jpg
+45;E:\浦思悦\2023.3代码/datasets/test\Amphora pediculus\Amphora pediculus-2833_02_final.jpg
+45;E:\浦思悦\2023.3代码/datasets/test\Amphora pediculus\Amphora pediculus_2.jpg
+46;E:\浦思悦\2023.3代码/datasets/test\Aneumastus carolinianus\Aneumastus carolinianus-25.3(10μm).jpg
+46;E:\浦思悦\2023.3代码/datasets/test\Aneumastus carolinianus\Aneumastus carolinianus_1.jpg
+47;E:\浦思悦\2023.3代码/datasets/test\Aneumastus minor\Aneumastus minor-Aneumastus_minor_5.jpg
+48;E:\浦思悦\2023.3代码/datasets/test\Aneumastus pseudotusculus\Aneumastus pseudotusculus-25.3(10μm).jpg
+49;E:\浦思悦\2023.3代码/datasets/test\Aneumastus rostratus\Aneumastus rostratus3.jpg
+50;E:\浦思悦\2023.3代码/datasets/test\Aneumastus tusculus\Aneumastus tusculus-6.jpg
+51;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis capitata\Anomoeoneis capitata-5-type.jpg
+51;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis capitata\Anomoeoneis capitata-6-type.jpg
+52;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis costata\Aneumastus costata-4_412002.jpg
+53;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis fogedii\Aneumastus fogedii -7.jpg
+54;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis monoensis\Aneumastus monoensis-3-186002-3.jpg
+54;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis monoensis\Aneumastus monoensis-4-141901-2.jpg
+55;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis sculpta\Aneumastus sculpta-6.jpg
+55;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis sculpta\Aneumastus sculpta-7.jpg
+56;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis sphaerophora\Anomoeoneis sphaerophora-4-251001.jpg
+56;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis sphaerophora\Anomoeoneis sphaerophora-7-082201.jpg
+57;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis sphaerophora  f. rostrata\Anomoeoneis sphaerophora  f. rostrata6.jpg
+57;E:\浦思悦\2023.3代码/datasets/test\Anomoeoneis sphaerophora  f. rostrata\Anomoeoneis sphaerophora  f. rostrata_3.jpg
+58;E:\浦思悦\2023.3代码/datasets/test\Asterionella A. ralfsii var. americana\Asterionella A. ralfsii var. americana_3.jpg
+59;E:\浦思悦\2023.3代码/datasets/test\Asterionella formosa\Asterionella formosa-5.jpg
+59;E:\浦思悦\2023.3代码/datasets/test\Asterionella formosa\Asterionella formosa-6.jpg
+60;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira alpigena\Aulacoseira alpigena-25.2).jpg
+60;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira alpigena\Aulacoseira alpigena-25.3(1μm).jpg
+60;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira alpigena\Aulacoseira alpigena-25.4(1μm).jpg
+61;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira ambigua\Aulacoseira ambigua-AUamb_GSN01072_1b.jpg
+61;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira ambigua\Aulacoseira ambigua-MarkEdlund_Aambigua2a.jpg
+61;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira ambigua\Aulacoseira ambigua_4.jpg
+62;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira canadensis\Aulacoseira canadensis7.jpg
+62;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira canadensis\Aulacoseira canadensis_5.jpg
+63;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira crassipunctata\Aulacoseira crassipunctata-NJ000195_1a.jpg
+63;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira crassipunctata\Aulacoseira crassipunctata_2.jpg
+64;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira granulata\Aulacoseira granulata-GC62434_AUgran4b_1.jpg
+64;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira granulata\Aulacoseira granulata-GS113589_08.jpg
+64;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira granulata\Aulacoseira granulata_4.jpg
+65;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira granulata var. angustissima\Aulacoseira granulata var. angustissima7.jpg
+65;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira granulata var. angustissima\Aulacoseira granulata var. angustissima_3.jpg
+66;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira herzogii\Aulacoseira herzogii-AUherz_GC105982a_6a.jpg
+66;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira herzogii\Aulacoseira herzogii-AUherz_GC105982a_7a.jpg
+66;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira herzogii\Aulacoseira herzogii-AUherz_GC105982a_9a.jpg
+67;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira humilis\Aulacoseira humilis-GC113175a_AUhum_2a.jpg
+67;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira humilis\Aulacoseira humilis_1.jpg
+67;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira humilis\Aulacoseira humilis_4.jpg
+68;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira islandica\Aulacoseira islandica-5.jpg
+68;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira islandica\Aulacoseira islandica-6.jpg
+69;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira italica\Aulacoseira italica-GSL00897_1a.jpg
+69;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira italica\Aulacoseira italica-mt1233_04.jpg
+69;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira italica\Aulacoseira italica_4.jpg
+70;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira lirata\Aulacoseira lirata-WACA22_AUlir2b.jpg
+70;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira lirata\Aulacoseira lirata-WACA22_AUlir3.jpg
+70;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira lirata\Aulacoseira lirata2.jpg
+71;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira muzzanensis\Aulacoseira muzzanensis-GS113589_2b.jpg
+71;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira muzzanensis\Aulacoseira muzzanensis-GS113589_6.jpg
+71;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira muzzanensis\Aulacoseira muzzanensis-GS113589_8.jpg
+72;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira nivalis\Aulacoseira nivalis-MO000292_7a.jpg
+72;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira nivalis\Aulacoseira nivalis-MO000292_8b.jpg
+72;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira nivalis\Aulacoseira nivalis_4.jpg
+73;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira nivaloides\Aulacoseira  nivaloides-MT1245A_AUnivaloides17a.jpg
+73;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira nivaloides\Aulacoseira  nivaloides-MT1245A_Aunivaloides5.jpg
+73;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira nivaloides\Aulacoseira nivaloides_6.jpg
+74;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira nygaardii\Aulacoseira nygaardii6.jpg
+74;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira nygaardii\Aulacoseira nygaardii_4.jpg
+75;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira pusilla\Aulacoseira pusilla-GS020101_012.jpg
+75;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira pusilla\Aulacoseira pusilla_5.jpg
+76;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira subarctica\Aulacoseira subarctica7.jpg
+76;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira subarctica\Aulacoseira subarctica_3.jpg
+76;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira subarctica\Aulacoseira subarctica_7.jpg
+77;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira tenella\Aulacoseira tenella-GSN97387_3a.jpg
+77;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira tenella\Aulacoseira tenella-GSN97387_3b.jpg
+77;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira tenella\Aulacoseira tenella-GSN97387_5a.jpg
+78;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira valida\Aulacoseira valida6.jpg
+78;E:\浦思悦\2023.3代码/datasets/test\Aulacoseira valida\Aulacoseira valida_2.jpg
+79;E:\浦思悦\2023.3代码/datasets/test\Bacilaria paxillifer\Bacillaria paxillifera4.jpg
+79;E:\浦思悦\2023.3代码/datasets/test\Bacilaria paxillifer\Bacillaria paxillifera5.jpg
+80;E:\浦思悦\2023.3代码/datasets/test\Biremis circumtexta\Biremis circumtexta-MO000191_6.jpg
+80;E:\浦思悦\2023.3代码/datasets/test\Biremis circumtexta\Biremis circumtexta-MO000191_7.jpg
+81;E:\浦思悦\2023.3代码/datasets/test\Biremis undulata\Biremis undulata -603_30.2um_CAS_Biremis_undulata2.jpg
+82;E:\浦思悦\2023.3代码/datasets/test\Boreozonacola hustedtii\Boreozonacola  hustedtii-Bhustedtii3.jpg
+83;E:\浦思悦\2023.3代码/datasets/test\Boreozonacola olympica\Boreozonacola olympica-Bolympica5.jpg
+84;E:\浦思悦\2023.3代码/datasets/test\Brachysira arctoborealis\Brachysira arctoborealis-6.jpg
+85;E:\浦思悦\2023.3代码/datasets/test\Brachysira brebissonii\Brachysira brebissonii 6.1(5μm).png
+85;E:\浦思悦\2023.3代码/datasets/test\Brachysira brebissonii\Brachysira brebissonii 6.2(1μm).png
+85;E:\浦思悦\2023.3代码/datasets/test\Brachysira brebissonii\Brachysira brebissonii 6.3(1μm).png
+86;E:\浦思悦\2023.3代码/datasets/test\Brachysira follis\Brachysira follis-ME10011_B_101117_219.jpg
+87;E:\浦思悦\2023.3代码/datasets/test\Brachysira hannae\Brachysira hannae-CANA_LM_78274-013_NA.jpg
+88;E:\浦思悦\2023.3代码/datasets/test\Brachysira microcephala\Brachysira microcephala-NCPA_0042-6-cropped.jpg
+88;E:\浦思悦\2023.3代码/datasets/test\Brachysira microcephala\Brachysira microcephala-NCPA_0042-8-cropped.jpg
+89;E:\浦思悦\2023.3代码/datasets/test\Brachysira neoacuta\Brachysira neoacuta-CANA_LM_78274-007_NA.jpg
+89;E:\浦思悦\2023.3代码/datasets/test\Brachysira neoacuta\Brachysira neoacuta-CANA_LM_78274-014_NA.jpg
+89;E:\浦思悦\2023.3代码/datasets/test\Brachysira neoacuta\Brachysira neoacuta-CANA_LM_78274-016_NA.jpg
+90;E:\浦思悦\2023.3代码/datasets/test\Brachysira ocalanensis\Brachysira ocalanensis-Brachysira_micro_morph1.jpg
+90;E:\浦思悦\2023.3代码/datasets/test\Brachysira ocalanensis\Brachysira ocalanensis-morph1_4.jpg
+91;E:\浦思悦\2023.3代码/datasets/test\Brachysira serians\Brachysira serians-CANA_LM_78270-010_NA.jpg
+91;E:\浦思悦\2023.3代码/datasets/test\Brachysira serians\Brachysira serians_1.jpg
+92;E:\浦思悦\2023.3代码/datasets/test\Brachysira styriaca\Brachysira styriaca-styriaca4.jpg
+92;E:\浦思悦\2023.3代码/datasets/test\Brachysira styriaca\Brachysira styriaca-styriaca6.jpg
+93;E:\浦思悦\2023.3代码/datasets/test\Brachysira subirawanae\Brachysira subirawanae 6.7（1μm).png
+93;E:\浦思悦\2023.3代码/datasets/test\Brachysira subirawanae\Brachysira subirawanae_3.jpg
+94;E:\浦思悦\2023.3代码/datasets/test\Brachysira subtilis\Brachysira subtilis-GC64398_55a.jpg
+94;E:\浦思悦\2023.3代码/datasets/test\Brachysira subtilis\Brachysira subtilis-_38_cl.jpg
+95;E:\浦思悦\2023.3代码/datasets/test\Brachysira vitrea\Brachysira vitrea-5.jpg
+95;E:\浦思悦\2023.3代码/datasets/test\Brachysira vitrea\Brachysira vitrea-_6.jpg
+96;E:\浦思悦\2023.3代码/datasets/test\Brachysira zellensis\Brachysira zellensis-5.jpg
+97;E:\浦思悦\2023.3代码/datasets/test\Brebissonia lanceolata\Brebissonia lanceolata-_dup2.jpg
+98;E:\浦思悦\2023.3代码/datasets/test\Caloneis amphisbaena\Caloneis amphisbaena-ILL2014_037_7.jpg
+99;E:\浦思悦\2023.3代码/datasets/test\Caloneis bacillum\Caloneis bacillum-25.4(10μm).jpg
+100;E:\浦思悦\2023.3代码/datasets/test\Caloneis fusus\Caloneis fusus6.jpg
+100;E:\浦思悦\2023.3代码/datasets/test\Caloneis fusus\Caloneis fusus7.jpg
+101;E:\浦思悦\2023.3代码/datasets/test\Caloneis lewisii\Caloneis lewisii7.jpg
+101;E:\浦思悦\2023.3代码/datasets/test\Caloneis lewisii\Caloneis lewisii_6.jpg
+102;E:\浦思悦\2023.3代码/datasets/test\Caloneis silicula\Caloneis silicula-_004.jpg
+103;E:\浦思悦\2023.3代码/datasets/test\Campylodiscus hibernicus\Campylodiscus hibernicus-4.jpg
+103;E:\浦思悦\2023.3代码/datasets/test\Campylodiscus hibernicus\Campylodiscus hibernicus-5.jpg
+103;E:\浦思悦\2023.3代码/datasets/test\Campylodiscus hibernicus\Campylodiscus hibernicus-7.jpg
+104;E:\浦思悦\2023.3代码/datasets/test\Capartogramma crucicula\Capartogramma crucicula9.jpg
+104;E:\浦思悦\2023.3代码/datasets/test\Capartogramma crucicula\Capartogramma crucicula_3.jpg
+105;E:\浦思悦\2023.3代码/datasets/test\Cavinula cocconeiformis\Cavinula cocconeiformis-sl57f.jpg
+105;E:\浦思悦\2023.3代码/datasets/test\Cavinula cocconeiformis\Cavinula cocconeiformis_3.jpg
+106;E:\浦思悦\2023.3代码/datasets/test\Cavinula davisiae\Cavinula davisiae-Cavdavis6.jpg
+106;E:\浦思悦\2023.3代码/datasets/test\Cavinula davisiae\Cavinula davisiae-Cavdavis7.jpg
+107;E:\浦思悦\2023.3代码/datasets/test\Cavinula jaernefeltii\Cavinula-jaernefeltii-NYHP001_A_121417_05_c.jpg
+107;E:\浦思悦\2023.3代码/datasets/test\Cavinula jaernefeltii\Cavinula-jaernefeltii-VT10003_V2_A_011018_10_c.jpg
+108;E:\浦思悦\2023.3代码/datasets/test\Cavinula lapidosa\Cavinula lapidosa5.jpg
+109;E:\浦思悦\2023.3代码/datasets/test\Cavinula maculata\Cavinula maculata-GC103280a_CA5_ed.jpg
+109;E:\浦思悦\2023.3代码/datasets/test\Cavinula maculata\Cavinula maculata-GC103280a_CA6_ed.jpg
+110;E:\浦思悦\2023.3代码/datasets/test\Cavinula pseudoscutiformis\Cavinula pseudoscutiformis-C_pseudoscutiformis4.jpg
+110;E:\浦思悦\2023.3代码/datasets/test\Cavinula pseudoscutiformis\Cavinula pseudoscutiformis-C_pseudoscutiformis5.jpg
+111;E:\浦思悦\2023.3代码/datasets/test\Cavinula pusio\Cavinula pusio-Cavpusio6.jpg
+111;E:\浦思悦\2023.3代码/datasets/test\Cavinula pusio\Cavinula pusio-Cavpusio7.jpg
+112;E:\浦思悦\2023.3代码/datasets/test\Cavinula scutelloides\Cavinula scutelloides-GC8526_5.jpg
+113;E:\浦思悦\2023.3代码/datasets/test\Cavinula scutiformis\Cavinula scutiformis-Cavscutiformis6.jpg
+113;E:\浦思悦\2023.3代码/datasets/test\Cavinula scutiformis\Cavinula scutiformis-Cavscutiformis7.jpg
+114;E:\浦思悦\2023.3代码/datasets/test\Cavinula variostriata\Cavinula-variostriata-RI006_09202017__67_c.jpg
+115;E:\浦思悦\2023.3代码/datasets/test\Cavinula vincentii\Cavinula vincentii-PBH-LM-CANA74863-041c.jpg
+115;E:\浦思悦\2023.3代码/datasets/test\Cavinula vincentii\Cavinula vincentii_3.jpg
+116;E:\浦思悦\2023.3代码/datasets/test\Chaetoceros lauderi\Chaetoceros-lauderi-LM4.jpg
+116;E:\浦思悦\2023.3代码/datasets/test\Chaetoceros lauderi\Chaetoceros-lauderi-LM5.jpg
+116;E:\浦思悦\2023.3代码/datasets/test\Chaetoceros lauderi\Chaetoceros-lauderi_ANSP_GCM5770_02.jpg
+117;E:\浦思悦\2023.3代码/datasets/test\Chaetoceros muelleri\Chaetoceros muelleri -CHelmorei_MBE504_576_19.5.jpg
+117;E:\浦思悦\2023.3代码/datasets/test\Chaetoceros muelleri\Chaetoceros muelleri -CHelmorei__ILL2006-56_325_10.9.jpg
+118;E:\浦思悦\2023.3代码/datasets/test\Chamaepinnularia hassiaca\Chamaepinnularia hassiaca5.jpg
+119;E:\浦思悦\2023.3代码/datasets/test\Chamaepinnularia mediocris\Chamaepinnularia mediocris-C_mediocris_113003b_101x12.jpg
+119;E:\浦思悦\2023.3代码/datasets/test\Chamaepinnularia mediocris\Chamaepinnularia mediocris-C_mediocris_114819b_96x12.jpg
+120;E:\浦思悦\2023.3代码/datasets/test\Chamaepinnularia soehrensis\Chamaepinnularia soehrensis6.jpg
+121;E:\浦思悦\2023.3代码/datasets/test\Chamaepinnularia witkowskii\Chamaepinnularia witkowskii-ChamWitkowskii_LittleElmore_12t_2_2021-02-09-200224.jpg
+121;E:\浦思悦\2023.3代码/datasets/test\Chamaepinnularia witkowskii\Chamaepinnularia witkowskii_1.jpg
+122;E:\浦思悦\2023.3代码/datasets/test\Cocconeis cascadensis\Cocconeis cascadensis_3.jpg
+122;E:\浦思悦\2023.3代码/datasets/test\Cocconeis cascadensis\Cocconeis-cascadensis-LM07.jpg
+122;E:\浦思悦\2023.3代码/datasets/test\Cocconeis cascadensis\Cocconeis-cascadensis-LM08.jpg
+123;E:\浦思悦\2023.3代码/datasets/test\Cocconeis fluviatilis\Cocconeis fluviatilis-GSN23403_1_ed.jpg
+123;E:\浦思悦\2023.3代码/datasets/test\Cocconeis fluviatilis\Cocconeis fluviatilis-GSN23403_2_ed.jpg
+124;E:\浦思悦\2023.3代码/datasets/test\Cocconeis grovei\Cocconeis_grovei_Terrebonne_RV3_RK.jpg
+125;E:\浦思悦\2023.3代码/datasets/test\Cocconeis klamathensis\Cocconeis klamathensis-klamath_003.jpg
+125;E:\浦思悦\2023.3代码/datasets/test\Cocconeis klamathensis\Cocconeis klamathensis-klamath_010.jpg
+125;E:\浦思悦\2023.3代码/datasets/test\Cocconeis klamathensis\Cocconeis klamathensis_3.jpg
+126;E:\浦思悦\2023.3代码/datasets/test\Cocconeis neodiminuta\Cocconeis neodiminuta7.jpg
+126;E:\浦思悦\2023.3代码/datasets/test\Cocconeis neodiminuta\Cocconeis neodiminuta_1.jpg
+126;E:\浦思悦\2023.3代码/datasets/test\Cocconeis neodiminuta\Cocconeis neodiminuta_5.jpg
+127;E:\浦思悦\2023.3代码/datasets/test\Cocconeis pediculus\Cocconeis pediculus -25.4(10μm).jpg
+127;E:\浦思悦\2023.3代码/datasets/test\Cocconeis pediculus\Cocconeis pediculus -Cocconeis_pediculus_SEM_1.jpg
+127;E:\浦思悦\2023.3代码/datasets/test\Cocconeis pediculus\Cocconeis pediculus 11.1(10μm).png
+128;E:\浦思悦\2023.3代码/datasets/test\Cocconeis placentula\Cocconeis placentula 6.7(1μm).png
+128;E:\浦思悦\2023.3代码/datasets/test\Cocconeis placentula\Cocconeis placentula_1.jpg
+128;E:\浦思悦\2023.3代码/datasets/test\Cocconeis placentula\Cocconeis placentula_6.jpg
+129;E:\浦思悦\2023.3代码/datasets/test\Cocconeis placentula sensu lato\Cocconeis placentula sensu lato  -GC109658_MO000285_CCplac1_ed.jpg
+129;E:\浦思悦\2023.3代码/datasets/test\Cocconeis placentula sensu lato\Cocconeis placentula sensu lato  -GC109658_MO000285_CCplac3_ed.jpg
+129;E:\浦思悦\2023.3代码/datasets/test\Cocconeis placentula sensu lato\Cocconeis placentula sensu lato_3.jpg
+130;E:\浦思悦\2023.3代码/datasets/test\Cocconeis pseudothumensis\Cocconeis pseudothumensis-NLS00444_7.jpg
+130;E:\浦思悦\2023.3代码/datasets/test\Cocconeis pseudothumensis\Cocconeis pseudothumensis-NLS00444_9b_(1).jpg
+131;E:\浦思悦\2023.3代码/datasets/test\Cocconeis rugosa\Cocconeis rugosa_1_horizontal.jpg
+131;E:\浦思悦\2023.3代码/datasets/test\Cocconeis rugosa\Cocconeis rugosa_2_horizontal.jpg
+131;E:\浦思悦\2023.3代码/datasets/test\Cocconeis rugosa\Cocconeis rugosa_2_vertical.jpg
+132;E:\浦思悦\2023.3代码/datasets/test\Cosmioneis citriformis\Cosmioneis citriformisccit4.jpg
+132;E:\浦思悦\2023.3代码/datasets/test\Cosmioneis citriformis\Cosmioneis citriformisCcit7.jpg
+133;E:\浦思悦\2023.3代码/datasets/test\Cosmioneis hawaiiensis\Cosmioneis hawaiiensis_3.jpg
+134;E:\浦思悦\2023.3代码/datasets/test\Cosmioneis reimeri\Cosmioneis reimeri-creimeria33.jpg
+134;E:\浦思悦\2023.3代码/datasets/test\Cosmioneis reimeri\Cosmioneis reimeri-Crimer.jpg
+135;E:\浦思悦\2023.3代码/datasets/test\Craticula accomoda\Craticula accomoda-NCPA_0247_046.jpeg
+135;E:\浦思悦\2023.3代码/datasets/test\Craticula accomoda\Craticula accomoda-NCPA_0247_06.jpeg
+136;E:\浦思悦\2023.3代码/datasets/test\Craticula accomodiformis\Craticula accomodiformis-CRaccomodiformis-4.jpg
+136;E:\浦思悦\2023.3代码/datasets/test\Craticula accomodiformis\Craticula accomodiformis-CRaccomodiformis-7.jpg
+137;E:\浦思悦\2023.3代码/datasets/test\Craticula acidoclinata\Craticula acidoclinata-Cratacid5.jpg
+137;E:\浦思悦\2023.3代码/datasets/test\Craticula acidoclinata\Craticula acidoclinata-Cratacid7.jpg
+138;E:\浦思悦\2023.3代码/datasets/test\Craticula ambigua\Craticula_ambigua_2811_5-7-15_l2.jpg
+139;E:\浦思悦\2023.3代码/datasets/test\Craticula buderi\Craticula buderi -Cratbuderi4.jpg
+140;E:\浦思悦\2023.3代码/datasets/test\Craticula citrus\Craticula citrus6.jpg
+140;E:\浦思悦\2023.3代码/datasets/test\Craticula citrus\Craticula citrus7.jpg
+141;E:\浦思悦\2023.3代码/datasets/test\Craticula coloradensis\Craticula coloradensis -6.Crat_obtusa_6_herib_123.7.jpg
+141;E:\浦思悦\2023.3代码/datasets/test\Craticula coloradensis\Craticula coloradensis -Radford_mix_025.jpg
+141;E:\浦思悦\2023.3代码/datasets/test\Craticula coloradensis\Craticula coloradensis_5.jpg
+142;E:\浦思悦\2023.3代码/datasets/test\Craticula cuspidata\Craticula cuspidata_1.jpg
+142;E:\浦思悦\2023.3代码/datasets/test\Craticula cuspidata\Craticula cuspidata_7.jpg
+143;E:\浦思悦\2023.3代码/datasets/test\Craticula halophila\Craticula halophila -Crathalophila5.jpg
+143;E:\浦思悦\2023.3代码/datasets/test\Craticula halophila\Craticula halophila -Crathalophila7.jpg
+144;E:\浦思悦\2023.3代码/datasets/test\Craticula johnstoniae\Craticula johnstoniae-Cratjohn4.jpg
+145;E:\浦思悦\2023.3代码/datasets/test\Craticula molestiformis\Craticula molestiformis -pic7_102984b_mm.jpg
+145;E:\浦思悦\2023.3代码/datasets/test\Craticula molestiformis\Craticula molestiformis -pic8_102988a_mm.jpg
+146;E:\浦思悦\2023.3代码/datasets/test\Craticula pampeana\Craticula pampeana_1.jpg
+147;E:\浦思悦\2023.3代码/datasets/test\Craticula riparia\Craticula riparia-Crat_riparia_NCPA0229_40_cl.jpeg
+147;E:\浦思悦\2023.3代码/datasets/test\Craticula riparia\Craticula riparia_1.jpg
+148;E:\浦思悦\2023.3代码/datasets/test\Craticula sardiniana\Craticula sardiniana-Cratsard6.jpg
+149;E:\浦思悦\2023.3代码/datasets/test\Craticula subminuscula\Craticula subminuscula-46562_LM5.jpg
+149;E:\浦思悦\2023.3代码/datasets/test\Craticula subminuscula\Craticula subminuscula-46562_LM6.jpg
+150;E:\浦思悦\2023.3代码/datasets/test\Ctenophora pulchella\Ctenophora pulchella-JKJ_Ctenophora_696x46modified.jpg
+151;E:\浦思悦\2023.3代码/datasets/test\Cyclostephanos dubius\Cyclostephanos dubius-25.4(10μm).jpg
+151;E:\浦思悦\2023.3代码/datasets/test\Cyclostephanos dubius\Cyclostephanos dubius-25.5(10μm).jpg
+152;E:\浦思悦\2023.3代码/datasets/test\Cyclostephanos invisitatus\Cyclostephanos invisitatus -CYinvistatus-2.jpg
+153;E:\浦思悦\2023.3代码/datasets/test\Cyclostephanos tholiformis\Cyclostephanos tholiformis-MISSRCYtholiformis.jpg
+153;E:\浦思悦\2023.3代码/datasets/test\Cyclostephanos tholiformis\Cyclostephanos tholiformis_9.jpg
+154;E:\浦思悦\2023.3代码/datasets/test\Cyclotella atomus\Cyclotella atomus-25.3(10μm).jpg
+154;E:\浦思悦\2023.3代码/datasets/test\Cyclotella atomus\Cyclotella atomus-25.4(10μm).jpg
+155;E:\浦思悦\2023.3代码/datasets/test\Cyclotella distinguenda\Cyclotella distinguenda-_Cdis29.2_.jpg
+155;E:\浦思悦\2023.3代码/datasets/test\Cyclotella distinguenda\Cyclotella distinguenda-_Cdis9.6_.jpg
+156;E:\浦思悦\2023.3代码/datasets/test\Cyclotella gamma\Cyclotella_gamma_5.jpg
+157;E:\浦思悦\2023.3代码/datasets/test\Cyclotella meneghiniana\Cyclotella meneghiniana-cy_meneghiniana_15596a_09042015_24_cl.jpeg
+157;E:\浦思悦\2023.3代码/datasets/test\Cyclotella meneghiniana\Cyclotella meneghiniana-cy_meneghiniana_15615a_08242015_11_cl.jpeg
+157;E:\浦思悦\2023.3代码/datasets/test\Cyclotella meneghiniana\Cyclotella meneghiniana-cy_meneghiniana_15640a_10132015_08_cl.jpeg
+158;E:\浦思悦\2023.3代码/datasets/test\Cyclotella quillensis\Cyclotella quillensis -CYquill_MBE504_50_7_1500.jpg
+158;E:\浦思悦\2023.3代码/datasets/test\Cyclotella quillensis\Cyclotella quillensis -CYquill_MBE504_53_0_1583.jpg
+159;E:\浦思悦\2023.3代码/datasets/test\Cylindrotheca fusiformis\Cylindrotheca fusiformis_1.jpg
+160;E:\浦思悦\2023.3代码/datasets/test\Cymatopleura internationale\Cymatopleura internationale6.jpg
+160;E:\浦思悦\2023.3代码/datasets/test\Cymatopleura internationale\Cymatopleura internationale7.jpg
+161;E:\浦思悦\2023.3代码/datasets/test\Cymbella affiniformis\Cymbella affiniformis7.jpg
+161;E:\浦思悦\2023.3代码/datasets/test\Cymbella affiniformis\Cymbella affiniformis8.jpg
+162;E:\浦思悦\2023.3代码/datasets/test\Cymbella affinis\Cymbella affinis -GS009123_GC100325_7.jpg
+162;E:\浦思悦\2023.3代码/datasets/test\Cymbella affinis\Cymbella affinis -GS009123_GC100325_8.jpg
+163;E:\浦思悦\2023.3代码/datasets/test\Cymbella alpestris\Cymbella alpestris-Cymbella_alpestris_2_431401.jpg
+163;E:\浦思悦\2023.3代码/datasets/test\Cymbella alpestris\Cymbella alpestris-Cymbella_alpestris_5_431401.jpg
+164;E:\浦思悦\2023.3代码/datasets/test\Cymbella amplificata\Cymbella amplificata-Cymbeamplificata4.jpg
+164;E:\浦思悦\2023.3代码/datasets/test\Cymbella amplificata\Cymbella amplificata-Cymbeamplificata7.jpg
+165;E:\浦思悦\2023.3代码/datasets/test\Cymbella aspera\Cymbella aspera-Cymbella_aspera1.jpg
+165;E:\浦思悦\2023.3代码/datasets/test\Cymbella aspera\Cymbella aspera-Cymbella_aspera4.jpg
+166;E:\浦思悦\2023.3代码/datasets/test\Cymbella blinnii\Cymbella_blinnii4.jpg
+166;E:\浦思悦\2023.3代码/datasets/test\Cymbella blinnii\Cymbella_blinnii5.jpg
+167;E:\浦思悦\2023.3代码/datasets/test\Cymbella compacta\Cymbella_compacta5.jpg
+167;E:\浦思悦\2023.3代码/datasets/test\Cymbella compacta\Cymbella_compacta7.jpg
+168;E:\浦思悦\2023.3代码/datasets/test\Cymbella cosleyi\Cymbella cosleyi-Cymbellacosleyi5.jpg
+168;E:\浦思悦\2023.3代码/datasets/test\Cymbella cosleyi\Cymbella cosleyi-Cymbellacosleyi6.jpg
+168;E:\浦思悦\2023.3代码/datasets/test\Cymbella cosleyi\Cymbella cosleyi_3.jpg
+169;E:\浦思悦\2023.3代码/datasets/test\Cymbella cymbiformis\Cymbella cymbiformis-23.PNG
+169;E:\浦思悦\2023.3代码/datasets/test\Cymbella cymbiformis\Cymbella_cymbiformis_439301_1.jpg
+170;E:\浦思悦\2023.3代码/datasets/test\Cymbella designata\Cymbella designata-Cymbopleura_citriformis_5.jpg
+171;E:\浦思悦\2023.3代码/datasets/test\Cymbella excisa\Cymbella excisa 6.7(2μm).png
+171;E:\浦思悦\2023.3代码/datasets/test\Cymbella excisa\Cymbella excisa 6.8(2μm).png
+172;E:\浦思悦\2023.3代码/datasets/test\Cymbella excisiformis\Cymbella excisiformis-NCPA0225_CYexcisiform_6.jpg
+172;E:\浦思悦\2023.3代码/datasets/test\Cymbella excisiformis\Cymbella excisiformis-NCPA0225_CYexcisiform_7.jpg
+173;E:\浦思悦\2023.3代码/datasets/test\Cymbella fontinalis\Cymbella-fontinalis-4923-5-holotype_rev.jpg
+173;E:\浦思悦\2023.3代码/datasets/test\Cymbella fontinalis\Cymbella-fontinalis-4923-7rev.jpg
+174;E:\浦思悦\2023.3代码/datasets/test\Cymbella hantzschiana\Cymbella_hantzschiana_5_336301.jpg
+174;E:\浦思悦\2023.3代码/datasets/test\Cymbella hantzschiana\Cymbella_hantzschiana_6_419501.jpg
+175;E:\浦思悦\2023.3代码/datasets/test\Cymbella hustedtii\Cymbella_hustedtii3.jpg
+175;E:\浦思悦\2023.3代码/datasets/test\Cymbella hustedtii\Cymbella_hustedtii5.jpg
+176;E:\浦思悦\2023.3代码/datasets/test\Cymbella janischii\Cymbella  janischii-25.5(10μm).jpg
+177;E:\浦思悦\2023.3代码/datasets/test\Cymbella laevis\Cymbella_laevis_453001_5.jpg
+177;E:\浦思悦\2023.3代码/datasets/test\Cymbella laevis\Cymbella_laevis_453001_7.jpg
+178;E:\浦思悦\2023.3代码/datasets/test\Cymbella lanceolata\Cymbella_lanceolata5.jpg
+179;E:\浦思悦\2023.3代码/datasets/test\Cymbella maggiana\Cymbella_maggiana_409801_4.jpg
+179;E:\浦思悦\2023.3代码/datasets/test\Cymbella maggiana\Cymbella_maggiana_409801_6.jpg
+180;E:\浦思悦\2023.3代码/datasets/test\Cymbella mexicana\Cymbella mexicana -9-Grove_Lake.jpg
+180;E:\浦思悦\2023.3代码/datasets/test\Cymbella mexicana\Cymbella mexicana -Yellowstone8_7-8cm.jpg
+181;E:\浦思悦\2023.3代码/datasets/test\Cymbella mexicana var. kamtschatica\Cymbella mexicana var. kamtschatica6.jpg
+181;E:\浦思悦\2023.3代码/datasets/test\Cymbella mexicana var. kamtschatica\Cymbella mexicana var. kamtschatica7.jpg
+182;E:\浦思悦\2023.3代码/datasets/test\Cymbella neocistula\Cymbella neocistula_2.jpg
+183;E:\浦思悦\2023.3代码/datasets/test\Cymbella neocistula var. islandica\Cymbella neocistula var. islandica6.jpg
+183;E:\浦思悦\2023.3代码/datasets/test\Cymbella neocistula var. islandica\Cymbella neocistula var. islandica7.jpg
+184;E:\浦思悦\2023.3代码/datasets/test\Cymbella neoleptoceros\Cymbella neoleptoceros -Cymbella_neoleptoceros7.jpg
+185;E:\浦思悦\2023.3代码/datasets/test\Cymbella parva\Cymbella_parva_404501_6.jpg
+185;E:\浦思悦\2023.3代码/datasets/test\Cymbella parva\Cymbella_parva_404501_7.jpg
+186;E:\浦思悦\2023.3代码/datasets/test\Cymbella perfossilis\Cymbella_perfossilis_4_274201.jpg
+186;E:\浦思悦\2023.3代码/datasets/test\Cymbella perfossilis\Cymbella_perfossilis_5_465801.jpg
+187;E:\浦思悦\2023.3代码/datasets/test\Cymbella proxima\Cymbella proxima -NCPA0317_CYprox_3copy.jpg
+187;E:\浦思悦\2023.3代码/datasets/test\Cymbella proxima\Cymbella proxima -NCPA0317_CYprox_4copy.jpg
+188;E:\浦思悦\2023.3代码/datasets/test\Cymbella proxima  f. gravida\Cymbella proxima  f. gravida6.jpg
+188;E:\浦思悦\2023.3代码/datasets/test\Cymbella proxima  f. gravida\Cymbella proxima  f. gravida7.jpg
+189;E:\浦思悦\2023.3代码/datasets/test\Cymbella rumrichae\Cymbella_rumrichae4.jpg
+189;E:\浦思悦\2023.3代码/datasets/test\Cymbella rumrichae\Cymbella_rumrichae6.jpg
+190;E:\浦思悦\2023.3代码/datasets/test\Cymbella stigmaphora\Cymbella_stigmaphora6.jpg
+190;E:\浦思悦\2023.3代码/datasets/test\Cymbella stigmaphora\Cymbella_stigmaphora7.jpg
+191;E:\浦思悦\2023.3代码/datasets/test\Cymbella subleptoceros\Cymbella_subleptoceros5.jpg
+191;E:\浦思悦\2023.3代码/datasets/test\Cymbella subleptoceros\Cymbella_subleptoceros6.jpg
+192;E:\浦思悦\2023.3代码/datasets/test\Cymbella subturgidula\Cymbella subturgidula -GS001343_CYsubturg_9_copy.jpg
+192;E:\浦思悦\2023.3代码/datasets/test\Cymbella subturgidula\Cymbella subturgidula_2.jpg
+192;E:\浦思悦\2023.3代码/datasets/test\Cymbella subturgidula\Cymbella subturgidula_3.jpg
+192;E:\浦思悦\2023.3代码/datasets/test\Cymbella subturgidula\Cymbella subturgidula_8.jpg
+193;E:\浦思悦\2023.3代码/datasets/test\Cymbella tropica\Cymbella tropica -GSN00414_GC105255_CYtrop6_copy.jpg
+193;E:\浦思悦\2023.3代码/datasets/test\Cymbella tropica\Cymbella tropica_2.jpg
+193;E:\浦思悦\2023.3代码/datasets/test\Cymbella tropica\Cymbella tropica_3.jpg
+194;E:\浦思悦\2023.3代码/datasets/test\Cymbella tumida\Cymbella tumida-GS011143_4.jpg
+194;E:\浦思悦\2023.3代码/datasets/test\Cymbella tumida\Cymbella tumida-GS011143_5.jpg
+194;E:\浦思悦\2023.3代码/datasets/test\Cymbella tumida\Cymbella tumida-GS011143_9.jpg
+194;E:\浦思悦\2023.3代码/datasets/test\Cymbella tumida\Cymbella tumida_5.jpg
+195;E:\浦思悦\2023.3代码/datasets/test\Cymbella turgidula\Cymbella turgidula -NRSA0519_GC112431b_7_copy.jpg
+195;E:\浦思悦\2023.3代码/datasets/test\Cymbella turgidula\Cymbella turgidula -NRSA0519_GC112431b_8_copy.jpg
+195;E:\浦思悦\2023.3代码/datasets/test\Cymbella turgidula\Cymbella turgidula-23  10.PNG
+196;E:\浦思悦\2023.3代码/datasets/test\Cymbella vulgata\Cymbella vulgata -Cymbella_vulgata6.jpg
+196;E:\浦思悦\2023.3代码/datasets/test\Cymbella vulgata\Cymbella vulgata_1.jpg
+197;E:\浦思悦\2023.3代码/datasets/test\Cymbellonitzschia diluviana\Cymbellonitzschia diluviana-cymbellonitzschia_004.jpg
+197;E:\浦思悦\2023.3代码/datasets/test\Cymbellonitzschia diluviana\Cymbellonitzschia diluviana.jpg
+197;E:\浦思悦\2023.3代码/datasets/test\Cymbellonitzschia diluviana\Cymbellonitzschia diluviana_4.jpg
+198;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura amphicephala\Cymbopleura_amphicephala_081301_6.jpg
+198;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura amphicephala\Cymbopleura_amphicephala_384201_3.jpg
+199;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura anglica\Cymbopleura anglica -Cymboanglica5.jpg
+199;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura anglica\Cymbopleura anglica -Cymboanglica6.jpg
+200;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura angustata\Cymbopleura angustata -Cymboangustata6.jpg
+201;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura apiculata\Cymbopleura apiculata -Cymboapiculata6.jpg
+202;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura austriaca\Cymbopleura austriaca -Cymbopleuraaustriaca4.jpg
+202;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura austriaca\Cymbopleura austriaca -Cymbopleuraaustriaca5.jpg
+203;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura crassipunctata\Cymbopleura crassipunctata -Cymbopleura austriaca -25.4(10μm).jpg
+204;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura edlundii\Cymbopleura edlundii_2.jpg
+204;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura edlundii\Cymbopleura edlundii_3.jpg
+205;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura elliptica\Cymbopleura elliptica -Cymbohybrid4.jpg
+205;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura elliptica\Cymbopleura elliptica -Cymbohybrid6.jpg
+206;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura florentina\Cymbopleura florentina-Cymbopleura_florentina_4.jpg
+207;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura fluminea\Cymbopleura fluminea -Cymbopleura_linearis_Bogan_3.jpg
+207;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura fluminea\Cymbopleura fluminea -Cymbopleura_linearis_Bogan_4.jpg
+208;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura frequens\Cymbopleura frequens -Cymbopleura_frequens_5_358701.jpg
+209;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura heinii\Cymbopleura heinii -Cymboheinii4.jpg
+209;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura heinii\Cymbopleura heinii -Cymboheinii5.jpg
+210;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura hybrida\Cymbopleura hybrida -Cymbopleura_hybrida_4.jpg
+210;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura hybrida\Cymbopleura hybrida -Cymbopleura_hybrida_6.jpg
+211;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura inaequalis\Cymbopleura inaequalis -Cymboinaequalis7-1.jpg
+211;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura inaequalis\Cymbopleura inaequalis-23 10.PNG
+212;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura incerta\Cymbopleura  incerta  -Cymboincerta6.jpg
+213;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura incertiformis\Cymbopleura incertiformis-Cymbopleura_incertiformis_7.jpg
+214;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura incertiformis var. laterostrata\Cymbopleura incertiformis var. laterostrata_3.jpg
+215;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura incertiformis var. linearis\Cymbopleura incertiformis var. linearis6.jpg
+216;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura lapponica\Cymbopleura lapponica -Cymbopleuralapponica4.jpg
+217;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura laszlorum\Cymbopleura laszlorum -Cymbopleura-laszlorum_MDC_689301_4.jpg
+218;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura lata\Cymbopleura lata-Cymbolata5.jpg
+218;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura lata\Cymbopleura lata-Cymbolata7.jpg
+219;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura maggieae\Cymbopleura maggieae -Cymbopleura_maggieae_5.jpg
+219;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura maggieae\Cymbopleura maggieae -Cymbopleura_maggieae_6.jpg
+220;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura metzeltinii\Cymbopleura metzeltinii -Cymbometzeltinii7_1.jpg
+221;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura naviculiformis\Cymbopleura naviculiformis-Cymbonavi2.jpg
+221;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura naviculiformis\Cymbopleura naviculiformis-Cymbonavi5.jpg
+222;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura oblongata\Cymbopleura oblongata -Cymbooblongata5.jpg
+223;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura perprocera\Cymbopleura perprocera -Cymbopleura_perprocera_5.jpg
+223;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura perprocera\Cymbopleura perprocera -Cymbopleura_perprocera_7.jpg
+224;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura rainierensis\Cymbopleura rainierensis-Cymberainierensis4.jpg
+224;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura rainierensis\Cymbopleura rainierensis-Cymberainierensis5.jpg
+224;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura rainierensis\Cymbopleura rainierensis-Cymberainierensis6.jpg
+225;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura rupicola\Cymbopleura rupicola -Cymborupicola_5.jpg
+226;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura stauroneiformis\Cymbopleura stauroneiformis -CymbopleuraStauroneiformis_GC63415_11.jpg
+226;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura stauroneiformis\Cymbopleura stauroneiformis -CymbopleuraStauroneiformis_GC63415_8.jpg
+227;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura subaequalis\Cymbopleura subaequalis-Cymbosubaequalis7.jpg
+228;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura subcuspidata\Cymbopleura subcuspidata -Cymbosubcusp5.jpg
+229;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura sublanceolata\Cymbopleura sublanceolata -Cymbosublance6_1.jpg
+229;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura sublanceolata\Cymbopleura sublanceolata -Cymbosublance7_1.jpg
+230;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura subrostrata\Cymbopleura subrostrata -Cymbosubrostrata4.jpg
+230;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura subrostrata\Cymbopleura subrostrata -Cymbosubrostrata6.jpg
+231;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura tundraphila\Cymbopleura tundraphila -Cymbopleura_tundraphila_5_683001.jpg
+232;E:\浦思悦\2023.3代码/datasets/test\Cymbopleura tynnii\Cymbopleura tynnii -Cymbopleura_tynnii_3.jpg
+233;E:\浦思悦\2023.3代码/datasets/test\Decussata placenta\Decussata placenta -decussata_005.jpg
+233;E:\浦思悦\2023.3代码/datasets/test\Decussata placenta\Decussata placenta -decussta_006.jpg
+234;E:\浦思悦\2023.3代码/datasets/test\Delicata alpestris\Delicata alpestris -Delicata_alpestris_5_076101.jpg
+234;E:\浦思悦\2023.3代码/datasets/test\Delicata alpestris\Delicata alpestris -Delicata_alpestris_6_076101.jpg
+235;E:\浦思悦\2023.3代码/datasets/test\Delicata canadensis\Delicata canadensis -Delicata_canadensis_3_683001.jpg
+235;E:\浦思悦\2023.3代码/datasets/test\Delicata canadensis\Delicata canadensis -Delicata_canadensis_4_683001.jpg
+236;E:\浦思悦\2023.3代码/datasets/test\Delicata delicatula\Delicata delicatula -Delicata_delicatula_4_147904.jpg
+236;E:\浦思悦\2023.3代码/datasets/test\Delicata delicatula\Delicata delicatula -Delicata_delicatula_5_147904.jpg
+237;E:\浦思悦\2023.3代码/datasets/test\Delicata montana\Delicata montana -Delicata_montana_3_290102.jpg
+237;E:\浦思悦\2023.3代码/datasets/test\Delicata montana\Delicata montana -Delicata_montana_5_290102.jpg
+237;E:\浦思悦\2023.3代码/datasets/test\Delicata montana\Delicata montana -Delicata_montana_6_290102.jpg
+238;E:\浦思悦\2023.3代码/datasets/test\Denticula creticola\Denticula creticola -GC52244a_16_cl.jpeg
+238;E:\浦思悦\2023.3代码/datasets/test\Denticula creticola\Denticula creticola -GC52244a_23_cl.jpeg
+239;E:\浦思悦\2023.3代码/datasets/test\Denticula subtilis\Denticula subtilis -BBDC0071_Denticula_subtilis3.jpg
+239;E:\浦思悦\2023.3代码/datasets/test\Denticula subtilis\Denticula subtilis -BBDC0072_Denticula_subtilis.jpg
+239;E:\浦思悦\2023.3代码/datasets/test\Denticula subtilis\Denticula subtilis -BBDC0072_Denticula_subtilis2.jpg
+240;E:\浦思悦\2023.3代码/datasets/test\Denticula tenuis\Denticula tenuis -denticula_tenuis_005.jpg
+240;E:\浦思悦\2023.3代码/datasets/test\Denticula tenuis\Denticula tenuis -denticula_tenuis_005b.jpg
+241;E:\浦思悦\2023.3代码/datasets/test\Diadesmis confervacea\Diadesmis confervacea -confervacea_003.jpg
+242;E:\浦思悦\2023.3代码/datasets/test\Diatoma ehrenbergii\Diatoma ehrenbergii -DIehrenbergii-6.jpg
+242;E:\浦思悦\2023.3代码/datasets/test\Diatoma ehrenbergii\Diatoma ehrenbergii -DIehrenbergii-9.jpg
+243;E:\浦思悦\2023.3代码/datasets/test\Diatoma moniliformis\Diatoma moniliformis -27008_LM4.jpg
+243;E:\浦思悦\2023.3代码/datasets/test\Diatoma moniliformis\Diatoma moniliformis_1.jpg
+244;E:\浦思悦\2023.3代码/datasets/test\Diatoma tenuis\Diatoma tenuis -NYON0016_4.jpg
+244;E:\浦思悦\2023.3代码/datasets/test\Diatoma tenuis\Diatoma tenuis -NYON0016_5.jpg
+244;E:\浦思悦\2023.3代码/datasets/test\Diatoma tenuis\Diatoma tenuis_3.jpg
+245;E:\浦思悦\2023.3代码/datasets/test\Diatoma vulgaris\Diatoma vulgaris -27013_LM4.jpg
+245;E:\浦思悦\2023.3代码/datasets/test\Diatoma vulgaris\Diatoma vulgaris -27013_LM5.jpg
+246;E:\浦思悦\2023.3代码/datasets/test\Diatomella balfouriana\Diatomella balfouriana -diatomella_005.jpg
+246;E:\浦思悦\2023.3代码/datasets/test\Diatomella balfouriana\Diatomella balfouriana -diatomella_007.jpg
+247;E:\浦思悦\2023.3代码/datasets/test\Didymosphenia geminata\Didymosphenia geminata-20 10μm.PNG
+247;E:\浦思悦\2023.3代码/datasets/test\Didymosphenia geminata\Didymosphenia geminata-7 size bar=25μm.PNG
+247;E:\浦思悦\2023.3代码/datasets/test\Didymosphenia geminata\Didymosphenia geminata_5.jpg
+248;E:\浦思悦\2023.3代码/datasets/test\Diploneis abscondita\Diploneis abscondita-Diploneis-abscondita-LM5.jpg
+248;E:\浦思悦\2023.3代码/datasets/test\Diploneis abscondita\Diploneis abscondita-Diploneis-abscondita-LM7.jpg
+249;E:\浦思悦\2023.3代码/datasets/test\Diploneis boldtiana\Diploneis boldtiana -Diploneis-boldtiana-LM5.jpg
+250;E:\浦思悦\2023.3代码/datasets/test\Diploneis calcicolafrequens\Diploneis calcicolafrequens -NEON_06_cl.jpg
+250;E:\浦思悦\2023.3代码/datasets/test\Diploneis calcicolafrequens\Diploneis calcicolafrequens -NEON_08_cl.jpg
+251;E:\浦思悦\2023.3代码/datasets/test\Diploneis calcilacustris\Diploneis calcilacustris -Diploneis-calcilacustris-LM5.jpg
+251;E:\浦思悦\2023.3代码/datasets/test\Diploneis calcilacustris\Diploneis calcilacustris -VT10090_A_110917_14.tif.jpg
+252;E:\浦思悦\2023.3代码/datasets/test\Diploneis elliptica\Diploneis elliptica -DIelliptica-5.jpg
+253;E:\浦思悦\2023.3代码/datasets/test\Diploneis finnica\Diploneis finnica -Dfinnica2.jpg
+253;E:\浦思悦\2023.3代码/datasets/test\Diploneis finnica\Diploneis finnica -Dfinnica5.jpg
+254;E:\浦思悦\2023.3代码/datasets/test\Diploneis krammeri\Diploneis krammeri_1.jpg
+254;E:\浦思悦\2023.3代码/datasets/test\Diploneis krammeri\Diploneis krammeri_2.jpg
+255;E:\浦思悦\2023.3代码/datasets/test\Diploneis mollenhaueri\Diploneis mollenhaueri_1.jpg
+255;E:\浦思悦\2023.3代码/datasets/test\Diploneis mollenhaueri\Diploneis mollenhaueri_2.jpg
+256;E:\浦思悦\2023.3代码/datasets/test\Diploneis ovalis\Diploneis ovalis 13.2(2μm).png
+256;E:\浦思悦\2023.3代码/datasets/test\Diploneis ovalis\Diploneis ovalis_3.jpg
+256;E:\浦思悦\2023.3代码/datasets/test\Diploneis ovalis\Diploneis ovalis_4.jpg
+257;E:\浦思悦\2023.3代码/datasets/test\Diploneis parma\Diploneis parma_1.jpg
+258;E:\浦思悦\2023.3代码/datasets/test\Diploneis potapovae\Diploneis potapovae -Diploneis-potapovae-LM7.jpg
+259;E:\浦思悦\2023.3代码/datasets/test\Diploneis puella\Diploneis puella -Diploneis-puella-LM3.jpg
+259;E:\浦思悦\2023.3代码/datasets/test\Diploneis puella\Diploneis puella -Diploneispuella17172_120318_06.tif.jpg
+260;E:\浦思悦\2023.3代码/datasets/test\Diploneis puellafallax\Diploneis puellafallax_2.jpg
+261;E:\浦思悦\2023.3代码/datasets/test\Diploneis submarginestriata\Diploneis submarginestriata_2.jpg
+262;E:\浦思悦\2023.3代码/datasets/test\Diploneis texana\Diploneis texana -Diploneis-texana-LM8.jpg
+262;E:\浦思悦\2023.3代码/datasets/test\Diploneis texana\Diploneis texana -Diploneis-texana-LM9.jpg
+263;E:\浦思悦\2023.3代码/datasets/test\Diprora haenaensis\Diprora haenaensis_4.jpg
+264;E:\浦思悦\2023.3代码/datasets/test\Discostella asterocostata\Discostella asterocostata -Discostella asterocostata -25.1(10μm).jpg
+264;E:\浦思悦\2023.3代码/datasets/test\Discostella asterocostata\Discostella asterocostata -Discostella-asterocostata_SEM3-copy.jpg
+264;E:\浦思悦\2023.3代码/datasets/test\Discostella asterocostata\Discostella asterocostata -Discostella-asterocostata_SEM8.jpg
+265;E:\浦思悦\2023.3代码/datasets/test\Discostella lakuskarluki\Discostella lakuskarluki -KODK00062_37_DONA.jpg
+265;E:\浦思悦\2023.3代码/datasets/test\Discostella lakuskarluki\Discostella lakuskarluki -KODK00062_7a_DONA.jpg
+265;E:\浦思悦\2023.3代码/datasets/test\Discostella lakuskarluki\Discostella lakuskarluki -KODK00062_7b_DONA.jpg
+266;E:\浦思悦\2023.3代码/datasets/test\Discostella pseudostelligera\Discostella pseudostelligera -45221apseudostellrex2.jpg
+266;E:\浦思悦\2023.3代码/datasets/test\Discostella pseudostelligera\Discostella pseudostelligera -45221apseudostellrex7lowfoc.jpg
+267;E:\浦思悦\2023.3代码/datasets/test\Discostella stelligera\Discostella stelligera -25.3(10μm).jpg
+267;E:\浦思悦\2023.3代码/datasets/test\Discostella stelligera\Discostella stelligera -cyclotella_stelligera_TEM.jpg
+268;E:\浦思悦\2023.3代码/datasets/test\Distrionella incognita\Distrionella incognita-Distincog5.jpg
+268;E:\浦思悦\2023.3代码/datasets/test\Distrionella incognita\Distrionella incognita_4.jpg
+269;E:\浦思悦\2023.3代码/datasets/test\Ellerbeckia arenaria\Ellerbeckia arenaria-Elleraren6.jpg
+269;E:\浦思悦\2023.3代码/datasets/test\Ellerbeckia arenaria\Ellerbeckia arenaria_7.jpg
+270;E:\浦思悦\2023.3代码/datasets/test\Encyonema appalachianum\Encyonema appalachianum-SWPA0002_Enc6.jpg
+270;E:\浦思悦\2023.3代码/datasets/test\Encyonema appalachianum\Encyonema appalachianum-SWPA0002_Enc7.jpg
+271;E:\浦思悦\2023.3代码/datasets/test\Encyonema auerswaldii\Encyonema auerswaldii -_114024b_111.jpg
+272;E:\浦思悦\2023.3代码/datasets/test\Encyonema evergladianum\Encyonema evergladianum -MPR09-04_crop.jpg
+273;E:\浦思悦\2023.3代码/datasets/test\Encyonema gracile\Encyonema gracile 13.7(1μm).png
+274;E:\浦思悦\2023.3代码/datasets/test\Encyonema hamsherae\Encyonema hamsherae-Eham2_m06_rev.jpg
+274;E:\浦思悦\2023.3代码/datasets/test\Encyonema hamsherae\Encyonema hamsherae-Eham2_m08_rev.jpg
+275;E:\浦思悦\2023.3代码/datasets/test\Encyonema hebridicum\Encyonema hebridicum-hebridicum6.png
+276;E:\浦思悦\2023.3代码/datasets/test\Encyonema lange-bertalotii\Encyonema lange-bertalotii -Encyonema_lange-bertalotii_6.jpg
+277;E:\浦思悦\2023.3代码/datasets/test\Encyonema latum\Encyonema latum -E_latum5.jpg
+278;E:\浦思悦\2023.3代码/datasets/test\Encyonema leibleinii\Encyonema leibleinii -L-2-59-60.0.jpg
+279;E:\浦思悦\2023.3代码/datasets/test\Encyonema lunatum\Encyonema lunatum -Encyonema_lunatum_686301.jpg
+280;E:\浦思悦\2023.3代码/datasets/test\Encyonema minutum\Encyonema minutum 6.2(1μm).png
+280;E:\浦思悦\2023.3代码/datasets/test\Encyonema minutum\Encyonema minutum 6.3(1μm).png
+280;E:\浦思悦\2023.3代码/datasets/test\Encyonema minutum\Encyonema minutum 6.4(1μm).png
+281;E:\浦思悦\2023.3代码/datasets/test\Encyonema minutum var. pseudogracilis\Encyonema minutum var. pseudogracilis7.jpg
+281;E:\浦思悦\2023.3代码/datasets/test\Encyonema minutum var. pseudogracilis\Encyonema minutum var. pseudogracilis8.jpg
+282;E:\浦思悦\2023.3代码/datasets/test\Encyonema montana\Encyonema montana -Encyonema_sp._212501_6.jpg
+282;E:\浦思悦\2023.3代码/datasets/test\Encyonema montana\Encyonema montana -Encyonema_sp._212501_7.jpg
+283;E:\浦思悦\2023.3代码/datasets/test\Encyonema neogracile\Encyonema neogracile -Encyonema_neogracile_5.jpg
+284;E:\浦思悦\2023.3代码/datasets/test\Encyonema nicafei\Encyonema nicafei -E_nicafe_6.jpg
+284;E:\浦思悦\2023.3代码/datasets/test\Encyonema nicafei\Encyonema nicafei -SEM_3.jpg
+284;E:\浦思悦\2023.3代码/datasets/test\Encyonema nicafei\Encyonema nicafei -SEM_5.jpg
+285;E:\浦思悦\2023.3代码/datasets/test\Encyonema norvegicum\Encyonema norvegicum -NorvCenterIn.png
+285;E:\浦思悦\2023.3代码/datasets/test\Encyonema norvegicum\Encyonema norvegicum -NorvEnd.png
+285;E:\浦思悦\2023.3代码/datasets/test\Encyonema norvegicum\Encyonema norvegicum -NorvEndIn.png
+286;E:\浦思悦\2023.3代码/datasets/test\Encyonema obscurum\Encyonema obscurum  -Encyonema_obscurum_3.jpg
+286;E:\浦思悦\2023.3代码/datasets/test\Encyonema obscurum\Encyonema obscurum  -Encyonema_obscurum_4.jpg
+286;E:\浦思悦\2023.3代码/datasets/test\Encyonema obscurum\Encyonema obscurum  -Encyonema_obscurum_5.jpg
+287;E:\浦思悦\2023.3代码/datasets/test\Encyonema paucistriatum\Encyonema paucistriatum -Encyonema_paucistriatum_685701_1.jpg
+287;E:\浦思悦\2023.3代码/datasets/test\Encyonema paucistriatum\Encyonema paucistriatum -Encyonema_paucistriatum_685701_8.jpg
+288;E:\浦思悦\2023.3代码/datasets/test\Encyonema pergracile\Encyonema pergracile -E_lunatum2_copy.jpg
+288;E:\浦思悦\2023.3代码/datasets/test\Encyonema pergracile\Encyonema pergracile -E_lunatum4copy.jpg
+289;E:\浦思悦\2023.3代码/datasets/test\Encyonema procerum\Encyonema procerum -Encyonema_procerum_452601_3.jpg
+289;E:\浦思悦\2023.3代码/datasets/test\Encyonema procerum\Encyonema procerum -Encyonema_procerum_452601_5.jpg
+290;E:\浦思悦\2023.3代码/datasets/test\Encyonema reichardtii\Encyonema reichardtii -E_reinhardtii_15966a_04062016_07_cl.jpeg
+290;E:\浦思悦\2023.3代码/datasets/test\Encyonema reichardtii\Encyonema reichardtii -E_reinhardtii_15966a_04062016_08_cl.jpeg
+291;E:\浦思悦\2023.3代码/datasets/test\Encyonema reimeri\Encyonema reimeri -E_reimeri_SEM4.jpg
+291;E:\浦思悦\2023.3代码/datasets/test\Encyonema reimeri\Encyonema reimeri -E_reimeri_SEM5.jpg
+291;E:\浦思悦\2023.3代码/datasets/test\Encyonema reimeri\Encyonema reimeri -E_reimeri_SEM6.jpg
+292;E:\浦思悦\2023.3代码/datasets/test\Encyonema sibericum\Encyonema sibericum -Encyonema_sibericum_4_686501.jpg
+293;E:\浦思悦\2023.3代码/datasets/test\Encyonema silesiacum\Encyonema silesiacum 6.1(5μm).png
+293;E:\浦思悦\2023.3代码/datasets/test\Encyonema silesiacum\Encyonema silesiacum 6.2(2μm).png
+293;E:\浦思悦\2023.3代码/datasets/test\Encyonema silesiacum\Encyonema silesiacum 6.3(1μm).png
+293;E:\浦思悦\2023.3代码/datasets/test\Encyonema silesiacum\Encyonema silesiacum 6.4(1μm).png
+294;E:\浦思悦\2023.3代码/datasets/test\Encyonema temperei\Encyonema temperei -E_stoermeri5.jpg
+295;E:\浦思悦\2023.3代码/datasets/test\Encyonema triangulum\Encyonema triangulum -Encyonematriangulum5.jpg
+295;E:\浦思悦\2023.3代码/datasets/test\Encyonema triangulum\Encyonema triangulum -Encyonematriangulum6.jpg
+296;E:\浦思悦\2023.3代码/datasets/test\Encyonema yellowstonianum\Encyonema yellowstonianumE_yellowstonianumSEM22.jpg
+296;E:\浦思悦\2023.3代码/datasets/test\Encyonema yellowstonianum\Encyonema yellowstonianumE_yellowstonianumSEM4.jpg
+297;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis aequaliformis\Encyonopsis aequaliformis-Encyonopsisaequalis_4.jpg
+297;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis aequaliformis\Encyonopsis aequaliformis-Encyonopsisaequalis_6.jpg
+298;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis albertana\Encyonopsis albertana -Encyoalbertana6.jpg
+298;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis albertana\Encyonopsis albertana -Encyoalbertana7.jpg
+299;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis alpina\Encyonopsis alpina -Encyonopsis_alpina_5.jpg
+299;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis alpina\Encyonopsis alpina -Encyonopsis_alpina_7.jpg
+300;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis anacondae\Encyonopsis anacondae -Encyonopsis_anaconda5.jpg
+300;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis anacondae\Encyonopsis anacondae -Encyonopsis_anaconda6.jpg
+301;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis bobmarshallensis\Encyonopsis bobmarshallensis  -Encyonopsis_moseri6.jpg
+301;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis bobmarshallensis\Encyonopsis bobmarshallensis  -Encyonopsis_moseri7.jpg
+302;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis cesatiformis\Encyonopsis cesatiformis -Encyonopsis_cesatiformis_5.jpg
+302;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis cesatiformis\Encyonopsis cesatiformis -Encyonopsis_cesatiformis_7.jpg
+303;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis cesatii\Encyonopsis cesatii -Encyocesatii_5.jpg
+303;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis cesatii\Encyonopsis cesatii -Encyocesatii_7.jpg
+304;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis czarneckii\Encyonopsis czarneckii  -Encyonopsis_czarneckii_6.jpg
+304;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis czarneckii\Encyonopsis czarneckii_1.jpg
+305;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis dakotae\Encyonopsis dakotae -Encyodescripta6.jpg
+306;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis descripta\Encyonopsis descripta -Encyonopsis_descripta6.jpg
+307;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis descriptiformis\Encyonopsis descriptiformis -Encyonopsis_descripta_5.jpg
+308;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis falaisensis\Encyonopsis falaisensis -Encyofalaisensis_5.jpg
+308;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis falaisensis\Encyonopsis falaisensis -Encyofalaisensis_6.jpg
+309;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis hustedtii\Encyonopsis hustedtii -Encyonopsiseliseae4.jpg
+310;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis krammeri\Encyonopsis krammeri -Encyonopsis_krammeri_4.jpg
+310;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis krammeri\Encyonopsis krammeri -Encyonopsis_krammeri_6.jpg
+311;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis kutenaiorum\Encyonopsis kutenaiorum -Encyonopsiskutenai_4.jpg
+312;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis lacusalpini\Encyonopsis lacusalpini 6.4(1μm).png
+312;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis lacusalpini\Encyonopsis lacusalpini_1.jpg
+312;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis lacusalpini\Encyonopsis lacusalpini_2.jpg
+312;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis lacusalpini\Encyonopsis lacusalpini_7.jpg
+313;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis lacuscaerulei\Encyonopsis lacuscaerulei -Encyonopsis_lacuscaeruleus_5.jpg
+313;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis lacuscaerulei\Encyonopsis lacuscaerulei -Encyonopsis_lacuscaeruleus_7.jpg
+313;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis lacuscaerulei\Encyonopsis lacuscaerulei_5.jpg
+314;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis medicinalis\Encyonopsis medicinalis -Encyonopsismedicinalis4.jpg
+314;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis medicinalis\Encyonopsis medicinalis -Encyonopsismedicinalis5.jpg
+315;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis microcephala\Encyonopsis microcephala -Encyonemopsis_microcephala_005.jpg
+315;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis microcephala\Encyonopsis microcephala -Encyonemopsis_microcephala_007.jpg
+316;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis minuta\Encyonopsis minuta -Encyonopsisminuta5.jpg
+316;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis minuta\Encyonopsis minuta -Encyonopsisminuta6.jpg
+317;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis montana\Encyonopsis montana -Encyonopsis_montana_5.jpg
+318;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis neerlandica\Encyonopsis neerlandica -Encyonopsis_montana4.jpg
+318;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis neerlandica\Encyonopsis neerlandica -Encyonopsis_montana6.jpg
+319;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis perborealis\Encyonopsis perborealis -Encyonopsis_perborealis6.jpg
+319;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis perborealis\Encyonopsis perborealis -Encyonopsis_perborealis7.jpg
+320;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis robusta\Encyonopsis robusta -Encyonopsisnellieae3.jpg
+320;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis robusta\Encyonopsis robusta -Encyonopsisnellieae4.jpg
+321;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis stafsholtii\Encyonopsis stafsholtii -Estafsholtii_6.jpg
+321;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis stafsholtii\Encyonopsis stafsholtii -Estafsholtii_7.jpg
+322;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis subminuta\Encyonopsis subminuta -encyonemopsis_subminuta_006.jpg
+323;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis thumensis\Encyonopsis thumensis6.jpg
+323;E:\浦思悦\2023.3代码/datasets/test\Encyonopsis thumensis\Encyonopsis thumensis7.jpg
+324;E:\浦思悦\2023.3代码/datasets/test\Entomoneis alata\Entomoneis alata-Entomalata6.jpg
+324;E:\浦思悦\2023.3代码/datasets/test\Entomoneis alata\Entomoneis alata-Entomalata7.jpg
+325;E:\浦思悦\2023.3代码/datasets/test\Entomoneis ornata\Entomoneis ornata -Entomornata5.jpg
+325;E:\浦思悦\2023.3代码/datasets/test\Entomoneis ornata\Entomoneis ornata -Entomornata6.jpg
+326;E:\浦思悦\2023.3代码/datasets/test\Entomoneis paludosa\Entomoneis paludosa -Entompaludosa5.jpg
+326;E:\浦思悦\2023.3代码/datasets/test\Entomoneis paludosa\Entomoneis paludosa -Entompaludosa6.jpg
+327;E:\浦思悦\2023.3代码/datasets/test\Entomoneis punctulata\Entomoneis punctulata -Entompunct6.jpg
+328;E:\浦思悦\2023.3代码/datasets/test\Envekadea metzeltinii\Envekadea metzeltinii -internal_end5.jpg
+328;E:\浦思悦\2023.3代码/datasets/test\Envekadea metzeltinii\Envekadea metzeltinii_7.jpg
+329;E:\浦思悦\2023.3代码/datasets/test\Envekadea pachycephala\Envekadea pachycephala -Envekadea_pachycephala_LA2.jpg
+330;E:\浦思悦\2023.3代码/datasets/test\Envekadea vanlandinghamii\Envekadea vanlandinghamii -E_pseudocrassitrostris5.jpg
+330;E:\浦思悦\2023.3代码/datasets/test\Envekadea vanlandinghamii\Envekadea vanlandinghamii -E_pseudocrassitrostris6.jpg
+331;E:\浦思悦\2023.3代码/datasets/test\Eolimna aboensis\Eolimna aboensis -Eolimna-aboensis-MEHP003_A_110817_45.jpg
+331;E:\浦思悦\2023.3代码/datasets/test\Eolimna aboensis\Eolimna aboensis -Eolimna-aboensis-VT10090_A_110917_43.jpg
+332;E:\浦思悦\2023.3代码/datasets/test\Eolimna metafarta\Eolimna metafarta -25.3(10μm).jpeg
+332;E:\浦思悦\2023.3代码/datasets/test\Eolimna metafarta\Eolimna metafarta -715646a_01132016_07_Eolimna_metafarta_SESQA_cl.jpeg
+333;E:\浦思悦\2023.3代码/datasets/test\Epithemia adnata\Epithemia adnata -EPadIHO44070-4edited.jpg
+333;E:\浦思悦\2023.3代码/datasets/test\Epithemia adnata\Epithemia adnata -EPadIHO44070-6edited.jpg
+334;E:\浦思悦\2023.3代码/datasets/test\Epithemia alpestris\Epithemia alpestris -Epithemia_alpestris_L-5-71_02.jpg
+334;E:\浦思悦\2023.3代码/datasets/test\Epithemia alpestris\Epithemia alpestris -Epithemia_alpestris_L-5-71_05.jpg
+335;E:\浦思悦\2023.3代码/datasets/test\Epithemia argus\Epithemia argus -75microns.jpg
+336;E:\浦思悦\2023.3代码/datasets/test\Epithemia gibba\Epithemia gibba -rhopalodia_gibba_004.jpg
+336;E:\浦思悦\2023.3代码/datasets/test\Epithemia gibba\Epithemia gibba -rhopalodia_gibba_006.jpg
+337;E:\浦思悦\2023.3代码/datasets/test\Epithemia gibberula\Epithemia gibberula -RHgibberu-6.jpg
+338;E:\浦思悦\2023.3代码/datasets/test\Epithemia musculus\Epithemia musculus -musculus_003.jpg
+339;E:\浦思悦\2023.3代码/datasets/test\Epithemia reichelti\Epithemia reichelti -Er5.jpg
+339;E:\浦思悦\2023.3代码/datasets/test\Epithemia reichelti\Epithemia reichelti -Er6.jpg
+340;E:\浦思悦\2023.3代码/datasets/test\Epithemia smithii\Epithemia smithii -Epithemia.smithii5a.jpg
+340;E:\浦思悦\2023.3代码/datasets/test\Epithemia smithii\Epithemia smithii -Epithemia.smithii6a.jpg
+341;E:\浦思悦\2023.3代码/datasets/test\Epithemia sorex\Epithemia sorex -EsorMO000125-6ed.jpg
+341;E:\浦思悦\2023.3代码/datasets/test\Epithemia sorex\Epithemia sorex -EsorMO000125-8ed_1.jpg
+342;E:\浦思悦\2023.3代码/datasets/test\Epithemia turgida\Epithemia turgida -EpturIHO41265-4ed_1.jpg
+343;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis alpestris\Eucocconeis alpestris -NLS00235_EUalp_4a_ed.jpg
+343;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis alpestris\Eucocconeis alpestris -NLS00235_EUalp_5b_ed.jpg
+344;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis americana\Eucocconeis americana -TypePopulation_4_copy.jpg
+344;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis americana\Eucocconeis americana -TypePopulation_5.jpg
+344;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis americana\Eucocconeis americana -TypePopulation_7_crptif.jpg
+345;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis depressa\Eucocconeis depressa -E_depressa2_NLA13-AK21T.jpg
+345;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis depressa\Eucocconeis depressa -E_depressa5prv_NLA13-AK21T.jpg
+346;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis flexella\Eucocconeis flexella -Flexella_MT1405A_5b_ed.jpg
+346;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis flexella\Eucocconeis flexella -Flexella_MT1405A_7a_ed.jpg
+347;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis laevis\Eucocconeis laevis -MO000019_EUlaev_1a_ed.jpg
+347;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis laevis\Eucocconeis laevis -MO000019_EUlaev_1b_ed.jpg
+347;E:\浦思悦\2023.3代码/datasets/test\Eucocconeis laevis\Eucocconeis laevis_2.jpg
+348;E:\浦思悦\2023.3代码/datasets/test\Eunotia areniverma\Eunotia areniverma -E_areniverma_6thsmall_r.jpg
+348;E:\浦思悦\2023.3代码/datasets/test\Eunotia areniverma\Eunotia areniverma -E_areniverma_right_inner_apex_1.jpg
+348;E:\浦思悦\2023.3代码/datasets/test\Eunotia areniverma\Eunotia areniverma -E_areniverma_small_r.jpg
+349;E:\浦思悦\2023.3代码/datasets/test\Eunotia bactriana\Eunotia bactriana -eu_bactriana_15950_03262016_16_cl.jpeg
+349;E:\浦思悦\2023.3代码/datasets/test\Eunotia bactriana\Eunotia bactriana -eu_bactriana_15950_03262016_24_cl.jpeg
+350;E:\浦思悦\2023.3代码/datasets/test\Eunotia bidens\Eunotia bidens -EUbiden-6.jpg
+350;E:\浦思悦\2023.3代码/datasets/test\Eunotia bidens\Eunotia bidens -EUbiden-7.jpg
+351;E:\浦思悦\2023.3代码/datasets/test\Eunotia bidentula\Eunotia bidentula -eu_diadon_15950_03262016_25_cl.jpeg
+351;E:\浦思悦\2023.3代码/datasets/test\Eunotia bidentula\Eunotia bidentula -eu_diadon_15950_03262016_32_cl.jpeg
+352;E:\浦思悦\2023.3代码/datasets/test\Eunotia bilii\Eunotia bilii -Eunotia_bilii_noIII.jpg
+352;E:\浦思悦\2023.3代码/datasets/test\Eunotia bilii\Eunotia bilii_8.jpg
+353;E:\浦思悦\2023.3代码/datasets/test\Eunotia bilunaris\Eunotia bilunaris -EuBilun-3.jpg
+353;E:\浦思悦\2023.3代码/datasets/test\Eunotia bilunaris\Eunotia bilunaris -EuBilun-6.jpg
+354;E:\浦思悦\2023.3代码/datasets/test\Eunotia boomsma\Eunotia boomsma -Eunotia_boomsma_Cana_Isotype.jpg
+354;E:\浦思悦\2023.3代码/datasets/test\Eunotia boomsma\Eunotia boomsma -Eunotia_boomsma_smallest.jpg
+355;E:\浦思悦\2023.3代码/datasets/test\Eunotia canicula\Eunotia canicula -E_canicula_isotype.jpg
+355;E:\浦思悦\2023.3代码/datasets/test\Eunotia canicula\Eunotia canicula -E_canicula_isotype_CANA.jpg
+356;E:\浦思悦\2023.3代码/datasets/test\Eunotia cataractarum\Eunotia cataractarum -Eunotia_cataractarum_small.jpg
+356;E:\浦思悦\2023.3代码/datasets/test\Eunotia cataractarum\Eunotia cataractarum_4.jpg
+357;E:\浦思悦\2023.3代码/datasets/test\Eunotia charliereimeri\Eunotia charliereimeri -25.3(10μm).jpg
+357;E:\浦思悦\2023.3代码/datasets/test\Eunotia charliereimeri\Eunotia charliereimeri -808_40.4_EunCWR.jpg
+358;E:\浦思悦\2023.3代码/datasets/test\Eunotia diadema\Eunotia diadema -Eunotiadiadema6.jpg
+358;E:\浦思悦\2023.3代码/datasets/test\Eunotia diadema\Eunotia diadema -Eunotiadiadema7.jpg
+359;E:\浦思悦\2023.3代码/datasets/test\Eunotia enischna\Eunotia enischna -Eunotia_enishna_5_19_05_7D.jpg
+359;E:\浦思悦\2023.3代码/datasets/test\Eunotia enischna\Eunotia enischna -Eunotia_enishna_holotype.jpg
+360;E:\浦思悦\2023.3代码/datasets/test\Eunotia eruca\Eunotia eruca -AMeruca-4.jpg
+361;E:\浦思悦\2023.3代码/datasets/test\Eunotia exigua\Eunotia exigua-25.4(10μm).jpg
+361;E:\浦思悦\2023.3代码/datasets/test\Eunotia exigua\Eunotia exigua_1.jpg
+362;E:\浦思悦\2023.3代码/datasets/test\Eunotia faba\Eunotia faba -Eunotia_faba_5.jpg
+362;E:\浦思悦\2023.3代码/datasets/test\Eunotia faba\Eunotia faba -Eunotia_faba_6.jpg
+363;E:\浦思悦\2023.3代码/datasets/test\Eunotia formica\Eunotia formica -EuFormi-3.jpg
+364;E:\浦思悦\2023.3代码/datasets/test\Eunotia gibbosa\Eunotia gibbosa -Eunotia_gibbosa_4.jpg
+364;E:\浦思悦\2023.3代码/datasets/test\Eunotia gibbosa\Eunotia gibbosa -Eunotia_gibbosa_6.jpg
+365;E:\浦思悦\2023.3代码/datasets/test\Eunotia hexaglyphis\Eunotia hexaglyphis -Eunotia.hex5.jpg
+365;E:\浦思悦\2023.3代码/datasets/test\Eunotia hexaglyphis\Eunotia hexaglyphis -Eunotia.hex6.jpg
+366;E:\浦思悦\2023.3代码/datasets/test\Eunotia horstii\Eunotia horstii -Eunotia_horstii_CAS_isotype.jpg
+367;E:\浦思悦\2023.3代码/datasets/test\Eunotia incisa\Eunotia incisa_2.jpg
+367;E:\浦思悦\2023.3代码/datasets/test\Eunotia incisa\Eunotia incisa_3.jpg
+368;E:\浦思悦\2023.3代码/datasets/test\Eunotia kociolekii\Eunotia kociolekii_7.jpg
+368;E:\浦思悦\2023.3代码/datasets/test\Eunotia kociolekii\Eunotia kociolekii_8.jpg
+369;E:\浦思悦\2023.3代码/datasets/test\Eunotia lewisii\Eunotia lewisii -Eunotia_lewisii_02.png
+369;E:\浦思悦\2023.3代码/datasets/test\Eunotia lewisii\Eunotia lewisii -Eunotia_lewisii_04.png
+370;E:\浦思悦\2023.3代码/datasets/test\Eunotia macroglossa\Eunotia macroglossa -E_macroglossa_51_19r.jpg
+370;E:\浦思悦\2023.3代码/datasets/test\Eunotia macroglossa\Eunotia macroglossa -E_macroglossa_apice1r.jpg
+371;E:\浦思悦\2023.3代码/datasets/test\Eunotia metamonodon\Eunotia metamonodon -EuMono-7.jpg
+371;E:\浦思悦\2023.3代码/datasets/test\Eunotia metamonodon\Eunotia metamonodon -EUmono-9.jpg
+372;E:\浦思悦\2023.3代码/datasets/test\Eunotia microcephala\Eunotia microcephala -9c58627_Eunotia_microcephala_14_6.jpg
+372;E:\浦思悦\2023.3代码/datasets/test\Eunotia microcephala\Eunotia microcephala -9c58627_Eunotia_microcephala_15_1b.jpg
+373;E:\浦思悦\2023.3代码/datasets/test\Eunotia minor\Eunotia minor 6.7(1μm).png
+373;E:\浦思悦\2023.3代码/datasets/test\Eunotia minor\Eunotia minor_1.jpg
+374;E:\浦思悦\2023.3代码/datasets/test\Eunotia minutula\Eunotia minutula 6.6(1μm).png
+375;E:\浦思悦\2023.3代码/datasets/test\Eunotia montuosa\Eunotia montuosa -E_montuosa_isotype.jpg
+375;E:\浦思悦\2023.3代码/datasets/test\Eunotia montuosa\Eunotia montuosa -E_montuosa_SEM_leftapex_1.jpg
+375;E:\浦思悦\2023.3代码/datasets/test\Eunotia montuosa\Eunotia montuosa_3.jpg
+376;E:\浦思悦\2023.3代码/datasets/test\Eunotia mucophila\Eunotia mucophila -Eunotia_63_076bC_SS.jpg
+376;E:\浦思悦\2023.3代码/datasets/test\Eunotia mucophila\Eunotia mucophila -Eunotia_99_081bB_SS.jpg
+376;E:\浦思悦\2023.3代码/datasets/test\Eunotia mucophila\Eunotia mucophila -Eunotia_flexuosa_4_068bA_SS.jpg
+377;E:\浦思悦\2023.3代码/datasets/test\Eunotia mydohaimasiae\Eunotia mydohaimasiae -Eunotia_mydohaimasiae_Holotype.jpg
+377;E:\浦思悦\2023.3代码/datasets/test\Eunotia mydohaimasiae\Eunotia mydohaimasiae -Eunotia_mydohaimasiae_Isotype.jpg
+378;E:\浦思悦\2023.3代码/datasets/test\Eunotia naegelii\Eunotia naegelii -eunotia_naegelii_longIII.jpg
+378;E:\浦思悦\2023.3代码/datasets/test\Eunotia naegelii\Eunotia naegelii_2.jpg
+379;E:\浦思悦\2023.3代码/datasets/test\Eunotia novaeangliae\Eunotia novaeangliae -Eunotia_143_080bA_1600x_ps.jpg
+379;E:\浦思悦\2023.3代码/datasets/test\Eunotia novaeangliae\Eunotia novaeangliae -Eunotia_157_080bA_1600x_ps.jpg
+379;E:\浦思悦\2023.3代码/datasets/test\Eunotia novaeangliae\Eunotia novaeangliae -Eunotia_18_107aA_1600x_ps.jpg
+379;E:\浦思悦\2023.3代码/datasets/test\Eunotia novaeangliae\Eunotia novaeangliae -Eunotia_sp30um_1_068bA_1600x_ps.jpg
+380;E:\浦思悦\2023.3代码/datasets/test\Eunotia nymanniana\Eunotia nymanniana -Eunotia_nymanniana_6_16_05_J2_39.jpg
+380;E:\浦思悦\2023.3代码/datasets/test\Eunotia nymanniana\Eunotia nymanniana -Eunotia_nymanniana_6_16_05_J2_47_5.jpg
+380;E:\浦思悦\2023.3代码/datasets/test\Eunotia nymanniana\Eunotia nymanniana -Eunotia_nymanniana_SEM_ext_1.jpg
+381;E:\浦思悦\2023.3代码/datasets/test\Eunotia obliquestriata\Eunotia obliquestriata -Eunotia_obliquestriata_typematerial_i.jpg
+381;E:\浦思悦\2023.3代码/datasets/test\Eunotia obliquestriata\Eunotia obliquestriata_3.jpg
+382;E:\浦思悦\2023.3代码/datasets/test\Eunotia orthohedra\Eunotia orthohedra -E_orthohedra_isotype.jpg
+383;E:\浦思悦\2023.3代码/datasets/test\Eunotia paludosa\Eunotia paludosa -eunotia_paludosa_midIIIC.jpg
+383;E:\浦思悦\2023.3代码/datasets/test\Eunotia paludosa\Eunotia paludosa -eunotia_paludosa_shortC.jpg
+384;E:\浦思悦\2023.3代码/datasets/test\Eunotia panda\Eunotia panda -EunotiaSN2_ANP008-jv_04_ps.jpg
+384;E:\浦思悦\2023.3代码/datasets/test\Eunotia panda\Eunotia panda -EunotiaSN2_ANP008-jv_08_ps.jpg
+384;E:\浦思悦\2023.3代码/datasets/test\Eunotia panda\Eunotia panda -EunotiaSN2_ANP008-jv_13_ps.jpg
+385;E:\浦思悦\2023.3代码/datasets/test\Eunotia papilioforma\Eunotia papilioforma -Eunotia_papilioforma_8_6_05_2_.jpg
+385;E:\浦思悦\2023.3代码/datasets/test\Eunotia papilioforma\Eunotia papilioforma -Eunotia_papilioforma_holotype.jpg
+386;E:\浦思悦\2023.3代码/datasets/test\Eunotia pectinalis\Eunotia pectinalis -EuPectin-6.jpg
+386;E:\浦思悦\2023.3代码/datasets/test\Eunotia pectinalis\Eunotia pectinalis_3.jpg
+387;E:\浦思悦\2023.3代码/datasets/test\Eunotia perpusilla\Eunotia perpusilla -EUparatr_15982a_04082016_08.jpg
+387;E:\浦思悦\2023.3代码/datasets/test\Eunotia perpusilla\Eunotia perpusilla -EUparatr_16012a_05122016_16.jpg
+388;E:\浦思悦\2023.3代码/datasets/test\Eunotia rhomboidea\Eunotia rhomboidea -25.4(10μm).jpg
+388;E:\浦思悦\2023.3代码/datasets/test\Eunotia rhomboidea\Eunotia rhomboidea_3.jpg
+389;E:\浦思悦\2023.3代码/datasets/test\Eunotia richbuttensis\Eunotia richbuttensis_1.jpg
+389;E:\浦思悦\2023.3代码/datasets/test\Eunotia richbuttensis\Eunotia richbuttensis_5.jpg
+390;E:\浦思悦\2023.3代码/datasets/test\Eunotia rushforthii\Eunotia rushforthii -Eunotia_rushforthii_6_28_05_L3A_no2.jpg
+390;E:\浦思悦\2023.3代码/datasets/test\Eunotia rushforthii\Eunotia rushforthii -Eunotia_rushforthii_Holotype.jpg
+391;E:\浦思悦\2023.3代码/datasets/test\Eunotia sarraceniae\Eunotia sarraceniae -685_34.3um_Eun_sarraceniae.jpg
+391;E:\浦思悦\2023.3代码/datasets/test\Eunotia sarraceniae\Eunotia sarraceniae_2.jpg
+392;E:\浦思悦\2023.3代码/datasets/test\Eunotia serra\Eunotia serra -Eunotiaserra4.jpg
+392;E:\浦思悦\2023.3代码/datasets/test\Eunotia serra\Eunotia serra -Eunotiaserra6.jpg
+393;E:\浦思悦\2023.3代码/datasets/test\Eunotia spatulata\Eunotia spatulata  -Eunotia_173_078aA_1600x_ps.jpg
+393;E:\浦思悦\2023.3代码/datasets/test\Eunotia spatulata\Eunotia spatulata  -Eunotia_58_076bC_1000x_ps.jpg
+393;E:\浦思悦\2023.3代码/datasets/test\Eunotia spatulata\Eunotia spatulata_10.jpg
+393;E:\浦思悦\2023.3代码/datasets/test\Eunotia spatulata\Eunotia spatulata_14.jpg
+394;E:\浦思悦\2023.3代码/datasets/test\Eunotia subherkiniensis\Eunotia subherkiniensis -Eunotia_subherkiniensis_5_19_04sc2Ai.jpg
+394;E:\浦思悦\2023.3代码/datasets/test\Eunotia subherkiniensis\Eunotia subherkiniensis_5.jpg
+395;E:\浦思悦\2023.3代码/datasets/test\Eunotia sudetica\Eunotia sudetica -Eunotia_sudetica5.jpg
+395;E:\浦思悦\2023.3代码/datasets/test\Eunotia sudetica\Eunotia sudetica -Eunotia_sudetica6.jpg
+396;E:\浦思悦\2023.3代码/datasets/test\Eunotia superbidens\Eunotia superbidens -EUsuperb-5.jpg
+396;E:\浦思悦\2023.3代码/datasets/test\Eunotia superbidens\Eunotia superbidens -EUsuperb-6.jpg
+397;E:\浦思悦\2023.3代码/datasets/test\Eunotia tauntoniensis\Eunotia tauntoniensis -Eutaut_Brant1188.jpg
+397;E:\浦思悦\2023.3代码/datasets/test\Eunotia tauntoniensis\Eunotia tauntoniensis_5.jpg
+398;E:\浦思悦\2023.3代码/datasets/test\Eunotia tenella\Eunotia tenella -GSM6_9_05_9_tenella_V.jpg
+398;E:\浦思悦\2023.3代码/datasets/test\Eunotia tenella\Eunotia tenella -tenelfam_16_.jpg
+399;E:\浦思悦\2023.3代码/datasets/test\Eunotia tetraodon\Eunotia tetraodon -Eunotiatet6.jpg
+400;E:\浦思悦\2023.3代码/datasets/test\Eunotia trinacria\Eunotia trinacria -eunotia_trinacria_small.jpg
+400;E:\浦思悦\2023.3代码/datasets/test\Eunotia trinacria\Eunotia trinacria -eunotia_trinacria_small_II.jpg
+401;E:\浦思悦\2023.3代码/datasets/test\Eunotia triodon\Eunotia triodon -Eunotia_triodon_6.jpg
+401;E:\浦思悦\2023.3代码/datasets/test\Eunotia triodon\Eunotia triodon -Eunotia_triodon_7.jpg
+402;E:\浦思悦\2023.3代码/datasets/test\Eunotia zasuminensis\Eunotia zasuminensis -EUzasuminensis_SMM16212b_940_52.2.jpg
+402;E:\浦思悦\2023.3代码/datasets/test\Eunotia zasuminensis\Eunotia zasuminensis -EUzasuminensis_SMM16212b_998_55.4.jpg
+403;E:\浦思悦\2023.3代码/datasets/test\Eupodiscus radiatus\Eupodiscus radiatus -Eupodiscus_radiatus_067.jpg
+403;E:\浦思悦\2023.3代码/datasets/test\Eupodiscus radiatus\Eupodiscus radiatus-3 size bar=20μm.PNG
+404;E:\浦思悦\2023.3代码/datasets/test\Fallacia californica\Fallacia californica -Fallacia-californica_SWAMP-404S-25668_004.jpg
+404;E:\浦思悦\2023.3代码/datasets/test\Fallacia californica\Fallacia californica -Fallacia-californica_SWAMP-404S-25668_005.jpg
+405;E:\浦思悦\2023.3代码/datasets/test\Fallacia hummii\Fallacia hummii7.jpg
+405;E:\浦思悦\2023.3代码/datasets/test\Fallacia hummii\Fallacia hummii_3.jpg
+406;E:\浦思悦\2023.3代码/datasets/test\Fallacia latelongitudinalis\Fallacia latelongitudinalis -GC44264a_FAlatelolong_4.jpg
+406;E:\浦思悦\2023.3代码/datasets/test\Fallacia latelongitudinalis\Fallacia latelongitudinalis -Latelolongiud_NotType_3.jpg
+407;E:\浦思悦\2023.3代码/datasets/test\Fallacia pygmaea\Fallacia pygmaea -pygmaea_004.jpg
+407;E:\浦思悦\2023.3代码/datasets/test\Fallacia pygmaea\Fallacia pygmaea -pygmaea_006.jpg
+408;E:\浦思悦\2023.3代码/datasets/test\Fallacia subhamulata\Fallacia subhamulata -25.2(10μm).jpeg
+408;E:\浦思悦\2023.3代码/datasets/test\Fallacia subhamulata\Fallacia subhamulata -25.3(10μm).jpeg
+409;E:\浦思悦\2023.3代码/datasets/test\Fallacia tenera\Fallacia tenera -Fallacia-tenera-901M14126_2.jpg
+410;E:\浦思悦\2023.3代码/datasets/test\Fallacia vitrea\Fallacia vitrea -fall_vitrea_GC2189_43_cl.jpeg
+410;E:\浦思悦\2023.3代码/datasets/test\Fallacia vitrea\Fallacia vitrea -fall_vitrea_GC2189_81_cl.jpeg
+411;E:\浦思悦\2023.3代码/datasets/test\Fragilaria amphicephaloides\Fragilaria amphicephaloides -FRampicephaloides-1a.jpg
+411;E:\浦思悦\2023.3代码/datasets/test\Fragilaria amphicephaloides\Fragilaria amphicephaloides -FRampicephaloides-4a.jpg
+412;E:\浦思悦\2023.3代码/datasets/test\Fragilaria crotonensis\Fragilaria crotonensis -ANSP_GC112455-5.jpg
+412;E:\浦思悦\2023.3代码/datasets/test\Fragilaria crotonensis\Fragilaria crotonensis -ANSP_GC112455-6.jpg
+412;E:\浦思悦\2023.3代码/datasets/test\Fragilaria crotonensis\Fragilaria crotonensis -NorthHillsPondGG16_1um.jpg
+413;E:\浦思悦\2023.3代码/datasets/test\Fragilaria mesolepta\Fragilaria mesolepta -FRmesolepta-4.jpg
+413;E:\浦思悦\2023.3代码/datasets/test\Fragilaria mesolepta\Fragilaria mesolepta -FRmesolepta-7.jpg
+414;E:\浦思悦\2023.3代码/datasets/test\Fragilaria pennsylvanica\Fragilaria pennsylvanica -57578_Fragilaria_pennsylvanica_18.jpg
+414;E:\浦思悦\2023.3代码/datasets/test\Fragilaria pennsylvanica\Fragilaria pennsylvanica -57578_Fragilaria_pennsylvanica_a2.jpg
+415;E:\浦思悦\2023.3代码/datasets/test\Fragilaria recapitellata\Fragilaria recapitellata -Fragilaria_vaucheriae_fat_3_14372_clm.jpeg
+415;E:\浦思悦\2023.3代码/datasets/test\Fragilaria recapitellata\Fragilaria recapitellata -Fragiliaria_2_14374_clm.jpeg
+415;E:\浦思悦\2023.3代码/datasets/test\Fragilaria recapitellata\Fragilaria recapitellata -Fragiliaria_5_14374_clm.jpeg
+416;E:\浦思悦\2023.3代码/datasets/test\Fragilaria socia\Fragilaria socia 6.7(1μm).png
+416;E:\浦思悦\2023.3代码/datasets/test\Fragilaria socia\Fragilaria socia_7.jpg
+416;E:\浦思悦\2023.3代码/datasets/test\Fragilaria socia\Fragilaria socia_8.jpg
+417;E:\浦思悦\2023.3代码/datasets/test\Fragilaria synegrotesca\Fragilaria synegrotesca -F_synegrotesca_6_125.46.jpg
+417;E:\浦思悦\2023.3代码/datasets/test\Fragilaria synegrotesca\Fragilaria synegrotesca -F_synegrotesca_Diaterm_III_329_Internal_VV.jpg
+417;E:\浦思悦\2023.3代码/datasets/test\Fragilaria synegrotesca\Fragilaria synegrotesca_2.jpg
+418;E:\浦思悦\2023.3代码/datasets/test\Fragilaria tenera\Fragilaria tenera -F_tenera_114970-8_10_um_bar.jpg
+418;E:\浦思悦\2023.3代码/datasets/test\Fragilaria tenera\Fragilaria tenera -F_tenera_114970-9_10_um_bar.jpg
+419;E:\浦思悦\2023.3代码/datasets/test\Fragilaria vaucheriae\Fragilaria vaucheriae -Image4.jpg
+419;E:\浦思悦\2023.3代码/datasets/test\Fragilaria vaucheriae\Fragilaria vaucheriae -SEM_Fragilaria_vaucheriae_gsn91856_COOK_2001_5_b_2micron.jpg
+420;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma acidobiontica\Fragilariforma acidobiontica -ANSP_GC_54250_Fragilariforma_acidobiota_T6.jpg
+421;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma bicapitata\Fragilariforma bicapitata -IWB-23-III-2013-010_07312014_055_clm.jpeg
+421;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma bicapitata\Fragilariforma bicapitata -IWB-23-III-2013-010_07312014_056_clm.jpeg
+422;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma constricta\Fragilariforma constricta -FRconstricta_747_40b.jpg
+422;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma constricta\Fragilariforma constricta -FRconstricta_863_39_Brant1098b.jpg
+423;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma horstii\Fragilariforma horstii -Fraghorstii5.jpg
+423;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma horstii\Fragilariforma horstii -Fraghorstii6.jpg
+424;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma marylandica\Fragilariforma marylandica -25.2(10μm).jpeg
+424;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma marylandica\Fragilariforma marylandica -25.3(10μm).jpeg
+425;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma nitzschioides\Fragilariforma nitzschioides -L-3-44-4.jpg
+425;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma nitzschioides\Fragilariforma nitzschioides_1.jpg
+426;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma polygonata\Fragilariforma polygonata -FRpolygonata_520_26.jpg
+427;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma virescens\Fragilariforma virescens -25.5(10μm).jpg
+427;E:\浦思悦\2023.3代码/datasets/test\Fragilariforma virescens\Fragilariforma virescens_1.jpg
+428;E:\浦思悦\2023.3代码/datasets/test\Frickea lewisiana\Frickea lewisiana-CG-11-iii-11-014.jpg
+428;E:\浦思悦\2023.3代码/datasets/test\Frickea lewisiana\Frickea lewisiana-CG-17-iii-11-002sm.jpg
+429;E:\浦思悦\2023.3代码/datasets/test\Frustulia amosseana\Frustulia amosseana6.jpg
+429;E:\浦思悦\2023.3代码/datasets/test\Frustulia amosseana\Frustulia amosseana7.jpg
+430;E:\浦思悦\2023.3代码/datasets/test\Frustulia amphipleuroides\Frustulia amphipleuroides-Amphi5.png
+430;E:\浦思悦\2023.3代码/datasets/test\Frustulia amphipleuroides\Frustulia amphipleuroides_5.jpg
+431;E:\浦思悦\2023.3代码/datasets/test\Frustulia asiatica\Frustulia asiatica-CG-27-viii-10-12.jpg
+431;E:\浦思悦\2023.3代码/datasets/test\Frustulia asiatica\Frustulia asiatica-CG-27-viii-10-13.jpg
+432;E:\浦思悦\2023.3代码/datasets/test\Frustulia bahlsii\Frustulia bahlsii -FRbahlsii-181.jpg
+432;E:\浦思悦\2023.3代码/datasets/test\Frustulia bahlsii\Frustulia bahlsii -FRbahlsii-6.jpg
+433;E:\浦思悦\2023.3代码/datasets/test\Frustulia capitata\Frustulia capitata -capitata4.png
+433;E:\浦思悦\2023.3代码/datasets/test\Frustulia capitata\Frustulia capitata -capitata5.png
+434;E:\浦思悦\2023.3代码/datasets/test\Frustulia crassinervia\Frustulia crassinervia -crassinveria4.png
+434;E:\浦思悦\2023.3代码/datasets/test\Frustulia crassinervia\Frustulia crassinervia -crassinveria6.png
+435;E:\浦思悦\2023.3代码/datasets/test\Frustulia creuzburgensis\Frustulia creuzburgensis -LM_f_creuz_34.png
+435;E:\浦思悦\2023.3代码/datasets/test\Frustulia creuzburgensis\Frustulia creuzburgensis_6.jpg
+436;E:\浦思悦\2023.3代码/datasets/test\Frustulia esandalliae\Frustulia esandalliae -Frustulia_esandalliae_4.jpg
+436;E:\浦思悦\2023.3代码/datasets/test\Frustulia esandalliae\Frustulia esandalliae -Frustulia_esandalliae_7.jpg
+437;E:\浦思悦\2023.3代码/datasets/test\Frustulia inculta\Frustulia inculta -incultaD.jpg
+437;E:\浦思悦\2023.3代码/datasets/test\Frustulia inculta\Frustulia inculta -incultaE.jpg
+437;E:\浦思悦\2023.3代码/datasets/test\Frustulia inculta\Frustulia inculta -incultaF.jpg
+438;E:\浦思悦\2023.3代码/datasets/test\Frustulia krammeri\Frustulia krammeri -krammeri96.png
+438;E:\浦思悦\2023.3代码/datasets/test\Frustulia krammeri\Frustulia krammeri_2.jpg
+439;E:\浦思悦\2023.3代码/datasets/test\Frustulia latita\Frustulia latita -latita2.png
+439;E:\浦思悦\2023.3代码/datasets/test\Frustulia latita\Frustulia latita -latita4.png
+440;E:\浦思悦\2023.3代码/datasets/test\Frustulia neomundana\Frustulia neomundana -neo5.png
+441;E:\浦思悦\2023.3代码/datasets/test\Frustulia pseudomagaliesmontana\Frustulia pseudomagaliesmontana -Frustulia-pseudomagaliesmontana-NY10003_A_112017_21_c.jpg
+441;E:\浦思悦\2023.3代码/datasets/test\Frustulia pseudomagaliesmontana\Frustulia pseudomagaliesmontana -Frustulia-pseudomagaliesmontana-NY10003_A_112017_39_c.jpg
+442;E:\浦思悦\2023.3代码/datasets/test\Frustulia quadrisinuata\Frustulia quadrisinuata -quadri8.png
+443;E:\浦思悦\2023.3代码/datasets/test\Frustulia rexii\Frustulia rexii -CG-29-iii-11-015.jpg
+443;E:\浦思悦\2023.3代码/datasets/test\Frustulia rexii\Frustulia rexii -CG-8-iii-11-051b.jpg
+444;E:\浦思悦\2023.3代码/datasets/test\Frustulia saxonica\Frustulia saxonica -sax5.png
+444;E:\浦思悦\2023.3代码/datasets/test\Frustulia saxonica\Frustulia saxonica -sax6.png
+445;E:\浦思悦\2023.3代码/datasets/test\Frustulia soror\Frustulia soror -soror4.png
+445;E:\浦思悦\2023.3代码/datasets/test\Frustulia soror\Frustulia soror -soror5.png
+446;E:\浦思悦\2023.3代码/datasets/test\Frustulia vulgaris\Frustulia vulgaris -LM_f_vulgaris_54b.png
+446;E:\浦思悦\2023.3代码/datasets/test\Frustulia vulgaris\Frustulia vulgaris -LM_f_vulgaris_555.png
+446;E:\浦思悦\2023.3代码/datasets/test\Frustulia vulgaris\Frustulia vulgaris-19(10μm).PNG
+447;E:\浦思悦\2023.3代码/datasets/test\Geissleria acceptata\Geissleria acceptata-25.2(1μm).jpg
+447;E:\浦思悦\2023.3代码/datasets/test\Geissleria acceptata\Geissleria acceptata-25.3(1μm).jpg
+448;E:\浦思悦\2023.3代码/datasets/test\Geissleria cascadensis\Geissleria cascadensis -Navicula_cascadensis_274501_6.jpg
+448;E:\浦思悦\2023.3代码/datasets/test\Geissleria cascadensis\Geissleria cascadensis -Navicula_cascadensis_274501_7.jpg
+448;E:\浦思悦\2023.3代码/datasets/test\Geissleria cascadensis\Geissleria cascadensis -Navicula_cascadensis_500101_4.jpg
+449;E:\浦思悦\2023.3代码/datasets/test\Geissleria decussis\Geissleria decussis -25.2(2μm).jpg
+449;E:\浦思悦\2023.3代码/datasets/test\Geissleria decussis\Geissleria decussis -25.3(10μm).jpg
+450;E:\浦思悦\2023.3代码/datasets/test\Geissleria ignota\Geissleria ignota -geis7.jpg
+451;E:\浦思悦\2023.3代码/datasets/test\Geissleria kriegeri\Geissleria kriegeri -GS020301_GEkr_4ed.jpg
+451;E:\浦思悦\2023.3代码/datasets/test\Geissleria kriegeri\Geissleria kriegeri -GS020301_GEkr_5ed.jpg
+452;E:\浦思悦\2023.3代码/datasets/test\Geissleria lateropunctata\Geissleria lateropunctata -GS003301_5ed.jpg
+452;E:\浦思悦\2023.3代码/datasets/test\Geissleria lateropunctata\Geissleria lateropunctata_5.jpg
+453;E:\浦思悦\2023.3代码/datasets/test\Geissleria punctifera\Geissleria punctifera -GS024161_4.jpg
+454;E:\浦思悦\2023.3代码/datasets/test\Genkalia digitulus\Genkalia digitulus -Genkalia-digitulus-ME10023_A_101817_35_c.jpg
+454;E:\浦思悦\2023.3代码/datasets/test\Genkalia digitulus\Genkalia digitulus -Genkalia-digitulus-NH10066_A_121117_11_c.jpg
+455;E:\浦思悦\2023.3代码/datasets/test\Gliwiczia calcar\Gliwiczia calcar -OR032144_GC110008_15.jpg
+455;E:\浦思悦\2023.3代码/datasets/test\Gliwiczia calcar\Gliwiczia calcar -OR032144_GC110008_17.jpg
+456;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis eriense\Gomphoneis eriense -eriense_boyer_T-5-14004.jpg
+457;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis eriense var. angularis\Gomphoneis eriense var. angularis -angularis_005.jpg
+458;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis eriense var. apiculata\Gomphoneis eriense var. apiculata -apiculata_005.jpg
+459;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis eriense var. variabilis\Gomphoneis eriense var. variabilis -variabilis_005.jpg
+460;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis herculeana\Gomphoneis herculeana -herculeana_003.jpg
+460;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis herculeana\Gomphoneis herculeana -herculeana_004b.jpg
+461;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis herculeana var. abundans\Gomphoneis herculeana var. abundans -abundans_005.jpg
+462;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis herculeana var. loweii\Gomphoneis herculeana var. loweii -loweii_003a.jpg
+463;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis mammilla\Gomphoneis mammilla_2.jpg
+464;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis minuta\Gomphoneis minuta_1.jpg
+465;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis oreophila\Gomphoneis oreophila -518rcnapc_Gomphoneis_3_100x_17_copy.jpg
+465;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis oreophila\Gomphoneis oreophila -518rcnapc_Gomphoneis_eriense_100x_10_copy.jpg
+465;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis oreophila\Gomphoneis oreophila -G3_33_10.jpg
+466;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis pseudo-okunoi\Gomphoneis pseudo-okunoi -quadripunctata_004.jpg
+466;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis pseudo-okunoi\Gomphoneis pseudo-okunoi -quadripunctate_006.jpg
+467;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis septa\Gomphoneis septa -2septa_005.jpg
+468;E:\浦思悦\2023.3代码/datasets/test\Gomphoneis trullata\Gomphoneis trullata -trullata_010.jpg
+469;E:\浦思悦\2023.3代码/datasets/test\Gomphonella olivacea\Gomphonella olivacea -olivacea_004.jpg
+469;E:\浦思悦\2023.3代码/datasets/test\Gomphonella olivacea\Gomphonella olivacea -olivacea_007.jpg
+469;E:\浦思悦\2023.3代码/datasets/test\Gomphonella olivacea\Gomphonella olivacea -olivacea_008.jpg
+470;E:\浦思悦\2023.3代码/datasets/test\Gomphonema acuminatum\Gomphonema acuminatum -gomphonema_acuminatum_004.jpg
+470;E:\浦思悦\2023.3代码/datasets/test\Gomphonema acuminatum\Gomphonema acuminatum-20 10μm.PNG
+471;E:\浦思悦\2023.3代码/datasets/test\Gomphonema amerhombicum\Gomphonema amerhombicum -g_amerhombicum_B_isotype_20170301_09_cl.jpeg
+471;E:\浦思悦\2023.3代码/datasets/test\Gomphonema amerhombicum\Gomphonema amerhombicum -g_amerhombicum_B_isotype_20170301_14_cl.jpeg
+471;E:\浦思悦\2023.3代码/datasets/test\Gomphonema amerhombicum\Gomphonema amerhombicum -g_amerhombicum_B_isotype_20170301_21_cl.jpeg
+472;E:\浦思悦\2023.3代码/datasets/test\Gomphonema americobtusatum\Gomphonema americobtusatum -Gomphonema_americobtusatum_497901_2.jpg
+472;E:\浦思悦\2023.3代码/datasets/test\Gomphonema americobtusatum\Gomphonema americobtusatum -Gomphonema_americobtusatum_5_405501.jpg
+473;E:\浦思悦\2023.3代码/datasets/test\Gomphonema apicatum\Gomphonema apicatum -apicatum_boyer_688005.jpg
+474;E:\浦思悦\2023.3代码/datasets/test\Gomphonema apuncto\Gomphonema apuncto -duplicate.apuncto.gc4242brev004.png
+475;E:\浦思悦\2023.3代码/datasets/test\Gomphonema brebissonii\Gomphonema brebissonii -brebissonii_gc8988b003.jpg
+475;E:\浦思悦\2023.3代码/datasets/test\Gomphonema brebissonii\Gomphonema brebissonii -brebissonii_gc8988b005.jpg
+476;E:\浦思悦\2023.3代码/datasets/test\Gomphonema californicum\Gomphonema californicum -518RCNAPC_20170202__14_cl.jpeg
+476;E:\浦思悦\2023.3代码/datasets/test\Gomphonema californicum\Gomphonema californicum -518RCNAPC_20170202__15_cl.jpeg
+477;E:\浦思悦\2023.3代码/datasets/test\Gomphonema caperatum\Gomphonema caperatum -g_caperatum_15959a_04042016_33_cl.jpeg
+477;E:\浦思悦\2023.3代码/datasets/test\Gomphonema caperatum\Gomphonema caperatum -g_caperatum_15963a_04052016_02_cl.jpeg
+477;E:\浦思悦\2023.3代码/datasets/test\Gomphonema caperatum\Gomphonema caperatum -g_caperatum_15971a_04082016_01.jpg
+478;E:\浦思悦\2023.3代码/datasets/test\Gomphonema christenseni\Gomphonema christenseni -6_53920_Gchristenseni2.jpg
+478;E:\浦思悦\2023.3代码/datasets/test\Gomphonema christenseni\Gomphonema christenseni -7_53920_Gchristenseni2.jpg
+479;E:\浦思悦\2023.3代码/datasets/test\Gomphonema consector\Gomphonema consector -Gomphonema_consector3.jpg
+479;E:\浦思悦\2023.3代码/datasets/test\Gomphonema consector\Gomphonema consector -Gomphonema_consector4.jpg
+479;E:\浦思悦\2023.3代码/datasets/test\Gomphonema consector\Gomphonema consector -Gomphonema_consector7.jpg
+480;E:\浦思悦\2023.3代码/datasets/test\Gomphonema coronatum\Gomphonema coronatum -coronatum_gc4367a007.jpg
+480;E:\浦思悦\2023.3代码/datasets/test\Gomphonema coronatum\Gomphonema coronatum-23.PNG
+481;E:\浦思悦\2023.3代码/datasets/test\Gomphonema distans\Gomphonema distans -Gomphonema_distans_6_683001.jpg
+481;E:\浦思悦\2023.3代码/datasets/test\Gomphonema distans\Gomphonema distans -Gomphonema_distans_7_683001.jpg
+482;E:\浦思悦\2023.3代码/datasets/test\Gomphonema duplipunctatum\Gomphonema duplipunctatum -Gomphonema_bipunctatum_5_503501.jpg
+483;E:\浦思悦\2023.3代码/datasets/test\Gomphonema eileencoxiae\Gomphonema eileencoxiae -Kurtkrammeria_coxiae_459301_5.jpg
+483;E:\浦思悦\2023.3代码/datasets/test\Gomphonema eileencoxiae\Gomphonema eileencoxiae -Kurtkrammeria_coxiae_459401_4.jpg
+484;E:\浦思悦\2023.3代码/datasets/test\Gomphonema elongatum\Gomphonema elongatum -acuminatumelongatum_wsmith_317006.jpg
+485;E:\浦思悦\2023.3代码/datasets/test\Gomphonema freesei\Gomphonema freesei -GC53921_Gomphonema_freesei_4b_holotype.jpg
+486;E:\浦思悦\2023.3代码/datasets/test\Gomphonema germainii\Gomphonema germainii -GOgermanii-804_27.4_.jpg
+487;E:\浦思悦\2023.3代码/datasets/test\Gomphonema gibba\Gomphonema gibba -Gomphonema_gibba_4356A_5.jpg
+488;E:\浦思悦\2023.3代码/datasets/test\Gomphonema incognitum\Gomphonema incognitum -g_incog_15576a_08142015_29_cl.jpeg
+488;E:\浦思悦\2023.3代码/datasets/test\Gomphonema incognitum\Gomphonema incognitum -g_incog_15620a_10132015_12_cl.jpeg
+489;E:\浦思悦\2023.3代码/datasets/test\Gomphonema insularum\Gomphonema insularum -5_ginsularum_104739a.png
+489;E:\浦思悦\2023.3代码/datasets/test\Gomphonema insularum\Gomphonema insularum -6_ginsularum_104739a.png
+490;E:\浦思悦\2023.3代码/datasets/test\Gomphonema johnsonii\Gomphonema johnsonii -Gomphjohnsonii4.jpg
+490;E:\浦思悦\2023.3代码/datasets/test\Gomphonema johnsonii\Gomphonema johnsonii -Gomphjohnsonii6.jpg
+490;E:\浦思悦\2023.3代码/datasets/test\Gomphonema johnsonii\Gomphonema johnsonii -Gomphjohnsonii_SEM_footpole_3mu.jpg
+491;E:\浦思悦\2023.3代码/datasets/test\Gomphonema kobayasii\Gomphonema kobayasii -kobayasii_004.jpg
+492;E:\浦思悦\2023.3代码/datasets/test\Gomphonema lagenula\Gomphonema lagenula -Gomphonema-lagenula_GCUTRC6R3_2018.jpg
+492;E:\浦思悦\2023.3代码/datasets/test\Gomphonema lagenula\Gomphonema lagenula_2.jpg
+493;E:\浦思悦\2023.3代码/datasets/test\Gomphonema louisiananum\Gomphonema louisiananum -g_louisiananum_15385b_10082015_11_cl.jpeg
+493;E:\浦思悦\2023.3代码/datasets/test\Gomphonema louisiananum\Gomphonema louisiananum -g_louisiananum_15385b_10082015_14_cl.jpeg
+494;E:\浦思悦\2023.3代码/datasets/test\Gomphonema manubrium\Gomphonema manubrium -25.3(10μm).jpeg
+495;E:\浦思悦\2023.3代码/datasets/test\Gomphonema mehleri\Gomphonema mehleri -gomp_mehleri_15551b2_03242016_08_cl.jpeg
+495;E:\浦思悦\2023.3代码/datasets/test\Gomphonema mehleri\Gomphonema mehleri -gomp_mehleri_15551b_03232016_uncounted_gomp1_03_cl.jpeg
+496;E:\浦思悦\2023.3代码/datasets/test\Gomphonema mexicanum\Gomphonema mexicanum_1.jpg
+497;E:\浦思悦\2023.3代码/datasets/test\Gomphonema montezumense\Gomphonema montezumense -540_18.3um_Gmont_BW.jpg
+497;E:\浦思悦\2023.3代码/datasets/test\Gomphonema montezumense\Gomphonema montezumense -566_19.1um_Gmont_BW.jpg
+498;E:\浦思悦\2023.3代码/datasets/test\Gomphonema nathorstii\Gomphonema nathorstii -Gomphonema_nathorstii_682801_7.jpg
+498;E:\浦思悦\2023.3代码/datasets/test\Gomphonema nathorstii\Gomphonema nathorstii_2.jpg
+499;E:\浦思悦\2023.3代码/datasets/test\Gomphonema olivaceoides var. densestriata\Gomphonema olivaceoides var. densestriata -g_oliv_v_dens_GC60992_20161207_14_cl.jpeg
+499;E:\浦思悦\2023.3代码/datasets/test\Gomphonema olivaceoides var. densestriata\Gomphonema olivaceoides var. densestriata -g_oliv_v_dens_GC60992_20161207_15_cl.jpeg
+500;E:\浦思悦\2023.3代码/datasets/test\Gomphonema olivaceoides var. hutchinsoniana\Gomphonema olivaceoides var. hutchinsoniana -Gomphonema-olivaceoides-hutchinsoniana_595px_11_GC112789.jpg
+500;E:\浦思悦\2023.3代码/datasets/test\Gomphonema olivaceoides var. hutchinsoniana\Gomphonema olivaceoides var. hutchinsoniana -Gomphonema-olivaceoides-hutchinsoniana_627px_15_GC112789.jpg
+501;E:\浦思悦\2023.3代码/datasets/test\Gomphonema parvulum\Gomphonema parvulum 6.4(1μm).png
+502;E:\浦思悦\2023.3代码/datasets/test\Gomphonema pseudosphaerophorum\Gomphonema pseudosphaerophorum -3_gpseudosphaerophorum_104739a.png
+503;E:\浦思悦\2023.3代码/datasets/test\Gomphonema pusillum\Gomphonema pusillum -pusillum1_gc2209003.jpg
+503;E:\浦思悦\2023.3代码/datasets/test\Gomphonema pusillum\Gomphonema pusillum -pusillum1_gc2209008.jpeg
+504;E:\浦思悦\2023.3代码/datasets/test\Gomphonema pygmaeum\Gomphonema pygmaeum -G_pygmaeum.111316a.004rev.jpg
+505;E:\浦思悦\2023.3代码/datasets/test\Gomphonema reimeri\Gomphonema reimeri -g_reimeri_15592c_02262016_03_Gomphonema_SESQA_cl.jpeg
+505;E:\浦思悦\2023.3代码/datasets/test\Gomphonema reimeri\Gomphonema reimeri -g_reimeri_15612c_12182015_01_cl.jpeg
+506;E:\浦思悦\2023.3代码/datasets/test\Gomphonema sarcophagus\Gomphonema sarcophagus -G.sarcophagus.114.jpg
+506;E:\浦思悦\2023.3代码/datasets/test\Gomphonema sarcophagus\Gomphonema sarcophagus_15.jpg
+506;E:\浦思悦\2023.3代码/datasets/test\Gomphonema sarcophagus\Gomphonema sarcophagus_9.jpg
+507;E:\浦思悦\2023.3代码/datasets/test\Gomphonema semiapertum\Gomphonema semiapertum -Gomphonema_semiapertum_3_457201.jpg
+507;E:\浦思悦\2023.3代码/datasets/test\Gomphonema semiapertum\Gomphonema semiapertum -Gomphonema_semiapertum_5_464901.jpg
+508;E:\浦思悦\2023.3代码/datasets/test\Gomphonema sierranum\Gomphonema sierranum -gomphonema_7_14379_clm.jpeg
+508;E:\浦思悦\2023.3代码/datasets/test\Gomphonema sierranum\Gomphonema sierranum -Gomphonema_sp_12_14372_clm.jpeg
+508;E:\浦思悦\2023.3代码/datasets/test\Gomphonema sierranum\Gomphonema sierranum -g_sierrianum_533SPILSA_10.9.15_dup_20170118_07_cl.jpeg
+509;E:\浦思悦\2023.3代码/datasets/test\Gomphonema sphaerophorum\Gomphonema sphaerophorum -25.3(10μm).jpeg
+510;E:\浦思悦\2023.3代码/datasets/test\Gomphonema submehleri\Gomphonema submehleri -GOsubmehleri-870_29.6-3_.jpg
+511;E:\浦思悦\2023.3代码/datasets/test\Gomphonema superiorense\Gomphonema superiorense -GOsuperiorense-777_26.5_.jpg
+511;E:\浦思悦\2023.3代码/datasets/test\Gomphonema superiorense\Gomphonema superiorense6.jpg
+512;E:\浦思悦\2023.3代码/datasets/test\Gomphonema truncatum\Gomphonema truncatum-23 10.PNG
+512;E:\浦思悦\2023.3代码/datasets/test\Gomphonema truncatum\Gomphonema truncatum_3_horizontal.jpg
+512;E:\浦思悦\2023.3代码/datasets/test\Gomphonema truncatum\Gomphonema truncatum_4_vertical.jpg
+513;E:\浦思悦\2023.3代码/datasets/test\Gomphonema turgidum\Gomphonema turgidum -gomp_turg_15544a_09172015_25_cl.jpeg
+513;E:\浦思悦\2023.3代码/datasets/test\Gomphonema turgidum\Gomphonema turgidum -gomp_turg_15596a_09042015_33_cl.jpeg
+513;E:\浦思悦\2023.3代码/datasets/test\Gomphonema turgidum\Gomphonema turgidum_2_horizontal.jpg
+514;E:\浦思悦\2023.3代码/datasets/test\Gomphonema turris\Gomphonema turris_1.jpg
+515;E:\浦思悦\2023.3代码/datasets/test\Gomphonema variostriatum\Gomphonema variostriatum -25.3(10μm).jpg
+516;E:\浦思悦\2023.3代码/datasets/test\Gomphonema ventricosum\Gomphonema ventricosum -ventricosum_005.jpg
+517;E:\浦思悦\2023.3代码/datasets/test\Gomphosinica geitleri\Gomphosinica geitleri -SodaButteMT_1.jpg
+517;E:\浦思悦\2023.3代码/datasets/test\Gomphosinica geitleri\Gomphosinica geitleri -SodaButteMT_3.jpg
+517;E:\浦思悦\2023.3代码/datasets/test\Gomphosinica geitleri\Gomphosinica geitleri_4.jpg
+518;E:\浦思悦\2023.3代码/datasets/test\Gomphosphenia grovei\Gomphosphenia grovei -grovei-jpk_598_010.jpg
+518;E:\浦思悦\2023.3代码/datasets/test\Gomphosphenia grovei\Gomphosphenia grovei -grovei-jpk_598_018.jpg
+519;E:\浦思悦\2023.3代码/datasets/test\Gomphosphenia lingulatiformis\Gomphosphenia lingulatiformis -g_lingulatiformis_15588a_08172015_17_cl.jpeg
+519;E:\浦思悦\2023.3代码/datasets/test\Gomphosphenia lingulatiformis\Gomphosphenia lingulatiformis -g_lingulatiformis_15588a_08172015_28_cl.jpeg
+520;E:\浦思悦\2023.3代码/datasets/test\Gomphosphenia stoermeri\Gomphosphenia stoermeri -Gomphosphenia_tackei_var_brevistriatum_100x_k_GC53756.jpg
+520;E:\浦思悦\2023.3代码/datasets/test\Gomphosphenia stoermeri\Gomphosphenia stoermeri -Gomphosphenia_tackei_var_brevistriatum_100x_r_GC53756.jpg
+521;E:\浦思悦\2023.3代码/datasets/test\Grunowia sinuata\Grunowia sinuata -Nitzschia_sinuata_v._sinuata_4.jpg
+522;E:\浦思悦\2023.3代码/datasets/test\Grunowia solgensis\Grunowia solgensis -25.2(10μm).jpeg
+522;E:\浦思悦\2023.3代码/datasets/test\Grunowia solgensis\Grunowia solgensis -25.3(10μm).jpeg
+523;E:\浦思悦\2023.3代码/datasets/test\Grunowia tabellaria\Grunowia tabellaria -nitzschia_sinuata_tabellaria_005a.jpg
+523;E:\浦思悦\2023.3代码/datasets/test\Grunowia tabellaria\Grunowia tabellaria -nitzschia_sinuata_tabellaria_006a.jpg
+524;E:\浦思悦\2023.3代码/datasets/test\Gyrosigma acuminatum\Gyrosigma acuminatum_1.jpg
+525;E:\浦思悦\2023.3代码/datasets/test\Gyrosigma attenuatum\Gyrosigma attenuatum -25.2(10μm).jpg
+525;E:\浦思悦\2023.3代码/datasets/test\Gyrosigma attenuatum\Gyrosigma attenuatum -25.3(10μm).jpg
+526;E:\浦思悦\2023.3代码/datasets/test\Gyrosigma obscurum\Gyrosigma obscurum -Gyrosigma-obscurum-ME10042_A_102417_54_c.jpg
+526;E:\浦思悦\2023.3代码/datasets/test\Gyrosigma obscurum\Gyrosigma obscurum -Gyrosigma-obscurum-ME10042_C_012318_04_c.jpg
+527;E:\浦思悦\2023.3代码/datasets/test\Halamphora coffeaeformis\Halamphora coffeaeformis -coffeaeformis_327_09.jpg
+527;E:\浦思悦\2023.3代码/datasets/test\Halamphora coffeaeformis\Halamphora coffeaeformis-4.PNG
+528;E:\浦思悦\2023.3代码/datasets/test\Halamphora elongata\Halamphora elongata -Hsubcapitata045-010.png
+528;E:\浦思悦\2023.3代码/datasets/test\Halamphora elongata\Halamphora elongata -Hsubcapitata062BR-16.png
+529;E:\浦思悦\2023.3代码/datasets/test\Halamphora latecostata\Halamphora latecostata -h_acutiuscula_GC6565b_18_cl.jpeg
+529;E:\浦思悦\2023.3代码/datasets/test\Halamphora latecostata\Halamphora latecostata -h_acutiuscula_GC6565b_20_cl.jpeg
+530;E:\浦思悦\2023.3代码/datasets/test\Halamphora montana\Halamphora montana 10.4(1μm).png
+530;E:\浦思悦\2023.3代码/datasets/test\Halamphora montana\Halamphora montana_5.jpg
+530;E:\浦思悦\2023.3代码/datasets/test\Halamphora montana\Halamphora montana_6.jpg
+531;E:\浦思悦\2023.3代码/datasets/test\Halamphora normanii\Halamphora normanii -normanii_336_01.jpg
+532;E:\浦思悦\2023.3代码/datasets/test\Halamphora oligotraphenta\Halamphora oligotraphenta -360_sp1_04.jpg
+532;E:\浦思悦\2023.3代码/datasets/test\Halamphora oligotraphenta\Halamphora oligotraphenta -360_sp1_07.jpg
+533;E:\浦思悦\2023.3代码/datasets/test\Halamphora submontana\Halamphora submontana 10.6(1μm).png
+533;E:\浦思悦\2023.3代码/datasets/test\Halamphora submontana\Halamphora submontana 10.7(1μm).png
+534;E:\浦思悦\2023.3代码/datasets/test\Halamphora subtilis\Halamphora subtilis -Halamphora-subtilis-LM14.jpg
+534;E:\浦思悦\2023.3代码/datasets/test\Halamphora subtilis\Halamphora subtilis -Halamphora-subtilis-LM2.jpg
+535;E:\浦思悦\2023.3代码/datasets/test\Halamphora thumensis\Halamphora thumensis -thumensis_340_01.jpg
+536;E:\浦思悦\2023.3代码/datasets/test\Halamphora veneta\Halamphora veneta -veneta_334_02.jpg
+536;E:\浦思悦\2023.3代码/datasets/test\Halamphora veneta\Halamphora veneta_3.jpg
+537;E:\浦思悦\2023.3代码/datasets/test\Hannaea arcus\Hannaea arcus -hannaea_005.jpg
+538;E:\浦思悦\2023.3代码/datasets/test\Hannaea superiorensis\Hannaea superiorensis -MBE_499a_3043_138.jpg
+538;E:\浦思悦\2023.3代码/datasets/test\Hannaea superiorensis\Hannaea superiorensis -MBE_499a__2434_111.jpg
+539;E:\浦思悦\2023.3代码/datasets/test\Hippodonta capitata\Hippodonta capitata 6.3(1μm).png
+539;E:\浦思悦\2023.3代码/datasets/test\Hippodonta capitata\Hippodonta capitata_1.jpg
+539;E:\浦思悦\2023.3代码/datasets/test\Hippodonta capitata\Hippodonta capitata_5.jpg
+540;E:\浦思悦\2023.3代码/datasets/test\Hippodonta capitata subsp. iberoamericana\Hippodonta capitata subsp. iberoamericana -GS127032_HIiber_4.jpg
+540;E:\浦思悦\2023.3代码/datasets/test\Hippodonta capitata subsp. iberoamericana\Hippodonta capitata subsp. iberoamericana -GS127032_HIiber_6.jpg
+540;E:\浦思悦\2023.3代码/datasets/test\Hippodonta capitata subsp. iberoamericana\Hippodonta capitata subsp. iberoamericana -GS127032_HIiber_7.jpg
+541;E:\浦思悦\2023.3代码/datasets/test\Hippodonta coxiae\Hippodonta coxiae -MO000332_HPcox5.jpg
+541;E:\浦思悦\2023.3代码/datasets/test\Hippodonta coxiae\Hippodonta coxiae -MO000332_HPcox6.jpg
+542;E:\浦思悦\2023.3代码/datasets/test\Hippodonta gravistriata\Hippodonta gravistriata -GC8031_NAgravi_zeiss_4.jpg
+542;E:\浦思悦\2023.3代码/datasets/test\Hippodonta gravistriata\Hippodonta gravistriata -GC8031_NAgravi_zeiss_5.jpg
+543;E:\浦思悦\2023.3代码/datasets/test\Hippodonta hungarica\Hippodonta hungarica -MO000191_HIhung3.jpg
+543;E:\浦思悦\2023.3代码/datasets/test\Hippodonta hungarica\Hippodonta hungarica -NRSA0172_HIhung2.jpg
+544;E:\浦思悦\2023.3代码/datasets/test\Hippodonta pseudacceptata\Hippodonta pseudacceptata -hip_pseud_15578a_09182015_01_cl.jpeg
+544;E:\浦思悦\2023.3代码/datasets/test\Hippodonta pseudacceptata\Hippodonta pseudacceptata -hip_pseud_15652a_09172015_14_cl.jpeg
+545;E:\浦思悦\2023.3代码/datasets/test\Humidophila contenta\Humidophila contenta 6.4(1μm).png
+545;E:\浦思悦\2023.3代码/datasets/test\Humidophila contenta\Humidophila contenta 6.5(3μm).png
+545;E:\浦思悦\2023.3代码/datasets/test\Humidophila contenta\Humidophila contenta_3.jpg
+546;E:\浦思悦\2023.3代码/datasets/test\Humidophila pantropica\Humidophila pantropica -pantrop8.jpg
+546;E:\浦思悦\2023.3代码/datasets/test\Humidophila pantropica\Humidophila pantropica -pantropica2.jpg
+547;E:\浦思悦\2023.3代码/datasets/test\Humidophila perpusilla\Humidophila perpusilla -Humidophila-perpusilla-NYHP001_A_121417_15_c.jpg
+548;E:\浦思悦\2023.3代码/datasets/test\Humidophila schmassmanni\Humidophila schmassmanni -C_shmassmannii_113890a_104_5x156.jpg
+548;E:\浦思悦\2023.3代码/datasets/test\Humidophila schmassmanni\Humidophila schmassmanni_1.jpg
+549;E:\浦思悦\2023.3代码/datasets/test\Humidophila undulata\Humidophila undulata -humund5.jpg
+549;E:\浦思悦\2023.3代码/datasets/test\Humidophila undulata\Humidophila undulata -humund9.jpg
+550;E:\浦思悦\2023.3代码/datasets/test\Hydrosera whampoensis\Hydrosera whampoensis -HYwhampoensis_ILL2013-132-3.jpg
+551;E:\浦思悦\2023.3代码/datasets/test\Hygropetra balfouriana\Hygropetra balfouriana -pinnbalf_002.jpg
+552;E:\浦思悦\2023.3代码/datasets/test\Iconella hibernica\Iconella hibernica7.jpg
+552;E:\浦思悦\2023.3代码/datasets/test\Iconella hibernica\Iconella hibernica_7.jpg
+553;E:\浦思悦\2023.3代码/datasets/test\Karayevia amoena\Karayevia amoena -KARam_GS027563_6a_ed.jpg
+553;E:\浦思悦\2023.3代码/datasets/test\Karayevia amoena\Karayevia amoena -KARam_GS027563_6b_ed.jpg
+553;E:\浦思悦\2023.3代码/datasets/test\Karayevia amoena\Karayevia amoena-10(a) overall view. (b) rapheless valve. (c) raphe valve. (d) diatom frustule with girdle bands..PNG
+554;E:\浦思悦\2023.3代码/datasets/test\Karayevia clevei\Karayevia clevei -GS115987_5.jpg
+554;E:\浦思悦\2023.3代码/datasets/test\Karayevia clevei\Karayevia clevei -GS115987_7.jpg
+554;E:\浦思悦\2023.3代码/datasets/test\Karayevia clevei\Karayevia clevei -GSN23519_1_1.jpg
+555;E:\浦思悦\2023.3代码/datasets/test\Karayevia laterostrata\Karayevia laterostrata -MO000019_KARlatero_1a.jpg
+555;E:\浦思悦\2023.3代码/datasets/test\Karayevia laterostrata\Karayevia laterostrata -MO000019_KARlatero_1b.jpg
+555;E:\浦思悦\2023.3代码/datasets/test\Karayevia laterostrata\Karayevia laterostrata_1.jpg
+556;E:\浦思悦\2023.3代码/datasets/test\Karayevia nitidiformis\Karayevia nitidiformis -K_nitidiformis_holly29_8_copy.jpg
+556;E:\浦思悦\2023.3代码/datasets/test\Karayevia nitidiformis\Karayevia nitidiformis_3.jpg
+557;E:\浦思悦\2023.3代码/datasets/test\Karayevia ploenensis var. gessneri\Karayevia ploenensis var. gessneri -NYS00073_GC111773_5.jpg
+557;E:\浦思悦\2023.3代码/datasets/test\Karayevia ploenensis var. gessneri\Karayevia ploenensis var. gessneri -NYS00073_GC111773_6.jpg
+557;E:\浦思悦\2023.3代码/datasets/test\Karayevia ploenensis var. gessneri\Karayevia ploenensis var. gessneri -NYS00073_GC111773_8.jpg
+558;E:\浦思悦\2023.3代码/datasets/test\Karayevia suchlandtii\Karayevia suchlandtii -MO000019_3_ed.jpg
+558;E:\浦思悦\2023.3代码/datasets/test\Karayevia suchlandtii\Karayevia suchlandtii -MO000254_1_ed.jpg
+558;E:\浦思悦\2023.3代码/datasets/test\Karayevia suchlandtii\Karayevia suchlandtii_1.jpg
+559;E:\浦思悦\2023.3代码/datasets/test\Kobayasiella jaagii\Kobayasiella jaagii -Kjaag4.jpg
+560;E:\浦思悦\2023.3代码/datasets/test\Kobayasiella micropunctata\Kobayasiella micropunctata -Kmicro5.jpg
+560;E:\浦思悦\2023.3代码/datasets/test\Kobayasiella micropunctata\Kobayasiella micropunctata -Kmicro6.jpg
+561;E:\浦思悦\2023.3代码/datasets/test\Kobayasiella okadae\Kobayasiella okadae -Kokadae2.jpg
+561;E:\浦思悦\2023.3代码/datasets/test\Kobayasiella okadae\Kobayasiella okadae -Kokadae3.jpg
+562;E:\浦思悦\2023.3代码/datasets/test\Kobayasiella parasubtilissima\Kobayasiella parasubtilissima -Kparasub5.jpg
+563;E:\浦思悦\2023.3代码/datasets/test\Kobayasiella subtilissima\Kobayasiella subtilissima -Ksub3.jpg
+564;E:\浦思悦\2023.3代码/datasets/test\Krasskella kriegeriana\Krasskella kriegeriana -Krasskella_kriegeriana_14380_3.jpg
+564;E:\浦思悦\2023.3代码/datasets/test\Krasskella kriegeriana\Krasskella kriegeriana_2.jpg
+565;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria aequalis\Kurtkrammeria aequalis -Encyonopsisaequaliformis5.jpg
+565;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria aequalis\Kurtkrammeria aequalis -Encyonopsisaequaliformis7.jpg
+566;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria lacusglacialis\Kurtkrammeria lacusglacialis -Encyonadaensis_6.jpg
+567;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria neoamphioxys\Kurtkrammeria neoamphioxys -Encyonopsis_neoamphioxys_5.jpg
+568;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria stodderi\Kurtkrammeria stodderi -Encyonopsis_stodderi_4.jpg
+568;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria stodderi\Kurtkrammeria stodderi -Encyonopsis_stodderi_7.jpg
+569;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria subspicula\Kurtkrammeria subspicula -Encyonopsis_subspicula5.jpg
+570;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria treinishii\Kurtkrammeria treinishii -Encyotreinischii_6.jpg
+571;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria weilandii\Kurtkrammeria weilandii -Kurtkrammeria_weilandii_501501_3.jpg
+571;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria weilandii\Kurtkrammeria weilandii -Kurtkrammeria_weilandii_501501_4.jpg
+571;E:\浦思悦\2023.3代码/datasets/test\Kurtkrammeria weilandii\Kurtkrammeria weilandii -Kurtkrammeria_weilandii_519801.jpg
+572;E:\浦思悦\2023.3代码/datasets/test\Lacustriella lacustris\Lacustriella lacustris -LAlacust_MBE2215a_899_41.jpg
+573;E:\浦思悦\2023.3代码/datasets/test\Lemnicola hungarica\Lemnicola hungarica 8.1(2μm).png
+573;E:\浦思悦\2023.3代码/datasets/test\Lemnicola hungarica\Lemnicola hungarica 8.2(10μm).png
+573;E:\浦思悦\2023.3代码/datasets/test\Lemnicola hungarica\Lemnicola hungarica_7.jpg
+574;E:\浦思悦\2023.3代码/datasets/test\Lindavia affinis\Lindavia affinis -L._affinis_4.1_JM.jpeg
+575;E:\浦思悦\2023.3代码/datasets/test\Lindavia antiqua\Lindavia antiqua -Cyclotella_antiqua_6.jpg
+575;E:\浦思悦\2023.3代码/datasets/test\Lindavia antiqua\Lindavia antiqua -Cyclotella_antiqua_7.jpg
+576;E:\浦思悦\2023.3代码/datasets/test\Lindavia bodanica\Lindavia bodanica -MBE180_690_31.jpg
+576;E:\浦思悦\2023.3代码/datasets/test\Lindavia bodanica\Lindavia bodanica -MBE_180_398_18-2-2.jpg
+577;E:\浦思悦\2023.3代码/datasets/test\Lindavia comensis\Lindavia comensis -LIcomensis_MBE139_162_9.jpg
+577;E:\浦思悦\2023.3代码/datasets/test\Lindavia comensis\Lindavia comensis -LIcomensis_MBE139_186_10.3.jpg
+578;E:\浦思悦\2023.3代码/datasets/test\Lindavia delicatula\Lindavia delicatula -CYdelic-7.jpg
+579;E:\浦思悦\2023.3代码/datasets/test\Lindavia eriensis\Lindavia eriensis -LIeriensis_566_34.jpg
+579;E:\浦思悦\2023.3代码/datasets/test\Lindavia eriensis\Lindavia eriensis -LIeriensis_794_48.jpg
+580;E:\浦思悦\2023.3代码/datasets/test\Lindavia intermedia\Lindavia intermedia -C_bodanica_intermedia_LM4.jpg
+580;E:\浦思悦\2023.3代码/datasets/test\Lindavia intermedia\Lindavia intermedia -C_bodanica_intermedia_LM5.jpg
+580;E:\浦思悦\2023.3代码/datasets/test\Lindavia intermedia\Lindavia intermedia -C_bodanica_intermedia_LM7.jpg
+581;E:\浦思悦\2023.3代码/datasets/test\Lindavia michiganiana\Lindavia michiganiana -CYmich-6.jpg
+581;E:\浦思悦\2023.3代码/datasets/test\Lindavia michiganiana\Lindavia michiganiana -CYmich-7.jpg
+581;E:\浦思悦\2023.3代码/datasets/test\Lindavia michiganiana\Lindavia michiganiana -CYMichi-1.jpg
+582;E:\浦思悦\2023.3代码/datasets/test\Lindavia ocellata\Lindavia ocellata -LIoccel-210-7.jpg
+582;E:\浦思悦\2023.3代码/datasets/test\Lindavia ocellata\Lindavia ocellata_2.jpg
+583;E:\浦思悦\2023.3代码/datasets/test\Lindavia praetermissa\Lindavia praetermissa -Cyclotella_praetermissa_7.jpg
+583;E:\浦思悦\2023.3代码/datasets/test\Lindavia praetermissa\Lindavia praetermissa -Cyclotella_praetermissa_8.jpg
+584;E:\浦思悦\2023.3代码/datasets/test\Lindavia radiosa\Lindavia radiosa -Cyclotella_radiosa_6.jpg
+584;E:\浦思悦\2023.3代码/datasets/test\Lindavia radiosa\Lindavia radiosa -Cyclotella_radiosa_7.jpg
+585;E:\浦思悦\2023.3代码/datasets/test\Lindavia rossii\Lindavia rossii -FallenLeafLakeCA_sed25-30_Crossii8.jpg
+585;E:\浦思悦\2023.3代码/datasets/test\Lindavia rossii\Lindavia rossii_1.jpg
+586;E:\浦思悦\2023.3代码/datasets/test\Luticola arctica\Luticola arctica -LuticolaArctica_GC63412_19.jpg
+586;E:\浦思悦\2023.3代码/datasets/test\Luticola arctica\Luticola arctica -LuticolaArctica_GC63412_6.jpg
+587;E:\浦思悦\2023.3代码/datasets/test\Luticola goeppertiana\Luticola goeppertiana -ILL2017_40_8.jpg
+588;E:\浦思悦\2023.3代码/datasets/test\Luticola minor\Luticola minor -GC44458_110815_01_rev.jpg
+588;E:\浦思悦\2023.3代码/datasets/test\Luticola minor\Luticola minor -GC44458_110815_07_rev.jpg
+589;E:\浦思悦\2023.3代码/datasets/test\Luticola mobiliensis\Luticola mobiliensis -GC53230b_25_cl_rev.jpg
+590;E:\浦思悦\2023.3代码/datasets/test\Luticola simplex\Luticola simplex 6.8(1μm).png
+590;E:\浦思悦\2023.3代码/datasets/test\Luticola simplex\Luticola simplex_3.jpg
+591;E:\浦思悦\2023.3代码/datasets/test\Luticola stigma\Luticola stigma -Lut_sigma_GC48876a_19_cl.jpeg
+591;E:\浦思悦\2023.3代码/datasets/test\Luticola stigma\Luticola stigma -Lut_sigma_GC48876a_22_cl.jpeg
+592;E:\浦思悦\2023.3代码/datasets/test\Luticola ventricosa\Luticola ventricosa -GC63412_5.jpg
+592;E:\浦思悦\2023.3代码/datasets/test\Luticola ventricosa\Luticola ventricosa -GC63412_8.jpg
+593;E:\浦思悦\2023.3代码/datasets/test\Mastogloia albertii\Mastogloia albertii -mastogloia_smithii_003b.jpg
+593;E:\浦思悦\2023.3代码/datasets/test\Mastogloia albertii\Mastogloia albertii -mastogloia_smithii_004a.jpg
+594;E:\浦思悦\2023.3代码/datasets/test\Mastogloia calcarea\Mastogloia calcarea -M_calcarea_6.jpg
+594;E:\浦思悦\2023.3代码/datasets/test\Mastogloia calcarea\Mastogloia calcarea -M_calcarea_7.jpg
+594;E:\浦思悦\2023.3代码/datasets/test\Mastogloia calcarea\Mastogloia calcarea_6.jpg
+595;E:\浦思悦\2023.3代码/datasets/test\Mastogloia elliptica\Mastogloia elliptica -Maselliptica4.jpg
+595;E:\浦思悦\2023.3代码/datasets/test\Mastogloia elliptica\Mastogloia elliptica -Maselliptica6.jpg
+596;E:\浦思悦\2023.3代码/datasets/test\Mastogloia grevillei\Mastogloia grevillei -mastogloia_grevillei_003a.jpg
+596;E:\浦思悦\2023.3代码/datasets/test\Mastogloia grevillei\Mastogloia grevillei -mastogloia_grevillei_005a.jpg
+597;E:\浦思悦\2023.3代码/datasets/test\Mastogloia lacustris\Mastogloia lacustris -mastogloia_smithii_lacustris_004a.jpg
+597;E:\浦思悦\2023.3代码/datasets/test\Mastogloia lacustris\Mastogloia lacustris -mastogloia_smithii_lacustris_005a.jpg
+598;E:\浦思悦\2023.3代码/datasets/test\Mastogloia pseudosmithii\Mastogloia pseudosmithii -M_pseudosmithii_5.jpg
+598;E:\浦思悦\2023.3代码/datasets/test\Mastogloia pseudosmithii\Mastogloia pseudosmithii -M_pseudosmithii_6.jpg
+599;E:\浦思悦\2023.3代码/datasets/test\Mastogloia pumila\Mastogloia pumila -Maspumila2.jpg
+599;E:\浦思悦\2023.3代码/datasets/test\Mastogloia pumila\Mastogloia pumila -Maspumila4.jpg
+600;E:\浦思悦\2023.3代码/datasets/test\Mayamaea cahabaensis\Mayamaea cahabaensis -5_m-cahabaensis_GC58615.png
+600;E:\浦思悦\2023.3代码/datasets/test\Mayamaea cahabaensis\Mayamaea cahabaensis -7_m-cahabaensis_GC58615.png
+601;E:\浦思悦\2023.3代码/datasets/test\Melosira dickiei\Melosira dickiei -4.212_9.6_melo_dickiei_GV.jpg
+602;E:\浦思悦\2023.3代码/datasets/test\Melosira normannii\Melosira normannii -5.802_36.5_Melundnorm_1439A.jpg
+603;E:\浦思悦\2023.3代码/datasets/test\Melosira undulata\Melosira undulata -Meloundulata_vv4.jpg
+603;E:\浦思悦\2023.3代码/datasets/test\Melosira undulata\Melosira undulata_7.jpg
+604;E:\浦思悦\2023.3代码/datasets/test\Melosira varians\Melosira varians -44073_LM7.jpg
+604;E:\浦思悦\2023.3代码/datasets/test\Melosira varians\Melosira varians-3 size bar=10μm.PNG
+605;E:\浦思悦\2023.3代码/datasets/test\Meridion alansmithii\Meridion alansmithii -MEalan_new-3.jpg
+605;E:\浦思悦\2023.3代码/datasets/test\Meridion alansmithii\Meridion alansmithii -MEalan_new-7.jpg
+606;E:\浦思悦\2023.3代码/datasets/test\Meridion anceps\Meridion anceps -GC8976b_04.jpeg
+606;E:\浦思悦\2023.3代码/datasets/test\Meridion anceps\Meridion anceps -GC8976b_09.jpeg
+607;E:\浦思悦\2023.3代码/datasets/test\Meridion circulare\Meridion circulare -meridion_006.jpg
+608;E:\浦思悦\2023.3代码/datasets/test\Meridion circulare var. constrictum\Meridion circulare var. constrictum -S331_copy.jpg
+609;E:\浦思悦\2023.3代码/datasets/test\Meridion lineare\Meridion lineare -Merlineare6.jpg
+609;E:\浦思悦\2023.3代码/datasets/test\Meridion lineare\Meridion lineare -Merlineare7.jpg
+610;E:\浦思悦\2023.3代码/datasets/test\Microcostatus krasskei\Microcostatus krasskei -mic411.jpg
+610;E:\浦思悦\2023.3代码/datasets/test\Microcostatus krasskei\Microcostatus krasskei -mic511.jpg
+611;E:\浦思悦\2023.3代码/datasets/test\Muelleria agnellus\Muelleria agnellus -Muelleria_agnellus_4.jpg
+611;E:\浦思悦\2023.3代码/datasets/test\Muelleria agnellus\Muelleria agnellus -Muelleria_agnellus_5.jpg
+611;E:\浦思悦\2023.3代码/datasets/test\Muelleria agnellus\Muelleria agnellus -Muelleria_agnellus_7.jpg
+612;E:\浦思悦\2023.3代码/datasets/test\Muelleria gibbula\Muelleria gibbula -25.3(5μm).jpg
+612;E:\浦思悦\2023.3代码/datasets/test\Muelleria gibbula\Muelleria gibbula -25.4(10μm).jpg
+612;E:\浦思悦\2023.3代码/datasets/test\Muelleria gibbula\Muelleria gibbula_4.jpg
+613;E:\浦思悦\2023.3代码/datasets/test\Muelleria spauldingiae\Muelleria spauldingiae -Muelleria_spauldingiae_5.jpg
+613;E:\浦思悦\2023.3代码/datasets/test\Muelleria spauldingiae\Muelleria spauldingiae -Muelleria_spauldingiae_8.jpg
+613;E:\浦思悦\2023.3代码/datasets/test\Muelleria spauldingiae\Muelleria spauldingiae -Muelleria_spauldingiae_9.jpg
+614;E:\浦思悦\2023.3代码/datasets/test\Muelleria tetonensis\Muelleria tetonensis_5.jpg
+614;E:\浦思悦\2023.3代码/datasets/test\Muelleria tetonensis\Muelleria tetonensis_6.jpg
+615;E:\浦思悦\2023.3代码/datasets/test\Navicula aitchelbee\Navicula aitchelbee -Naitchelbee4.jpg
+615;E:\浦思悦\2023.3代码/datasets/test\Navicula aitchelbee\Navicula aitchelbee -Naitchelbee5.jpg
+616;E:\浦思悦\2023.3代码/datasets/test\Navicula angusta\Navicula angusta_4.jpg
+616;E:\浦思悦\2023.3代码/datasets/test\Navicula angusta\Navicula angusta_5.jpg
+617;E:\浦思悦\2023.3代码/datasets/test\Navicula antonii\Navicula antonii -Navicula_antonii3.jpg
+617;E:\浦思悦\2023.3代码/datasets/test\Navicula antonii\Navicula antonii -Navicula_antonii6.jpg
+617;E:\浦思悦\2023.3代码/datasets/test\Navicula antonii\Navicula antonii -Navicula_antonii7.jpg
+618;E:\浦思悦\2023.3代码/datasets/test\Navicula aurora\Navicula aurora -Nauro4.jpg
+619;E:\浦思悦\2023.3代码/datasets/test\Navicula canalis\Navicula canalis -ANSP25741-8_cropped_S.jpg
+619;E:\浦思悦\2023.3代码/datasets/test\Navicula canalis\Navicula canalis -ANSP25741-9_cropped_S.jpg
+620;E:\浦思悦\2023.3代码/datasets/test\Navicula capitatoradiata\Navicula capitatoradiata 6.1(5μm).png
+620;E:\浦思悦\2023.3代码/datasets/test\Navicula capitatoradiata\Navicula capitatoradiata 6.3(1μm).png
+620;E:\浦思悦\2023.3代码/datasets/test\Navicula capitatoradiata\Navicula capitatoradiata_6.jpg
+620;E:\浦思悦\2023.3代码/datasets/test\Navicula capitatoradiata\Navicula capitatoradiata_7.jpg
+621;E:\浦思悦\2023.3代码/datasets/test\Navicula cari\Navicula cari -Navcari5.jpg
+621;E:\浦思悦\2023.3代码/datasets/test\Navicula cari\Navicula cari -Navcari7.jpg
+622;E:\浦思悦\2023.3代码/datasets/test\Navicula caroliniae\Navicula caroliniae -Ncaroliniae4.jpg
+622;E:\浦思悦\2023.3代码/datasets/test\Navicula caroliniae\Navicula caroliniae_2.jpg
+623;E:\浦思悦\2023.3代码/datasets/test\Navicula caterva\Navicula caterva -GC44466_8.jpg
+623;E:\浦思悦\2023.3代码/datasets/test\Navicula caterva\Navicula caterva -N_caterva_HOLOTYPE.jpg
+624;E:\浦思悦\2023.3代码/datasets/test\Navicula cincta\Navicula cincta -Navcincta5.jpg
+624;E:\浦思悦\2023.3代码/datasets/test\Navicula cincta\Navicula cincta -Navcincta6.jpg
+625;E:\浦思悦\2023.3代码/datasets/test\Navicula cryptocephala\Navicula cryptocephala -NRSA0406_GC113396_7.jpg
+625;E:\浦思悦\2023.3代码/datasets/test\Navicula cryptocephala\Navicula cryptocephala -NRSA0406_GC113396_9.jpg
+625;E:\浦思悦\2023.3代码/datasets/test\Navicula cryptocephala\Navicula cryptocephala-19 ,10μm.PNG
+626;E:\浦思悦\2023.3代码/datasets/test\Navicula cryptocephaloides\Navicula cryptocephaloides -Ncryptocephaloides5.jpg
+626;E:\浦思悦\2023.3代码/datasets/test\Navicula cryptocephaloides\Navicula cryptocephaloides -Ncryptocephaloides6.jpg
+627;E:\浦思悦\2023.3代码/datasets/test\Navicula cryptofallax\Navicula cryptofallax -Navcryptofallax6.jpg
+628;E:\浦思悦\2023.3代码/datasets/test\Navicula duerrenbergiana\Navicula duerrenbergiana -Nduerrenberg5.jpg
+628;E:\浦思悦\2023.3代码/datasets/test\Navicula duerrenbergiana\Navicula duerrenbergiana -Nduerrenberg7.jpg
+629;E:\浦思悦\2023.3代码/datasets/test\Navicula eileeniae\Navicula eileeniae -VA696_013.jpg
+629;E:\浦思悦\2023.3代码/datasets/test\Navicula eileeniae\Navicula eileeniae_3.jpg
+630;E:\浦思悦\2023.3代码/datasets/test\Navicula elsoniana\Navicula elsoniana -Navicula_elsoniana_GC8215a_58.jpg
+631;E:\浦思悦\2023.3代码/datasets/test\Navicula erifuga\Navicula erifuga 13.4(1μm).png
+631;E:\浦思悦\2023.3代码/datasets/test\Navicula erifuga\Navicula erifuga_5.jpg
+631;E:\浦思悦\2023.3代码/datasets/test\Navicula erifuga\Navicula erifuga_6.jpg
+632;E:\浦思悦\2023.3代码/datasets/test\Navicula escambia\Navicula escambia -3_Navicula_escambia_103388b_6.jpg
+633;E:\浦思悦\2023.3代码/datasets/test\Navicula flatheadensis\Navicula flatheadensis -Nflat5.jpg
+633;E:\浦思悦\2023.3代码/datasets/test\Navicula flatheadensis\Navicula flatheadensis_2.jpg
+634;E:\浦思悦\2023.3代码/datasets/test\Navicula freesei\Navicula freesei -Navicula_freesei_GC8188A_36.jpg
+635;E:\浦思悦\2023.3代码/datasets/test\Navicula galloae\Navicula galloae -Ngalloae6.jpg
+635;E:\浦思悦\2023.3代码/datasets/test\Navicula galloae\Navicula galloae_2.jpg
+636;E:\浦思悦\2023.3代码/datasets/test\Navicula genovefae\Navicula genovefae -25.1(10μm).jpeg
+636;E:\浦思悦\2023.3代码/datasets/test\Navicula genovefae\Navicula genovefae_2.jpg
+636;E:\浦思悦\2023.3代码/datasets/test\Navicula genovefae\Navicula genovefae_3.jpg
+637;E:\浦思悦\2023.3代码/datasets/test\Navicula germainii\Navicula germainii 13.4(2μm).png
+637;E:\浦思悦\2023.3代码/datasets/test\Navicula germainii\Navicula germainii 13.5(10μm).png
+637;E:\浦思悦\2023.3代码/datasets/test\Navicula germainii\Navicula germainii 13.6(1μm).png
+637;E:\浦思悦\2023.3代码/datasets/test\Navicula germainii\Navicula germainii 13.7(1μm).png
+637;E:\浦思悦\2023.3代码/datasets/test\Navicula germainii\Navicula germainii 13.8(1μm).png
+638;E:\浦思悦\2023.3代码/datasets/test\Navicula geronimensis\Navicula geronimensis -GS023353_NAgeron3.jpg
+639;E:\浦思悦\2023.3代码/datasets/test\Navicula goersii\Navicula goersii -N_goersii_4.jpg
+639;E:\浦思悦\2023.3代码/datasets/test\Navicula goersii\Navicula goersii -N_goersii_6.jpg
+640;E:\浦思悦\2023.3代码/datasets/test\Navicula gregaria\Navicula gregaria -GS138576_NAgreg4.jpg
+640;E:\浦思悦\2023.3代码/datasets/test\Navicula gregaria\Navicula gregaria -NRSA1189_NAgreg_1.jpg
+641;E:\浦思悦\2023.3代码/datasets/test\Navicula harmoniae\Navicula harmoniae -Naviculaharmoniae_6.jpg
+641;E:\浦思悦\2023.3代码/datasets/test\Navicula harmoniae\Navicula harmoniae -Naviculaharmoniae_7.jpg
+642;E:\浦思悦\2023.3代码/datasets/test\Navicula hasta\Navicula hasta -GS100443_GC106117_3.jpg
+642;E:\浦思悦\2023.3代码/datasets/test\Navicula hasta\Navicula hasta -GS100443_GC106117_4.jpg
+643;E:\浦思悦\2023.3代码/datasets/test\Navicula hodgeana\Navicula hodgeana_1_vertical.jpg
+643;E:\浦思悦\2023.3代码/datasets/test\Navicula hodgeana\Navicula hodgeana_3.jpg
+644;E:\浦思悦\2023.3代码/datasets/test\Navicula ingenua\Navicula ingenua -n_ingenua_15631a_10152015_11_cl.jpeg
+644;E:\浦思悦\2023.3代码/datasets/test\Navicula ingenua\Navicula ingenua -n_ingenua_15631a_10152015_12_cl.jpeg
+645;E:\浦思悦\2023.3代码/datasets/test\Navicula kotschyi\Navicula kotschyi -N_kotschyi_15649a_09162015_15_cl.jpeg
+645;E:\浦思悦\2023.3代码/datasets/test\Navicula kotschyi\Navicula kotschyi -N_kot_15551a_12162015_02_cl.jpeg
+646;E:\浦思悦\2023.3代码/datasets/test\Navicula lanceolata\Navicula lanceolata -46859_LM6.jpg
+646;E:\浦思悦\2023.3代码/datasets/test\Navicula lanceolata\Navicula lanceolata -46859_LM7.jpg
+646;E:\浦思悦\2023.3代码/datasets/test\Navicula lanceolata\Navicula lanceolata_9.jpg
+647;E:\浦思悦\2023.3代码/datasets/test\Navicula leptostriata\Navicula leptostriata -Nlepto5.jpg
+648;E:\浦思悦\2023.3代码/datasets/test\Navicula libonensis\Navicula libonensis -MO000179_NAlib1.jpg
+648;E:\浦思悦\2023.3代码/datasets/test\Navicula libonensis\Navicula libonensis -NRSA0053_NAlib1.jpg
+649;E:\浦思悦\2023.3代码/datasets/test\Navicula longicephala\Navicula longicephala -GS020301_8.jpg
+649;E:\浦思悦\2023.3代码/datasets/test\Navicula longicephala\Navicula longicephala -GS020301_9.jpg
+650;E:\浦思悦\2023.3代码/datasets/test\Navicula ludloviana\Navicula ludloviana -Navicula_ludloviana_274201.jpg
+650;E:\浦思悦\2023.3代码/datasets/test\Navicula ludloviana\Navicula ludloviana -Navicula_ludloviana_500201_cropped.jpg
+651;E:\浦思悦\2023.3代码/datasets/test\Navicula lundii\Navicula lundii -Navlundii5.jpg
+651;E:\浦思悦\2023.3代码/datasets/test\Navicula lundii\Navicula lundii -Navlundii7.jpg
+652;E:\浦思悦\2023.3代码/datasets/test\Navicula margalithii\Navicula margalithii-Navicula_margalithii_395001_5.jpg
+653;E:\浦思悦\2023.3代码/datasets/test\Navicula metareichardtiana\Navicula metareichardtiana -MO000118_GC109491a_3.jpg
+653;E:\浦思悦\2023.3代码/datasets/test\Navicula metareichardtiana\Navicula metareichardtiana -MO000118_GC109491a_5.jpg
+654;E:\浦思悦\2023.3代码/datasets/test\Navicula notha\Navicula notha -NonType_1a.jpg
+654;E:\浦思悦\2023.3代码/datasets/test\Navicula notha\Navicula notha -NonType_5.jpg
+655;E:\浦思悦\2023.3代码/datasets/test\Navicula nunivakiana\Navicula nunivakiana -Navicula_nunivakiana_GC8232B_21.jpg
+655;E:\浦思悦\2023.3代码/datasets/test\Navicula nunivakiana\Navicula nunivakiana -Navicula_nunivakiana_GC8232B_29.jpg
+656;E:\浦思悦\2023.3代码/datasets/test\Navicula oblonga\Navicula oblonga -Noblong5.jpg
+657;E:\浦思悦\2023.3代码/datasets/test\Navicula oppugnata\Navicula oppugnata -Navoppug5.jpg
+657;E:\浦思悦\2023.3代码/datasets/test\Navicula oppugnata\Navicula oppugnata -Navoppug7.jpg
+658;E:\浦思悦\2023.3代码/datasets/test\Navicula pelliculosa\Navicula pelliculosa_1.jpg
+659;E:\浦思悦\2023.3代码/datasets/test\Navicula peregrina\Navicula peregrina -Npere4.jpg
+660;E:\浦思悦\2023.3代码/datasets/test\Navicula peregrinopsis\Navicula peregrinopsis -NaviculaPeregrinopsis6.jpg
+660;E:\浦思悦\2023.3代码/datasets/test\Navicula peregrinopsis\Navicula peregrinopsis -NaviculaPeregrinopsis9.jpg
+661;E:\浦思悦\2023.3代码/datasets/test\Navicula perotii\Navicula perotii -Navicula_walkeri_GC8188A_30.jpg
+662;E:\浦思悦\2023.3代码/datasets/test\Navicula piercei\Navicula piercei -Npiercei5.jpg
+662;E:\浦思悦\2023.3代码/datasets/test\Navicula piercei\Navicula piercei -Npiercei7.jpg
+663;E:\浦思悦\2023.3代码/datasets/test\Navicula pseudolanceolata\Navicula pseudolanceolata -Npseudolan6.jpg
+663;E:\浦思悦\2023.3代码/datasets/test\Navicula pseudolanceolata\Navicula pseudolanceolata -Npseudolan7.jpg
+664;E:\浦思悦\2023.3代码/datasets/test\Navicula radiosa\Navicula radiosa 6.1(10μm).png
+664;E:\浦思悦\2023.3代码/datasets/test\Navicula radiosa\Navicula radiosa 6.4(2μm).png
+664;E:\浦思悦\2023.3代码/datasets/test\Navicula radiosa\Navicula radiosa_7.jpg
+664;E:\浦思悦\2023.3代码/datasets/test\Navicula radiosa\Navicula radiosa_8.jpg
+665;E:\浦思悦\2023.3代码/datasets/test\Navicula recens\Navicula recens -46649_LM5.jpg
+665;E:\浦思悦\2023.3代码/datasets/test\Navicula recens\Navicula recens -46649_LM6.jpg
+665;E:\浦思悦\2023.3代码/datasets/test\Navicula recens\Navicula recens_1.jpg
+666;E:\浦思悦\2023.3代码/datasets/test\Navicula reinhardtii\Navicula reinhardtii -Nrein5.jpg
+667;E:\浦思悦\2023.3代码/datasets/test\Navicula rhynchocephala\Navicula rhynchocephala 6.3(1μm).png
+667;E:\浦思悦\2023.3代码/datasets/test\Navicula rhynchocephala\Navicula rhynchocephala_1.jpg
+667;E:\浦思悦\2023.3代码/datasets/test\Navicula rhynchocephala\Navicula rhynchocephala_2.jpg
+668;E:\浦思悦\2023.3代码/datasets/test\Navicula rhynchotella\Navicula rhynchotella -Nrhynchotella4small.jpg
+668;E:\浦思悦\2023.3代码/datasets/test\Navicula rhynchotella\Navicula rhynchotella -Nrhynchotella6small.jpg
+669;E:\浦思悦\2023.3代码/datasets/test\Navicula rostellata\Navicula rostellata -GSN24379_07.jpg
+669;E:\浦思悦\2023.3代码/datasets/test\Navicula rostellata\Navicula rostellata -Navicula_viridula_rostellata_001_1.jpg
+670;E:\浦思悦\2023.3代码/datasets/test\Navicula salinarum\Navicula salinarum.PNG
+670;E:\浦思悦\2023.3代码/datasets/test\Navicula salinarum\Navicula salinarum_2.jpg
+670;E:\浦思悦\2023.3代码/datasets/test\Navicula salinarum\Navicula salinarum_3_horizontal.jpg
+670;E:\浦思悦\2023.3代码/datasets/test\Navicula salinarum\Navicula salinarum_4_vertical.jpg
+671;E:\浦思悦\2023.3代码/datasets/test\Navicula schweigeri\Navicula schweigeri -Nschweigeri6.jpg
+671;E:\浦思悦\2023.3代码/datasets/test\Navicula schweigeri\Navicula schweigeri_4_horizontal.jpg
+671;E:\浦思悦\2023.3代码/datasets/test\Navicula schweigeri\Navicula schweigeri_5_vertical.jpg
+672;E:\浦思悦\2023.3代码/datasets/test\Navicula seibigiana\Navicula seibigiana -Navicula_selbigiana_453301_n.jpg
+672;E:\浦思悦\2023.3代码/datasets/test\Navicula seibigiana\Navicula seibigiana -Navicula_selbigiana_453301_p.jpg
+672;E:\浦思悦\2023.3代码/datasets/test\Navicula seibigiana\Navicula seibigiana_4_horizontal.jpg
+672;E:\浦思悦\2023.3代码/datasets/test\Navicula seibigiana\Navicula seibigiana_5_vertical.jpg
+673;E:\浦思悦\2023.3代码/datasets/test\Navicula slesvicensis\Navicula slesvicensis -Nsles_4.jpg
+673;E:\浦思悦\2023.3代码/datasets/test\Navicula slesvicensis\Navicula slesvicensis -Nsles_5.jpg
+673;E:\浦思悦\2023.3代码/datasets/test\Navicula slesvicensis\Navicula slesvicensis -Nsles_7.jpg
+674;E:\浦思悦\2023.3代码/datasets/test\Navicula sovereignii\Navicula sovereignii -Nsov7.jpg
+674;E:\浦思悦\2023.3代码/datasets/test\Navicula sovereignii\Navicula sovereignii_1.jpg
+675;E:\浦思悦\2023.3代码/datasets/test\Navicula staffordiae\Navicula staffordiae -Nstaffordiae6.jpg
+675;E:\浦思悦\2023.3代码/datasets/test\Navicula staffordiae\Navicula staffordiae_2.jpg
+676;E:\浦思悦\2023.3代码/datasets/test\Navicula streckerae\Navicula streckerae -Nstrec5.jpg
+676;E:\浦思悦\2023.3代码/datasets/test\Navicula streckerae\Navicula streckerae -Nstrec6.jpg
+677;E:\浦思悦\2023.3代码/datasets/test\Navicula subconcentrica\Navicula subconcentrica -Nsubcon5.jpg
+677;E:\浦思悦\2023.3代码/datasets/test\Navicula subconcentrica\Navicula subconcentrica -Nsubcon6.jpg
+678;E:\浦思悦\2023.3代码/datasets/test\Navicula subrhynchocephala\Navicula subrhynchocephala -GS137280_3.jpg
+678;E:\浦思悦\2023.3代码/datasets/test\Navicula subrhynchocephala\Navicula subrhynchocephala -GS137280_5.jpg
+678;E:\浦思悦\2023.3代码/datasets/test\Navicula subrhynchocephala\Navicula subrhynchocephala -GS137280_6.jpg
+679;E:\浦思悦\2023.3代码/datasets/test\Navicula subrostellata\Navicula subrostellata -GC6604a_NAsecrApiculata_HOLO_NotInCircle1a.jpg
+679;E:\浦思悦\2023.3代码/datasets/test\Navicula subrostellata\Navicula subrostellata -GC6604a_NAsecrApiculata_HOLO_NotInCircle3.jpg
+680;E:\浦思悦\2023.3代码/datasets/test\Navicula subwalkeri\Navicula subwalkeri_3.jpg
+680;E:\浦思悦\2023.3代码/datasets/test\Navicula subwalkeri\Navicula subwalkeri_7.jpg
+680;E:\浦思悦\2023.3代码/datasets/test\Navicula subwalkeri\Navicula subwalkeri_8.jpg
+681;E:\浦思悦\2023.3代码/datasets/test\Navicula supleeorum\Navicula supleeorum -Navsuplee5.jpg
+681;E:\浦思悦\2023.3代码/datasets/test\Navicula supleeorum\Navicula supleeorum -Navsuplee7.jpg
+682;E:\浦思悦\2023.3代码/datasets/test\Navicula symmetrica\Navicula symmetrica -Navicula_symmetrica_109522_5_1scale_1.jpg
+683;E:\浦思悦\2023.3代码/datasets/test\Navicula trilatera\Navicula trilatera -Navtrilatera3.jpg
+683;E:\浦思悦\2023.3代码/datasets/test\Navicula trilatera\Navicula trilatera -Navtrilatera7.jpg
+684;E:\浦思悦\2023.3代码/datasets/test\Navicula tripunctata\Navicula tripunctata -46104_LM6_1.jpg
+684;E:\浦思悦\2023.3代码/datasets/test\Navicula tripunctata\Navicula tripunctata -46104_LM7_1.jpg
+685;E:\浦思悦\2023.3代码/datasets/test\Navicula trivialis\Navicula trivialis -N_cryptocephala_6.jpg
+686;E:\浦思悦\2023.3代码/datasets/test\Navicula vaneei\Navicula vaneei -Nvane6.jpg
+686;E:\浦思悦\2023.3代码/datasets/test\Navicula vaneei\Navicula vaneei -Nvane7.jpg
+687;E:\浦思悦\2023.3代码/datasets/test\Navicula venerablis\Navicula venerablis -GS007601_3.jpg
+688;E:\浦思悦\2023.3代码/datasets/test\Navicula veneta\Navicula veneta -GC112144_NRSA0167_NAven5.jpg
+688;E:\浦思悦\2023.3代码/datasets/test\Navicula veneta\Navicula veneta -GC112144_NRSA0167_NAven7.jpg
+689;E:\浦思悦\2023.3代码/datasets/test\Navicula vilaplanii\Navicula vilaplanii -GSN24379_5.jpg
+689;E:\浦思悦\2023.3代码/datasets/test\Navicula vilaplanii\Navicula vilaplanii -GSN24379_6.jpg
+690;E:\浦思悦\2023.3代码/datasets/test\Navicula viridula\Navicula viridula -GC107320_GS141643_NAviridulacal7.jpg
+690;E:\浦思悦\2023.3代码/datasets/test\Navicula viridula\Navicula viridula_3.jpg
+690;E:\浦思悦\2023.3代码/datasets/test\Navicula viridula\Navicula viridula_4.jpg
+691;E:\浦思悦\2023.3代码/datasets/test\Navicula viridulacalcis subsp. neomundana\Navicula viridulacalcis subsp. neomundana -GS020273_6.jpg
+691;E:\浦思悦\2023.3代码/datasets/test\Navicula viridulacalcis subsp. neomundana\Navicula viridulacalcis subsp. neomundana -GS020273_7.jpg
+692;E:\浦思悦\2023.3代码/datasets/test\Navicula volcanica\Navicula volcanica_1.jpg
+692;E:\浦思悦\2023.3代码/datasets/test\Navicula volcanica\Navicula volcanica_2.jpg
+693;E:\浦思悦\2023.3代码/datasets/test\Navicula vulpina\Navicula vulpina -navicula_peregrina_005.jpg
+694;E:\浦思悦\2023.3代码/datasets/test\Navicula walkeri\Navicula walkeri -Nwalk5.jpg
+694;E:\浦思悦\2023.3代码/datasets/test\Navicula walkeri\Navicula walkeri_1.jpg
+695;E:\浦思悦\2023.3代码/datasets/test\Navicula weberi\Navicula weberi -Nweberi6.jpg
+695;E:\浦思悦\2023.3代码/datasets/test\Navicula weberi\Navicula weberi -Nweberi7.jpg
+696;E:\浦思悦\2023.3代码/datasets/test\Navicula whitefishensis\Navicula whitefishensis -Navwhitefish5_small.jpg
+697;E:\浦思悦\2023.3代码/datasets/test\Navicula wildii\Navicula wildii -Nwildii5.jpg
+697;E:\浦思悦\2023.3代码/datasets/test\Navicula wildii\Navicula wildii -Nwildii6.jpg
+698;E:\浦思悦\2023.3代码/datasets/test\Navicula winona\Navicula winona -Nwinona7.jpg
+699;E:\浦思悦\2023.3代码/datasets/test\Navicymbula pusilla\Navicymbula pusilla -MO000191_3_1.jpg
+700;E:\浦思悦\2023.3代码/datasets/test\Neidiomorpha binodiformis\Neidiomorpha binodiformis -NEbinodis-4.jpg
+700;E:\浦思悦\2023.3代码/datasets/test\Neidiomorpha binodiformis\Neidiomorpha binodiformis -NEbinodis-7.jpg
+701;E:\浦思悦\2023.3代码/datasets/test\Neidiopsis hamiltonii\Neidiopsis hamiltonii -Neidiopsis_hamiltonii_Mex3.jpg
+701;E:\浦思悦\2023.3代码/datasets/test\Neidiopsis hamiltonii\Neidiopsis hamiltonii -Neidiopsis_hamiltonii_Mex7.jpg
+702;E:\浦思悦\2023.3代码/datasets/test\Neidiopsis levanderi\Neidiopsis levanderi -Nelevander5.jpg
+703;E:\浦思悦\2023.3代码/datasets/test\Neidiopsis weilandii\Neidiopsis weilandii -Diatom_Photos16161.jpg
+703;E:\浦思悦\2023.3代码/datasets/test\Neidiopsis weilandii\Neidiopsis weilandii -Diatom_Photos16177.jpg
+704;E:\浦思悦\2023.3代码/datasets/test\Neidiopsis wulffii\Neidiopsis wulffii -Newulffii5.jpg
+705;E:\浦思悦\2023.3代码/datasets/test\Neidium bobmarshallensis\Neidium bobmarshallensis -Nekozlow5_1.jpg
+706;E:\浦思悦\2023.3代码/datasets/test\Neidium densestriatum\Neidium densestriatum -Neidium-densestriatum-NH10004_B_041518_06_c.jpg
+707;E:\浦思悦\2023.3代码/datasets/test\Neidium distinctepunctatum\Neidium distinctepunctatum6.jpg
+708;E:\浦思悦\2023.3代码/datasets/test\Neidium fogedii\Neidium fogedii -NeidiumCOLLLB6.jpg
+709;E:\浦思悦\2023.3代码/datasets/test\Neidium hitchcockii\Neidium hitchcockii -Neidium-hitchcockii_RBL-1_1.jpg
+709;E:\浦思悦\2023.3代码/datasets/test\Neidium hitchcockii\Neidium hitchcockii -Neidium-hitchcockii_RBL-2_5.jpg
+709;E:\浦思悦\2023.3代码/datasets/test\Neidium hitchcockii\Neidium hitchcockii -Neidium-hitchcockii_SIL-2-2_2.jpg
+710;E:\浦思悦\2023.3代码/datasets/test\Neidium pseudodensestriatum\Neidium pseudodensestriatum -Neidium-pseudodensestriatum-NH10004_C_041518_01_c.jpg
+711;E:\浦思悦\2023.3代码/datasets/test\Neidium sacoense\Neidium sacoense -EUsacoense_Brant1182_60.5_1095.jpg
+711;E:\浦思悦\2023.3代码/datasets/test\Neidium sacoense\Neidium sacoense -Neidium-sacoense-683401.jpeg
+712;E:\浦思悦\2023.3代码/datasets/test\Neidium undulatum\Neidium undulatum -Neidiumundulata2.jpg
+713;E:\浦思悦\2023.3代码/datasets/test\Ninastrelnikovia gibbosa\Ninastrelnikovia gibbosa -Ninastrelnikovia-gibbosa_USGS16MS021-2_1000x_202105020003_cl.jpg
+713;E:\浦思悦\2023.3代码/datasets/test\Ninastrelnikovia gibbosa\Ninastrelnikovia gibbosa -Ninastrelnikovia-gibbosa_USGS16MS021-2_1000x_202105020012_cl.jpg
+714;E:\浦思悦\2023.3代码/datasets/test\Nitzschia acicularis\Nitzschia acicularis5.jpg
+715;E:\浦思悦\2023.3代码/datasets/test\Nitzschia acidoclinata\Nitzschia acidoclinata -Nitzschia_acidoclinata_408101_3.jpg
+715;E:\浦思悦\2023.3代码/datasets/test\Nitzschia acidoclinata\Nitzschia acidoclinata -Nitzschia_acidoclinata_408101_5.jpg
+716;E:\浦思悦\2023.3代码/datasets/test\Nitzschia alpina\Nitzschia alpina -Nitzalpina5.jpg
+716;E:\浦思悦\2023.3代码/datasets/test\Nitzschia alpina\Nitzschia alpina -Nitzalpina7.jpg
+717;E:\浦思悦\2023.3代码/datasets/test\Nitzschia amphibia\Nitzschia amphibia -nitzschia_amphibia_002.jpg
+718;E:\浦思悦\2023.3代码/datasets/test\Nitzschia angustata\Nitzschia angustata -_tryb_1_14384.jpeg
+718;E:\浦思悦\2023.3代码/datasets/test\Nitzschia angustata\Nitzschia angustata -_tryb_2_14384.jpeg
+719;E:\浦思悦\2023.3代码/datasets/test\Nitzschia balcanica\Nitzschia balcanica -capitellata_a_002.jpg
+720;E:\浦思悦\2023.3代码/datasets/test\Nitzschia biacrula\Nitzschia biacrula_2.jpg
+721;E:\浦思悦\2023.3代码/datasets/test\Nitzschia brevissima\Nitzschia brevissima -brevissima_gc109965h004.jpg
+722;E:\浦思悦\2023.3代码/datasets/test\Nitzschia clausii\Nitzschia clausii 6.4(1μm).png
+722;E:\浦思悦\2023.3代码/datasets/test\Nitzschia clausii\Nitzschia clausii_2.jpg
+723;E:\浦思悦\2023.3代码/datasets/test\Nitzschia columbiana\Nitzschia columbiana -columbiana_007.jpg
+724;E:\浦思悦\2023.3代码/datasets/test\Nitzschia communis\Nitzschia communis -Nitzschia_communis_002.jpg
+725;E:\浦思悦\2023.3代码/datasets/test\Nitzschia desertorum\Nitzschia desertorum -nitzschia_desertorum_005.jpg
+726;E:\浦思悦\2023.3代码/datasets/test\Nitzschia dissipata\Nitzschia dissipata -Nitzschia_dissipata_106900_1.jpg
+726;E:\浦思悦\2023.3代码/datasets/test\Nitzschia dissipata\Nitzschia dissipata -Nitzschia_dissipata_107597_7.jpg
+727;E:\浦思悦\2023.3代码/datasets/test\Nitzschia exilis\Nitzschia exilis -exilis_004.jpg
+728;E:\浦思悦\2023.3代码/datasets/test\Nitzschia filiformis\Nitzschia filiformis -filiformis_gc106965h008.jpg
+728;E:\浦思悦\2023.3代码/datasets/test\Nitzschia filiformis\Nitzschia filiformis -filiformis_gc106965h010.jpg
+729;E:\浦思悦\2023.3代码/datasets/test\Nitzschia fonticola\Nitzschia fonticola -fonticola_007.jpg
+729;E:\浦思悦\2023.3代码/datasets/test\Nitzschia fonticola\Nitzschia fonticola -fonticola_011.jpg
+730;E:\浦思悦\2023.3代码/datasets/test\Nitzschia fonticoloides\Nitzschia fonticoloides -fonticuloides_004b.jpg
+731;E:\浦思悦\2023.3代码/datasets/test\Nitzschia incognita\Nitzschia incognita -Nitzschia_incognita_218501_6.jpg
+731;E:\浦思悦\2023.3代码/datasets/test\Nitzschia incognita\Nitzschia incognita -Nitzschia_incognita_218701_7.jpg
+732;E:\浦思悦\2023.3代码/datasets/test\Nitzschia innominata\Nitzschia innominata -innominata_008.jpg
+733;E:\浦思悦\2023.3代码/datasets/test\Nitzschia kurzeana\Nitzschia kurzeana -N_kurzeana_GC103574a_4.jpg
+733;E:\浦思悦\2023.3代码/datasets/test\Nitzschia kurzeana\Nitzschia kurzeana -N_kurzeana_GC103574a_5.jpg
+734;E:\浦思悦\2023.3代码/datasets/test\Nitzschia liebethruthii\Nitzschia liebethruthii -liebetruthii_gc108446a004.jpg
+734;E:\浦思悦\2023.3代码/datasets/test\Nitzschia liebethruthii\Nitzschia liebethruthii -liebetruthii_gc108446a005.jpg
+735;E:\浦思悦\2023.3代码/datasets/test\Nitzschia linearis\Nitzschia linearis -nitzschia_linearis_004.jpg
+735;E:\浦思悦\2023.3代码/datasets/test\Nitzschia linearis\Nitzschia linearis_11.jpg
+736;E:\浦思悦\2023.3代码/datasets/test\Nitzschia microcephala\Nitzschia microcephala -nitzschia_microcephala_004.jpg
+737;E:\浦思悦\2023.3代码/datasets/test\Nitzschia minuta\Nitzschia minuta -minuta_005_1.jpg
+738;E:\浦思悦\2023.3代码/datasets/test\Nitzschia oligotraphenta\Nitzschia oligotraphenta -5_Nitzschia_dissipata_var_oligotraphenta_106900_7.jpg
+738;E:\浦思悦\2023.3代码/datasets/test\Nitzschia oligotraphenta\Nitzschia oligotraphenta -6_Nitzschia_dissipata_var_oligotraphenta_106882_1_valve_2.jpg
+739;E:\浦思悦\2023.3代码/datasets/test\Nitzschia oregona\Nitzschia oregona -oregona_005.jpg
+740;E:\浦思悦\2023.3代码/datasets/test\Nitzschia palea\Nitzschia palea 6.4(1μm).png
+740;E:\浦思悦\2023.3代码/datasets/test\Nitzschia palea\Nitzschia palea1.1.PNG
+740;E:\浦思悦\2023.3代码/datasets/test\Nitzschia palea\Nitzschia palea1.2.PNG
+740;E:\浦思悦\2023.3代码/datasets/test\Nitzschia palea\Nitzschia palea1.3.PNG
+741;E:\浦思悦\2023.3代码/datasets/test\Nitzschia palea var. debilis\Nitzschia palea var. debilis -debilis_003.jpg
+742;E:\浦思悦\2023.3代码/datasets/test\Nitzschia palea var. tenuirostris\Nitzschia palea var. tenuirostris -tenuirostris_005.jpg
+743;E:\浦思悦\2023.3代码/datasets/test\Nitzschia paleacea\Nitzschia paleacea -paleacea_gc62547005_copy.jpg
+744;E:\浦思悦\2023.3代码/datasets/test\Nitzschia perminuta\Nitzschia perminuta -perminuta_004.jpg
+745;E:\浦思悦\2023.3代码/datasets/test\Nitzschia recta\Nitzschia recta_2.jpg
+746;E:\浦思悦\2023.3代码/datasets/test\Nitzschia regula var. robusta\Nitzschia regula var. robusta -Nitzschregula4.jpg
+747;E:\浦思悦\2023.3代码/datasets/test\Nitzschia reversa\Nitzschia reversa_1.jpg
+748;E:\浦思悦\2023.3代码/datasets/test\Nitzschia semirobusta\Nitzschia semirobusta_1.jpg
+749;E:\浦思悦\2023.3代码/datasets/test\Nitzschia serpentiraphe\Nitzschia serpentiraphe -Nitzschia-serpentiraphe_FIU_2017-10-27_CERP-040-951-1-21_06.jpg
+749;E:\浦思悦\2023.3代码/datasets/test\Nitzschia serpentiraphe\Nitzschia serpentiraphe -Nitzschia-serpentiraphe_ILL_2018-05-11_2018-204-C_04.jpg
+750;E:\浦思悦\2023.3代码/datasets/test\Nitzschia sigma\Nitzschia sigma5.jpg
+751;E:\浦思悦\2023.3代码/datasets/test\Nitzschia sigmoidea\Nitzschia sigmoidea -L-6-50_2.jpg
+752;E:\浦思悦\2023.3代码/datasets/test\Nitzschia siliqua\Nitzschia siliqua -silicula.communtata.gc44258a.ciculed001b.png
+752;E:\浦思悦\2023.3代码/datasets/test\Nitzschia siliqua\Nitzschia siliqua_2.jpg
+753;E:\浦思悦\2023.3代码/datasets/test\Nitzschia sociabilis\Nitzschia sociabilis -Nitzschia_sociabilis_103388b_26.jpg
+753;E:\浦思悦\2023.3代码/datasets/test\Nitzschia sociabilis\Nitzschia sociabilis -Nitzschia_sociabilis_g_view_103388b_13.jpg
+753;E:\浦思悦\2023.3代码/datasets/test\Nitzschia sociabilis\Nitzschia sociabilis -Nitzschia_socialis_112435b_3.jpg
+754;E:\浦思悦\2023.3代码/datasets/test\Nitzschia soratensis\Nitzschia soratensis -inconspicua_004.jpg
+754;E:\浦思悦\2023.3代码/datasets/test\Nitzschia soratensis\Nitzschia soratensis -inconspicua_005.jpg
+755;E:\浦思悦\2023.3代码/datasets/test\Nitzschia valdecostata\Nitzschia valdecostata -valdecostata_006.jpg
+755;E:\浦思悦\2023.3代码/datasets/test\Nitzschia valdecostata\Nitzschia valdecostata_1.jpg
+756;E:\浦思悦\2023.3代码/datasets/test\Nupela carolina\Nupela carolina -GC57568_NUcarolina_NotInCircle_5.jpg
+756;E:\浦思悦\2023.3代码/datasets/test\Nupela carolina\Nupela carolina -GC57568_NUcarolina_NotInCircle_6.jpg
+757;E:\浦思悦\2023.3代码/datasets/test\Nupela decipiens\Nupela decipiens -GC44260a_ACdecipiens_markedCircle1b.jpg
+757;E:\浦思悦\2023.3代码/datasets/test\Nupela decipiens\Nupela decipiens -GC44260a_ACdecipiens_markedCircle1c.jpg
+757;E:\浦思悦\2023.3代码/datasets/test\Nupela decipiens\Nupela decipiens_2.jpg
+758;E:\浦思悦\2023.3代码/datasets/test\Nupela elegantula\Nupela elegantula -NUsp1_2_ed_1.jpg
+758;E:\浦思悦\2023.3代码/datasets/test\Nupela elegantula\Nupela elegantula_2.jpg
+759;E:\浦思悦\2023.3代码/datasets/test\Nupela fennica\Nupela fennica -GS024284_NUfennica_8.jpg
+760;E:\浦思悦\2023.3代码/datasets/test\Nupela frezelii\Nupela frezelii -NRSA0888_NUfrez8.jpg
+760;E:\浦思悦\2023.3代码/datasets/test\Nupela frezelii\Nupela frezelii -NRSA0888_NUfrez_HOLOa.jpg
+760;E:\浦思悦\2023.3代码/datasets/test\Nupela frezelii\Nupela frezelii -NRSA0888_NUfrez_HOLOb.jpg
+761;E:\浦思悦\2023.3代码/datasets/test\Nupela impexiformis\Nupela impexiformis -WACA019_5.jpg
+761;E:\浦思悦\2023.3代码/datasets/test\Nupela impexiformis\Nupela impexiformis -WACA019_6.jpg
+762;E:\浦思悦\2023.3代码/datasets/test\Nupela lapidosa\Nupela lapidosa -NCPA0173_NUlap_12ed.jpg
+762;E:\浦思悦\2023.3代码/datasets/test\Nupela lapidosa\Nupela lapidosa -NCPA0173_NUlap_7ed.jpg
+763;E:\浦思悦\2023.3代码/datasets/test\Nupela neglecta\Nupela neglecta -GC57577_HOLOsilide_4b_1.jpg
+763;E:\浦思悦\2023.3代码/datasets/test\Nupela neglecta\Nupela neglecta -GC57577_HOLOsilide_5a_1.jpg
+763;E:\浦思悦\2023.3代码/datasets/test\Nupela neglecta\Nupela neglecta -GC57577_HOLOsilide_5b_1.jpg
+764;E:\浦思悦\2023.3代码/datasets/test\Nupela pennsylvanica\Nupela pennsylvanica -NaConcava_NotInCircle_2b_ed_4.jpg
+764;E:\浦思悦\2023.3代码/datasets/test\Nupela pennsylvanica\Nupela pennsylvanica_3.jpg
+765;E:\浦思悦\2023.3代码/datasets/test\Nupela poconoensis\Nupela poconoensis -NCPA0025_NUsp2_1_ed_2.jpg
+765;E:\浦思悦\2023.3代码/datasets/test\Nupela poconoensis\Nupela poconoensis -NCPA0025_NUsp2_2_ed_2.jpg
+766;E:\浦思悦\2023.3代码/datasets/test\Nupela potapovae\Nupela potapovae -Nupelapotapovae12.jpg
+766;E:\浦思悦\2023.3代码/datasets/test\Nupela potapovae\Nupela potapovae -Nupelapotapovae30.jpg
+766;E:\浦思悦\2023.3代码/datasets/test\Nupela potapovae\Nupela potapovae -Nupelapotapovae4.jpg
+767;E:\浦思悦\2023.3代码/datasets/test\Nupela scissura\Nupela scissura -GC58610_NUsciss_NotInCircle_2.jpg
+767;E:\浦思悦\2023.3代码/datasets/test\Nupela scissura\Nupela scissura -GC58610_NUsciss_NotInCircle_7b.jpg
+767;E:\浦思悦\2023.3代码/datasets/test\Nupela scissura\Nupela scissura_2.jpg
+768;E:\浦思悦\2023.3代码/datasets/test\Nupela subrostrata\Nupela subrostrata -NCPA0039_ANUlap_23.jpg
+768;E:\浦思悦\2023.3代码/datasets/test\Nupela subrostrata\Nupela subrostrata -NCPA0041_ACsubrAPP_1_ed.jpg
+769;E:\浦思悦\2023.3代码/datasets/test\Nupela tenuicephala\Nupela tenuicephala -Nupelasp.1COL5.jpg
+769;E:\浦思悦\2023.3代码/datasets/test\Nupela tenuicephala\Nupela tenuicephala -Nupelasp.1COL6.jpg
+769;E:\浦思悦\2023.3代码/datasets/test\Nupela tenuicephala\Nupela tenuicephala -Nupelasp.1COL8.jpg
+770;E:\浦思悦\2023.3代码/datasets/test\Nupela vitiosa\Nupela vitiosa -NLS00267_NUvitiosa_5ed.jpg
+770;E:\浦思悦\2023.3代码/datasets/test\Nupela vitiosa\Nupela vitiosa -NLS00267_NUvitiosa_6ed.jpg
+771;E:\浦思悦\2023.3代码/datasets/test\Nupela wellneri\Nupela wellneri -GS020183nuCap2_ed.jpg
+772;E:\浦思悦\2023.3代码/datasets/test\Odontidium hyemale\Odontidium hyemale -IWB-0002_2_20170509_03_cl.jpeg
+772;E:\浦思悦\2023.3代码/datasets/test\Odontidium hyemale\Odontidium hyemale -IWB-0002_2_20170509_05_cl.jpeg
+773;E:\浦思悦\2023.3代码/datasets/test\Odontidium mesodon\Odontidium mesodon -27002_LM5.jpg
+773;E:\浦思悦\2023.3代码/datasets/test\Odontidium mesodon\Odontidium mesodon -27002_LM6.jpg
+773;E:\浦思悦\2023.3代码/datasets/test\Odontidium mesodon\Odontidium mesodon -27002_LM7.jpg
+774;E:\浦思悦\2023.3代码/datasets/test\Orthoseira roeseana\Orthoseira roeseana -4.674_30.6_Ortho_roes_715A.jpg
+775;E:\浦思悦\2023.3代码/datasets/test\Oxyneis binalis\Oxyneis binalis -OXbinalis-6.jpg
+775;E:\浦思悦\2023.3代码/datasets/test\Oxyneis binalis\Oxyneis binalis -OXbinalis_9__MBE715.jpg
+776;E:\浦思悦\2023.3代码/datasets/test\Oxyneis binalis var. elliptica\Oxyneis binalis var. elliptica -OXelliptica_5_MBE715.jpg
+777;E:\浦思悦\2023.3代码/datasets/test\Peronia fibula\Peronia fibula -Peroniafibula_688601_5.jpg
+777;E:\浦思悦\2023.3代码/datasets/test\Peronia fibula\Peronia fibula -Peroniafibula_688601_6.jpg
+777;E:\浦思悦\2023.3代码/datasets/test\Peronia fibula\Peronia fibula -Peroniafibula_688601_8.jpg
+778;E:\浦思悦\2023.3代码/datasets/test\Phaeodactylum tricornutum\Phaeodactylum tricornutum_1.jpg
+779;E:\浦思悦\2023.3代码/datasets/test\Pinnularia acrosphaeria\Pinnularia acrosphaeria 6.4.png
+779;E:\浦思悦\2023.3代码/datasets/test\Pinnularia acrosphaeria\Pinnularia acrosphaeria_1.jpg
+779;E:\浦思悦\2023.3代码/datasets/test\Pinnularia acrosphaeria\Pinnularia acrosphaeria_6.jpg
+780;E:\浦思悦\2023.3代码/datasets/test\Pinnularia borealis\Pinnularia borealis -Pinnularia_borealis6.jpg
+780;E:\浦思悦\2023.3代码/datasets/test\Pinnularia borealis\Pinnularia borealis -Pinnularia_borealis7.jpg
+781;E:\浦思悦\2023.3代码/datasets/test\Pinnularia borealis var. lanceolata\Pinnularia borealis var. lanceolata -Pinnularia_borealis_lanceolata6.jpg
+781;E:\浦思悦\2023.3代码/datasets/test\Pinnularia borealis var. lanceolata\Pinnularia borealis var. lanceolata -Pinnularia_borealis_lanceolata7.jpg
+782;E:\浦思悦\2023.3代码/datasets/test\Pinnularia brauniana\Pinnularia brauniana -Pinnularia-brauniana-RI10010B_101017_65_c.jpg
+782;E:\浦思悦\2023.3代码/datasets/test\Pinnularia brauniana\Pinnularia brauniana_5.jpg
+783;E:\浦思悦\2023.3代码/datasets/test\Pinnularia brebissonii\Pinnularia brebissonii -Pinnularia_brebissonii5.jpg
+783;E:\浦思悦\2023.3代码/datasets/test\Pinnularia brebissonii\Pinnularia brebissonii_1.jpg
+784;E:\浦思悦\2023.3代码/datasets/test\Pinnularia cardinaliculus\Pinnularia cardinaliculus6.jpg
+784;E:\浦思悦\2023.3代码/datasets/test\Pinnularia cardinaliculus\Pinnularia cardinaliculus7.jpg
+785;E:\浦思悦\2023.3代码/datasets/test\Pinnularia cuneicephala\Pinnularia cuneicephala -Pinnularia-cuneicephala-RI10010_A_102517_46_c.jpg
+785;E:\浦思悦\2023.3代码/datasets/test\Pinnularia cuneicephala\Pinnularia cuneicephala -Pinnularia-cuneicephala-VT10094_A_111017_11_c.jpg
+786;E:\浦思悦\2023.3代码/datasets/test\Pinnularia decrescens\Pinnularia decrescens6.jpg
+786;E:\浦思悦\2023.3代码/datasets/test\Pinnularia decrescens\Pinnularia decrescens7.jpg
+787;E:\浦思悦\2023.3代码/datasets/test\Pinnularia divergentissima\Pinnularia divergentissima -Pdivergent6.jpg
+788;E:\浦思悦\2023.3代码/datasets/test\Pinnularia formica\Pinnularia formica_6.jpg
+788;E:\浦思悦\2023.3代码/datasets/test\Pinnularia formica\Pinnularia-formica-ME10023_A_101817_94.jpg
+789;E:\浦思悦\2023.3代码/datasets/test\Pinnularia gigas\Pinnularia gigas -Pinnularia_gigas3.jpg
+790;E:\浦思悦\2023.3代码/datasets/test\Pinnularia krammeri\Pinnularia krammeri 6.7(2μm).png
+790;E:\浦思悦\2023.3代码/datasets/test\Pinnularia krammeri\Pinnularia krammeri 6.8(2μm).png
+791;E:\浦思悦\2023.3代码/datasets/test\Pinnularia lata\Pinnularia lata -Pinnularia_lata_506401_17518.jpg
+792;E:\浦思悦\2023.3代码/datasets/test\Pinnularia marchica\Pinnularia marchica -GC106339_GS108490_4.jpg
+792;E:\浦思悦\2023.3代码/datasets/test\Pinnularia marchica\Pinnularia marchica -GC106339_GS108490_9.jpg
+793;E:\浦思悦\2023.3代码/datasets/test\Pinnularia microstauron\Pinnularia microstauron 13.4(2μm).png
+793;E:\浦思悦\2023.3代码/datasets/test\Pinnularia microstauron\Pinnularia microstauron_4.jpg
+793;E:\浦思悦\2023.3代码/datasets/test\Pinnularia microstauron\Pinnularia microstauron_5.jpg
+794;E:\浦思悦\2023.3代码/datasets/test\Pinnularia nodosa\Pinnularia nodosa -Pinnularia_nodosa6.jpg
+794;E:\浦思悦\2023.3代码/datasets/test\Pinnularia nodosa\Pinnularia nodosa -Pinnularia_nodosa7.jpg
+795;E:\浦思悦\2023.3代码/datasets/test\Pinnularia nodosa var. percapitata\Pinnularia nodosa var. percapitata -Pinnularia_nodosa_percapitata5.jpg
+796;E:\浦思悦\2023.3代码/datasets/test\Pinnularia parvulissima\Pinnularia parvulissima -474_gray.jpg
+796;E:\浦思悦\2023.3代码/datasets/test\Pinnularia parvulissima\Pinnularia parvulissima -651_gray.jpg
+797;E:\浦思悦\2023.3代码/datasets/test\Pinnularia polyonca var. stidolphii\Pinnularia polyonca var. stidolphii -Pinnpoly4.jpg
+798;E:\浦思悦\2023.3代码/datasets/test\Pinnularia rabenhorstii\Pinnularia rabenhorstii -Pinnularia_rabenhorstii5.jpg
+798;E:\浦思悦\2023.3代码/datasets/test\Pinnularia rabenhorstii\Pinnularia rabenhorstii -Pinnularia_rabenhorstii6.jpg
+799;E:\浦思悦\2023.3代码/datasets/test\Pinnularia rhombarea\Pinnularia rhombarea -Pinnularia_rhombarea6.jpg
+799;E:\浦思悦\2023.3代码/datasets/test\Pinnularia rhombarea\Pinnularia rhombarea -Pinnularia_rhombarea7.jpg
+800;E:\浦思悦\2023.3代码/datasets/test\Pinnularia rumrichae\Pinnularia rumrichae 6.7.png
+800;E:\浦思悦\2023.3代码/datasets/test\Pinnularia rumrichae\Pinnularia rumrichae_3.jpg
+801;E:\浦思悦\2023.3代码/datasets/test\Pinnularia saprophila\Pinnularia saprophila -GC100996_GS020253_0.jpg
+801;E:\浦思悦\2023.3代码/datasets/test\Pinnularia saprophila\Pinnularia saprophila -GC100996_GS020253_1.jpg
+802;E:\浦思悦\2023.3代码/datasets/test\Pinnularia scotica\Pinnularia scotica -Pinnularia-scotica-ME10002_A_112817_05_c.jpg
+802;E:\浦思悦\2023.3代码/datasets/test\Pinnularia scotica\Pinnularia scotica -Pinnularia-scotica-ME10011_C_102617_08_c.jpg
+803;E:\浦思悦\2023.3代码/datasets/test\Pinnularia streptoraphe\Pinnularia streptoraphe -pinnularia_streptoraphe3.jpg
+803;E:\浦思悦\2023.3代码/datasets/test\Pinnularia streptoraphe\Pinnularia streptoraphe -pinnularia_streptoraphe5.jpg
+803;E:\浦思悦\2023.3代码/datasets/test\Pinnularia streptoraphe\Pinnularia streptoraphe -pinnularia_streptoraphe7a.jpg
+804;E:\浦思悦\2023.3代码/datasets/test\Pinnularia suchlandtii\Pinnularia suchlandtii -Pinnularia_suchlandtii5.jpg
+804;E:\浦思悦\2023.3代码/datasets/test\Pinnularia suchlandtii\Pinnularia suchlandtii -Pinnularia_suchlandtii7.jpg
+805;E:\浦思悦\2023.3代码/datasets/test\Pinnularia turfosiphila\Pinnularia turfosiphila_4.jpg
+805;E:\浦思悦\2023.3代码/datasets/test\Pinnularia turfosiphila\Pinnularia turfosiphila_9.jpg
+806;E:\浦思悦\2023.3代码/datasets/test\Pinnularia turgidula\Pinnularia turgidula7.jpg
+806;E:\浦思悦\2023.3代码/datasets/test\Pinnularia turgidula\Pinnularia turgidula_3.jpg
+807;E:\浦思悦\2023.3代码/datasets/test\Pinnularia undula\Pinnularia undula6.jpg
+808;E:\浦思悦\2023.3代码/datasets/test\Pinnularia undula var. major\Pinnularia undula var. major6.jpg
+808;E:\浦思悦\2023.3代码/datasets/test\Pinnularia undula var. major\Pinnularia undula var. major_1.jpg
+809;E:\浦思悦\2023.3代码/datasets/test\Placoneis abiskoensis\Placoneis abiskoensis -Placoneis_abiskoensis_4.jpg
+810;E:\浦思悦\2023.3代码/datasets/test\Placoneis amphibola\Placoneis amphibola -25.3(10μm).jpg
+810;E:\浦思悦\2023.3代码/datasets/test\Placoneis amphibola\Placoneis amphibola -779_39.0_Plac_amphibola.jpg
+811;E:\浦思悦\2023.3代码/datasets/test\Placoneis anglophila\Placoneis anglophila -PLpseudanglica-6.jpg
+812;E:\浦思悦\2023.3代码/datasets/test\Placoneis elginensis\Placoneis elginensis 6.7(1μm).png
+812;E:\浦思悦\2023.3代码/datasets/test\Placoneis elginensis\Placoneis elginensis 6.8(1μm).png
+813;E:\浦思悦\2023.3代码/datasets/test\Placoneis explanata\Placoneis explanata -PLexplanata_SMM16085b_819_37.2.jpg
+814;E:\浦思悦\2023.3代码/datasets/test\Placoneis gastrum\Placoneis gastrum3.jpg
+814;E:\浦思悦\2023.3代码/datasets/test\Placoneis gastrum\Placoneis gastrum5.jpg
+814;E:\浦思悦\2023.3代码/datasets/test\Placoneis gastrum\Placoneis gastrum6.jpg
+815;E:\浦思悦\2023.3代码/datasets/test\Plagiotropis arizonica\Plagiotropis arizonica -Plagarizon4.jpg
+815;E:\浦思悦\2023.3代码/datasets/test\Plagiotropis arizonica\Plagiotropis arizonica -Plagarizon6.jpg
+816;E:\浦思悦\2023.3代码/datasets/test\Plagiotropis lepidoptera var. proboscidea\Plagiotropis lepidoptera var. proboscidea -Plaglepid5.jpg
+816;E:\浦思悦\2023.3代码/datasets/test\Plagiotropis lepidoptera var. proboscidea\Plagiotropis lepidoptera var. proboscidea -Plaglepid6.jpg
+817;E:\浦思悦\2023.3代码/datasets/test\Planothidium abbreviatum\Planothidium abbreviatum -GS024101_1.jpg
+817;E:\浦思悦\2023.3代码/datasets/test\Planothidium abbreviatum\Planothidium abbreviatum -GS024101_3.jpg
+817;E:\浦思悦\2023.3代码/datasets/test\Planothidium abbreviatum\Planothidium abbreviatum -NRSA0023_1.jpg
+818;E:\浦思悦\2023.3代码/datasets/test\Planothidium amphibium\Planothidium amphibium -NRSA0108_6.jpg
+818;E:\浦思悦\2023.3代码/datasets/test\Planothidium amphibium\Planothidium amphibium -NRSA0108_9.jpg
+819;E:\浦思悦\2023.3代码/datasets/test\Planothidium apiculatum\Planothidium apiculatum -GSN23403_PLapicul_3ed.jpg
+819;E:\浦思悦\2023.3代码/datasets/test\Planothidium apiculatum\Planothidium apiculatum -GSN69662_PLapicul_1b_ed.jpg
+819;E:\浦思悦\2023.3代码/datasets/test\Planothidium apiculatum\Planothidium apiculatum_7.jpg
+820;E:\浦思悦\2023.3代码/datasets/test\Planothidium biporomum\Planothidium biporomum 6.4.png
+820;E:\浦思悦\2023.3代码/datasets/test\Planothidium biporomum\Planothidium biporomum_6.jpg
+820;E:\浦思悦\2023.3代码/datasets/test\Planothidium biporomum\Planothidium biporomum_7.jpg
+821;E:\浦思悦\2023.3代码/datasets/test\Planothidium delicatulum\Planothidium delicatulum -GS134565_3_1.jpg
+821;E:\浦思悦\2023.3代码/datasets/test\Planothidium delicatulum\Planothidium delicatulum -GS134565_6.jpg
+821;E:\浦思悦\2023.3代码/datasets/test\Planothidium delicatulum\Planothidium delicatulum_4.jpg
+822;E:\浦思悦\2023.3代码/datasets/test\Planothidium frequentissimum\Planothidium frequentissimum 6.4(2μm).png
+822;E:\浦思悦\2023.3代码/datasets/test\Planothidium frequentissimum\Planothidium frequentissimum 6.5(2μm).png
+822;E:\浦思悦\2023.3代码/datasets/test\Planothidium frequentissimum\Planothidium frequentissimum 6.8.png
+822;E:\浦思悦\2023.3代码/datasets/test\Planothidium frequentissimum\Planothidium frequentissimum_10.jpg
+822;E:\浦思悦\2023.3代码/datasets/test\Planothidium frequentissimum\Planothidium frequentissimum_8.jpg
+823;E:\浦思悦\2023.3代码/datasets/test\Planothidium holstii\Planothidium holstii -Planothidium_holstii_Amphi_sl57f.jpg
+823;E:\浦思悦\2023.3代码/datasets/test\Planothidium holstii\Planothidium holstii -Planothidium_holstii_Amphi_sl57g.jpg
+824;E:\浦思悦\2023.3代码/datasets/test\Planothidium incuriatum\Planothidium incuriatum -Planothidium_incuriatum_GC110451a_7.jpg
+825;E:\浦思悦\2023.3代码/datasets/test\Planothidium joursacense\Planothidium joursacense -P_joursacense_16329a_20170602_41_cl.jpeg
+825;E:\浦思悦\2023.3代码/datasets/test\Planothidium joursacense\Planothidium joursacense -P_joursacense_16329a_20170602_53_cl.jpeg
+826;E:\浦思悦\2023.3代码/datasets/test\Planothidium lanceolatoides\Planothidium lanceolatoides -501101_4_10.jpg
+826;E:\浦思悦\2023.3代码/datasets/test\Planothidium lanceolatoides\Planothidium lanceolatoides -501101_4_11.jpg
+826;E:\浦思悦\2023.3代码/datasets/test\Planothidium lanceolatoides\Planothidium lanceolatoides -501101_4_8a.jpg
+827;E:\浦思悦\2023.3代码/datasets/test\Planothidium lanceolatum\Planothidium lanceolatum 8.1.png
+827;E:\浦思悦\2023.3代码/datasets/test\Planothidium lanceolatum\Planothidium lanceolatum_1.jpg
+827;E:\浦思悦\2023.3代码/datasets/test\Planothidium lanceolatum\Planothidium lanceolatum_7.jpg
+827;E:\浦思悦\2023.3代码/datasets/test\Planothidium lanceolatum\Planothidium lanceolatum_9.jpg
+828;E:\浦思悦\2023.3代码/datasets/test\Planothidium potapovae\Planothidium potapovae -GSN23403_PLrostr_3.jpg
+828;E:\浦思悦\2023.3代码/datasets/test\Planothidium potapovae\Planothidium potapovae -GSN23403_PLrostr_5.jpg
+829;E:\浦思悦\2023.3代码/datasets/test\Planothidium reichardtii\Planothidium reichardtii -MO000295_GC109668_5.jpg
+829;E:\浦思悦\2023.3代码/datasets/test\Planothidium reichardtii\Planothidium reichardtii -MO000295_GC109668_6b.jpg
+829;E:\浦思悦\2023.3代码/datasets/test\Planothidium reichardtii\Planothidium reichardtii -MO000295_GC109668_7.jpg
+830;E:\浦思悦\2023.3代码/datasets/test\Planothidium rostratoholarcticum\Planothidium rostratoholarcticum -PLrstrhlactcm_GC106751a_5b_ed.jpg
+830;E:\浦思悦\2023.3代码/datasets/test\Planothidium rostratoholarcticum\Planothidium rostratoholarcticum -PLrstrhlactcm_GC108214a_7b_ed.jpg
+831;E:\浦思悦\2023.3代码/datasets/test\Planothidium sheathii\Planothidium sheathii -Planothidium-sheathii-LM08.jpg
+831;E:\浦思悦\2023.3代码/datasets/test\Planothidium sheathii\Planothidium sheathii -Planothidium-sheathii-LM10.jpg
+831;E:\浦思悦\2023.3代码/datasets/test\Planothidium sheathii\Planothidium sheathii_2.jpg
+832;E:\浦思悦\2023.3代码/datasets/test\Platessa bahlsii\Platessa bahlsii -NRSA0023_8.jpg
+832;E:\浦思悦\2023.3代码/datasets/test\Platessa bahlsii\Platessa bahlsii -NRSA0023_realHOLOa.jpg
+832;E:\浦思悦\2023.3代码/datasets/test\Platessa bahlsii\Platessa bahlsii -NRSA0023_realHOLOb.jpg
+833;E:\浦思悦\2023.3代码/datasets/test\Platessa conspicua\Platessa conspicua -GSN82684_PlConsp_5ed.jpg
+833;E:\浦思悦\2023.3代码/datasets/test\Platessa conspicua\Platessa conspicua -GSN82684_PlConsp_8ed.jpg
+833;E:\浦思悦\2023.3代码/datasets/test\Platessa conspicua\Platessa conspicua -GSN82684_PlConsp_9ed.jpg
+834;E:\浦思悦\2023.3代码/datasets/test\Platessa hustedtii\Platessa hustedtii -NRSA0024_PLhust_3.jpg
+834;E:\浦思悦\2023.3代码/datasets/test\Platessa hustedtii\Platessa hustedtii -NRSA0024_PLhust_4.jpg
+834;E:\浦思悦\2023.3代码/datasets/test\Platessa hustedtii\Platessa hustedtii -NRSA0024_PLhust_5.jpg
+835;E:\浦思悦\2023.3代码/datasets/test\Platessa kingstonii\Platessa kingstonii -NCPA0267_holoslide7a.jpg
+835;E:\浦思悦\2023.3代码/datasets/test\Platessa kingstonii\Platessa kingstonii -NCPA0267_HOLOTYPE_c.jpg
+835;E:\浦思悦\2023.3代码/datasets/test\Platessa kingstonii\Platessa kingstonii_2.jpg
+836;E:\浦思悦\2023.3代码/datasets/test\Platessa lutheri\Platessa lutheri -MURD0063_2b.jpg
+836;E:\浦思悦\2023.3代码/datasets/test\Platessa lutheri\Platessa lutheri -MURD0063_3b.jpg
+837;E:\浦思悦\2023.3代码/datasets/test\Platessa oblongella\Platessa oblongella -NRSA1189_KAobl_7.jpg
+837;E:\浦思悦\2023.3代码/datasets/test\Platessa oblongella\Platessa oblongella -NRSA1189_KAobl_8_1.jpg
+837;E:\浦思悦\2023.3代码/datasets/test\Platessa oblongella\Platessa oblongella -NRSA1189_KAobl_9.jpg
+838;E:\浦思悦\2023.3代码/datasets/test\Platessa stewartii\Platessa stewartii -NCPA0267_Stew2.jpg
+838;E:\浦思悦\2023.3代码/datasets/test\Platessa stewartii\Platessa stewartii -NCPA0267_Stew3ed.jpg
+838;E:\浦思悦\2023.3代码/datasets/test\Platessa stewartii\Platessa stewartii -VA000232_2.jpg
+839;E:\浦思悦\2023.3代码/datasets/test\Platessa strelnikovae\Platessa strelnikovae -NRSA0265_PLAT_holotype_b.jpg
+839;E:\浦思悦\2023.3代码/datasets/test\Platessa strelnikovae\Platessa strelnikovae -NRSA0265_PLAT_holotype_c.jpg
+839;E:\浦思悦\2023.3代码/datasets/test\Platessa strelnikovae\Platessa strelnikovae -NRSA0265_PLAT_isotype2_2a.jpg
+840;E:\浦思悦\2023.3代码/datasets/test\Playaensis circumfimbria\Playaensis circumfimbria -Playaensis_circumfimbria4.jpg
+840;E:\浦思悦\2023.3代码/datasets/test\Playaensis circumfimbria\Playaensis circumfimbria -Playaensis_circumfimbria5.jpg
+841;E:\浦思悦\2023.3代码/datasets/test\Pleurosigma inflatum\Pleurosigma inflatum -P.inflatum5a.jpg
+842;E:\浦思悦\2023.3代码/datasets/test\Pleurosira laevis\Pleurosira laevis -pleurosira_laevis_006.jpg
+842;E:\浦思悦\2023.3代码/datasets/test\Pleurosira laevis\Pleurosira laevis -pleurosira_laevis_007b.jpg
+843;E:\浦思悦\2023.3代码/datasets/test\Prestauroneis integra\Prestauroneis integra -25.3(10μm).jpg
+844;E:\浦思悦\2023.3代码/datasets/test\Prestauroneis protracta\Prestauroneis protracta -p_protracta_16326a_20170515_23_cl.jpeg
+844;E:\浦思悦\2023.3代码/datasets/test\Prestauroneis protracta\Prestauroneis protracta -p_protracta_16326a_20170515_57_cl.jpeg
+845;E:\浦思悦\2023.3代码/datasets/test\Proschkinia browderiana\Proschkinia browderiana -Proschkinia-browderiana-LM4.jpg
+845;E:\浦思悦\2023.3代码/datasets/test\Proschkinia browderiana\Proschkinia browderiana -Proschkinia-browderiana-LM5.jpg
+845;E:\浦思悦\2023.3代码/datasets/test\Proschkinia browderiana\Proschkinia browderiana -Proschkinia-browderiana-LM6.jpg
+846;E:\浦思悦\2023.3代码/datasets/test\Psammothidium acidoclinatum\Psammothidium acidoclinatum -NCPA0009_PSmargiulatum_1ed.jpg
+847;E:\浦思悦\2023.3代码/datasets/test\Psammothidium alpinum\Psammothidium alpinum -WACA19_PS2_5b.jpg
+847;E:\浦思悦\2023.3代码/datasets/test\Psammothidium alpinum\Psammothidium alpinum -WACA19_PS2_6b.jpg
+848;E:\浦思悦\2023.3代码/datasets/test\Psammothidium bioretii\Psammothidium bioretii 6.4.png
+848;E:\浦思悦\2023.3代码/datasets/test\Psammothidium bioretii\Psammothidium bioretii_1.jpg
+848;E:\浦思悦\2023.3代码/datasets/test\Psammothidium bioretii\Psammothidium bioretii_10.jpg
+848;E:\浦思悦\2023.3代码/datasets/test\Psammothidium bioretii\Psammothidium bioretii_5.jpg
+849;E:\浦思悦\2023.3代码/datasets/test\Psammothidium chlidanos\Psammothidium chlidanos -GSN23387_PSchlidanos_2b_ed.jpg
+849;E:\浦思悦\2023.3代码/datasets/test\Psammothidium chlidanos\Psammothidium chlidanos -NCPA0007_PSchlidanos_1a_ed_1.jpg
+849;E:\浦思悦\2023.3代码/datasets/test\Psammothidium chlidanos\Psammothidium chlidanos -NCPA0007_PSchlidanos_1b_1.jpg
+850;E:\浦思悦\2023.3代码/datasets/test\Psammothidium daonense\Psammothidium daonense -MO000019_2a_ed.jpg
+850;E:\浦思悦\2023.3代码/datasets/test\Psammothidium daonense\Psammothidium daonense -MO000019_4a_ed.jpg
+850;E:\浦思悦\2023.3代码/datasets/test\Psammothidium daonense\Psammothidium daonense -MO000019_4b_ed.jpg
+851;E:\浦思悦\2023.3代码/datasets/test\Psammothidium didymum\Psammothidium didymum -MT001517_6a_ed.jpg
+851;E:\浦思悦\2023.3代码/datasets/test\Psammothidium didymum\Psammothidium didymum -MT001517_7a_ed.jpg
+851;E:\浦思悦\2023.3代码/datasets/test\Psammothidium didymum\Psammothidium didymum -MT001517_7b_ed.jpg
+852;E:\浦思悦\2023.3代码/datasets/test\Psammothidium harveyi\Psammothidium harveyi -NCPA116_harve_2ed.jpg
+852;E:\浦思悦\2023.3代码/datasets/test\Psammothidium harveyi\Psammothidium harveyi -NCPA116_harve_3a_ed.jpg
+852;E:\浦思悦\2023.3代码/datasets/test\Psammothidium harveyi\Psammothidium harveyi -NCPA4_harveyi_ed.jpg
+853;E:\浦思悦\2023.3代码/datasets/test\Psammothidium helveticum\Psammothidium helveticum -GSL00810_6a_ed.jpg
+853;E:\浦思悦\2023.3代码/datasets/test\Psammothidium helveticum\Psammothidium helveticum -GSN23403_1a.jpg
+853;E:\浦思悦\2023.3代码/datasets/test\Psammothidium helveticum\Psammothidium helveticum 8.1(2μm).png
+854;E:\浦思悦\2023.3代码/datasets/test\Psammothidium lacustre\Psammothidium lacustre -ISO_sp1_2b.jpg
+854;E:\浦思悦\2023.3代码/datasets/test\Psammothidium lacustre\Psammothidium lacustre -WACA19_PS1_1b_ed.jpg
+855;E:\浦思悦\2023.3代码/datasets/test\Psammothidium lauenburgianum\Psammothidium lauenburgianum -GS181995_3b.jpg
+855;E:\浦思悦\2023.3代码/datasets/test\Psammothidium lauenburgianum\Psammothidium lauenburgianum -GS181995_4a_1.jpg
+855;E:\浦思悦\2023.3代码/datasets/test\Psammothidium lauenburgianum\Psammothidium lauenburgianum -GS181995_5a.jpg
+856;E:\浦思悦\2023.3代码/datasets/test\Psammothidium levanderi\Psammothidium levanderi  -NCPA0033_PSlev_3_ed.jpg
+856;E:\浦思悦\2023.3代码/datasets/test\Psammothidium levanderi\Psammothidium levanderi  -NCPA0033_PSlev_5b_ed.jpg
+857;E:\浦思悦\2023.3代码/datasets/test\Psammothidium microscopicum\Psammothidium microscopicum -MT001517_3a_ed.jpg
+857;E:\浦思悦\2023.3代码/datasets/test\Psammothidium microscopicum\Psammothidium microscopicum -MT001517_3b_ed.jpg
+857;E:\浦思悦\2023.3代码/datasets/test\Psammothidium microscopicum\Psammothidium microscopicum -MT001517_PScurt_1a_ed.jpg
+858;E:\浦思悦\2023.3代码/datasets/test\Psammothidium nivale\Psammothidium nivale -TypePop_sp3_1a.jpg
+858;E:\浦思悦\2023.3代码/datasets/test\Psammothidium nivale\Psammothidium nivale -TypePop_sp3_1b.jpg
+859;E:\浦思悦\2023.3代码/datasets/test\Psammothidium obliquum\Psammothidium obliquum -PsammoObliquum_GC64415_52.jpg
+859;E:\浦思悦\2023.3代码/datasets/test\Psammothidium obliquum\Psammothidium obliquum -PsammoObliquum_GC64415_80.jpg
+860;E:\浦思悦\2023.3代码/datasets/test\Psammothidium pennsylvanicum\Psammothidium pennsylvanicum -NCPA0116_ISOTYPE_1d.jpg
+860;E:\浦思悦\2023.3代码/datasets/test\Psammothidium pennsylvanicum\Psammothidium pennsylvanicum -NCPA0116_slideIso3_nottype1a.jpg
+860;E:\浦思悦\2023.3代码/datasets/test\Psammothidium pennsylvanicum\Psammothidium pennsylvanicum_2.jpg
+861;E:\浦思悦\2023.3代码/datasets/test\Psammothidium rossii\Psammothidium rossii6.jpg
+861;E:\浦思悦\2023.3代码/datasets/test\Psammothidium rossii\Psammothidium rossii7.jpg
+862;E:\浦思悦\2023.3代码/datasets/test\Psammothidium scoticum\Psammothidium scoticum -NCPA0002_PSsp1cfScoticum_1_ed.jpg
+862;E:\浦思悦\2023.3代码/datasets/test\Psammothidium scoticum\Psammothidium scoticum -NCPA0268_PSscoticum_1a_ed.jpg
+863;E:\浦思悦\2023.3代码/datasets/test\Psammothidium semiapertum\Psammothidium semiapertum -NRSA0151_4ed.jpg
+863;E:\浦思悦\2023.3代码/datasets/test\Psammothidium semiapertum\Psammothidium semiapertum -NRSA0151_6ed.jpg
+864;E:\浦思悦\2023.3代码/datasets/test\Psammothidium subatomoides\Psammothidium subatomoides -25.2(1μm).jpg
+864;E:\浦思悦\2023.3代码/datasets/test\Psammothidium subatomoides\Psammothidium subatomoides -25.3(10μm).jpg
+865;E:\浦思悦\2023.3代码/datasets/test\Pseudofallacia monoculata\Pseudofallacia monoculata -pseudo_mono_15624_05262016_01_cl.jpeg
+865;E:\浦思悦\2023.3代码/datasets/test\Pseudofallacia monoculata\Pseudofallacia monoculata -pseudo_mono_15624_05262016_08_cl.jpeg
+866;E:\浦思悦\2023.3代码/datasets/test\Pseudostaurosira brevistriata\Pseudostaurosira brevistriata_1.jpg
+867;E:\浦思悦\2023.3代码/datasets/test\Punctastriata mimetica\Punctastriata mimetica -ANSP_GC101196-5.jpg
+867;E:\浦思悦\2023.3代码/datasets/test\Punctastriata mimetica\Punctastriata mimetica -ANSP_GC101196-6.jpg
+867;E:\浦思悦\2023.3代码/datasets/test\Punctastriata mimetica\Punctastriata mimetica -ANSP_GC101196-7.jpg
+868;E:\浦思悦\2023.3代码/datasets/test\Reimeria sinuata\Reimeria sinuata -55002_LM5_1.jpg
+868;E:\浦思悦\2023.3代码/datasets/test\Reimeria sinuata\Reimeria sinuata -55002_LM6_1.jpg
+868;E:\浦思悦\2023.3代码/datasets/test\Reimeria sinuata\Reimeria sinuata -55002_LM7_1.jpg
+869;E:\浦思悦\2023.3代码/datasets/test\Reimeria sinuata f. antiqua\Reimeria sinuata f. antiqua-duplicate.sinuatafantiqua.gc54103rev012.png
+870;E:\浦思悦\2023.3代码/datasets/test\Reimeria uniseriata\Reimeria uniseriata -GSN82684_REuniser_5_ed.jpg
+870;E:\浦思悦\2023.3代码/datasets/test\Reimeria uniseriata\Reimeria uniseriata -GSN82684_REuniser_6_ed.jpg
+870;E:\浦思悦\2023.3代码/datasets/test\Reimeria uniseriata\Reimeria uniseriata -GSN82684_REuniser_7_ed.jpg
+871;E:\浦思悦\2023.3代码/datasets/test\Rexlowea navicularis\Rexlowea navicularis -rexlowea_navicularis.jpg
+872;E:\浦思悦\2023.3代码/datasets/test\Rhoicosphenia abbreviata\Rhoicosphenia abbreviata -57002_LM4_1.jpg
+872;E:\浦思悦\2023.3代码/datasets/test\Rhoicosphenia abbreviata\Rhoicosphenia abbreviata -57002_LM5_1.jpg
+873;E:\浦思悦\2023.3代码/datasets/test\Rhoicosphenia californica\Rhoicosphenia californica -RcalSEM4footexD.jpg
+873;E:\浦思悦\2023.3代码/datasets/test\Rhoicosphenia californica\Rhoicosphenia californica_6.jpg
+874;E:\浦思悦\2023.3代码/datasets/test\Rhoicosphenia stoermeri\Rhoicosphenia stoermeri -RstoerLM7.jpg
+874;E:\浦思悦\2023.3代码/datasets/test\Rhoicosphenia stoermeri\Rhoicosphenia stoermeri -RstoerSEMmidexR.jpg
+875;E:\浦思悦\2023.3代码/datasets/test\Rossithidium anastasiae\Rossithidium anastasiae -MEDP0088_7.jpg
+875;E:\浦思悦\2023.3代码/datasets/test\Rossithidium anastasiae\Rossithidium anastasiae -MEDP0088_8.jpg
+875;E:\浦思悦\2023.3代码/datasets/test\Rossithidium anastasiae\Rossithidium anastasiae2.jpg
+876;E:\浦思悦\2023.3代码/datasets/test\Rossithidium kriegeri\Rossithidium kriegeri -47_LM7.jpg
+876;E:\浦思悦\2023.3代码/datasets/test\Rossithidium kriegeri\Rossithidium kriegeri -47_SEM3.jpg
+877;E:\浦思悦\2023.3代码/datasets/test\Rossithidium nodosum\Rossithidium nodosum -25.2.jpg
+877;E:\浦思悦\2023.3代码/datasets/test\Rossithidium nodosum\Rossithidium nodosum_2.jpg
+878;E:\浦思悦\2023.3代码/datasets/test\Rossithidium petersenii\Rossithidium petersenii -Rpet_6.jpg
+878;E:\浦思悦\2023.3代码/datasets/test\Rossithidium petersenii\Rossithidium petersenii -Rpet_7.jpg
+878;E:\浦思悦\2023.3代码/datasets/test\Rossithidium petersenii\Rossithidium petersenii -Rpet_9.jpg
+879;E:\浦思悦\2023.3代码/datasets/test\Rossithidium pusillum\Rossithidium pusillum -25.2(10μm).jpg
+879;E:\浦思悦\2023.3代码/datasets/test\Rossithidium pusillum\Rossithidium pusillum -25.3(10μm).jpg
+880;E:\浦思悦\2023.3代码/datasets/test\Scoliopleura peisonis\Scoliopleura peisonis -Scoliopleura_peisonis_074601_5.jpg
+881;E:\浦思悦\2023.3代码/datasets/test\Sellaphora alastos\Sellaphora alastos -Sellaphora_alastos6.jpg
+881;E:\浦思悦\2023.3代码/datasets/test\Sellaphora alastos\Sellaphora alastos -Sellaphora_alastos7.jpg
+882;E:\浦思悦\2023.3代码/datasets/test\Sellaphora americana\Sellaphora americana -Sellaphora_americana3.jpg
+882;E:\浦思悦\2023.3代码/datasets/test\Sellaphora americana\Sellaphora americana -Sellaphora_americana_492001_4.jpg
+883;E:\浦思悦\2023.3代码/datasets/test\Sellaphora atomoides\Sellaphora atomoides -25.3(10μm).png
+883;E:\浦思悦\2023.3代码/datasets/test\Sellaphora atomoides\Sellaphora atomoides_1.jpg
+884;E:\浦思悦\2023.3代码/datasets/test\Sellaphora auldreekie\Sellaphora auldreekie -SEauldreekie_591_26.8.jpg
+884;E:\浦思悦\2023.3代码/datasets/test\Sellaphora auldreekie\Sellaphora auldreekie -SEauldreekie_742_33.7.jpg
+885;E:\浦思悦\2023.3代码/datasets/test\Sellaphora bacillm\Sellaphora bacillm 6.4(1μm).png
+886;E:\浦思悦\2023.3代码/datasets/test\Sellaphora bacilloides\Sellaphora bacilloides -Sellabacilloides4.jpg
+887;E:\浦思悦\2023.3代码/datasets/test\Sellaphora bacillum\Sellaphora bacillum -sellaphora_bacillum_006.jpg
+888;E:\浦思悦\2023.3代码/datasets/test\Sellaphora californica\Sellaphora californica -GC64842_4.jpg
+889;E:\浦思悦\2023.3代码/datasets/test\Sellaphora disjuncta\Sellaphora disjuncta -Sellaphora-disjuncta-RI10005_B_101117_11_c.jpg
+889;E:\浦思悦\2023.3代码/datasets/test\Sellaphora disjuncta\Sellaphora disjuncta -Sellaphora-disjuncta-RI10010B_101017_29_c.jpg
+890;E:\浦思悦\2023.3代码/datasets/test\Sellaphora fusticulus\Sellaphora fusticulus -SEfusticulus_900_40.9.jpg
+891;E:\浦思悦\2023.3代码/datasets/test\Sellaphora hohnii\Sellaphora hohnii -GC44484_9.jpg
+891;E:\浦思悦\2023.3代码/datasets/test\Sellaphora hohnii\Sellaphora hohnii -SCristula1_b.jpg
+892;E:\浦思悦\2023.3代码/datasets/test\Sellaphora japonica\Sellaphora japonica -sellaphora_japonica_10um_15555_mix33.jpeg
+892;E:\浦思悦\2023.3代码/datasets/test\Sellaphora japonica\Sellaphora japonica_1.jpg
+892;E:\浦思悦\2023.3代码/datasets/test\Sellaphora japonica\Sellaphora japonica_6.jpg
+893;E:\浦思悦\2023.3代码/datasets/test\Sellaphora javanica\Sellaphora javanica6.jpg
+894;E:\浦思悦\2023.3代码/datasets/test\Sellaphora laevissima\Sellaphora laevissima -SElaevissima_910_41.3.jpg
+895;E:\浦思悦\2023.3代码/datasets/test\Sellaphora meridionalis\Sellaphora meridionalis -GSN17543_S6.jpg
+895;E:\浦思悦\2023.3代码/datasets/test\Sellaphora meridionalis\Sellaphora meridionalis -GSN17543_S8.jpg
+896;E:\浦思悦\2023.3代码/datasets/test\Sellaphora moesta\Sellaphora moesta -SEmoesta_TP159_1399_112-2.jpg
+896;E:\浦思悦\2023.3代码/datasets/test\Sellaphora moesta\Sellaphora moesta -SEmoesta_TP159_983_79.jpg
+897;E:\浦思悦\2023.3代码/datasets/test\Sellaphora nigri\Sellaphora nigri -25.2(10μm).png
+897;E:\浦思悦\2023.3代码/datasets/test\Sellaphora nigri\Sellaphora nigri -25.3(10μm).png
+898;E:\浦思悦\2023.3代码/datasets/test\Sellaphora pulchra\Sellaphora pulchra -GC113163_NLS252_6.jpg
+898;E:\浦思悦\2023.3代码/datasets/test\Sellaphora pulchra\Sellaphora pulchra -GC113163_NLS252_8.jpg
+899;E:\浦思悦\2023.3代码/datasets/test\Sellaphora pupula\Sellaphora pupula 6.7(1μm).png
+899;E:\浦思悦\2023.3代码/datasets/test\Sellaphora pupula\Sellaphora pupula 6.8(1μm).png
+900;E:\浦思悦\2023.3代码/datasets/test\Sellaphora rexii\Sellaphora rexii -GSN95461_s8.jpg
+900;E:\浦思悦\2023.3代码/datasets/test\Sellaphora rexii\Sellaphora rexii -Holo2b_real.jpg
+901;E:\浦思悦\2023.3代码/datasets/test\Sellaphora saugerresii\Sellaphora saugerresii -WP160_4_sclbr.png
+901;E:\浦思悦\2023.3代码/datasets/test\Sellaphora saugerresii\Sellaphora saugerresii -WP172_1_sclbr.png
+902;E:\浦思悦\2023.3代码/datasets/test\Sellaphora stauroneioides\Sellaphora stauroneioides -sel_stauroneioides_FW08MS048_20170201_02_cl.jpeg
+902;E:\浦思悦\2023.3代码/datasets/test\Sellaphora stauroneioides\Sellaphora stauroneioides -sel_stauroneioides_FW08MS048_20170201_06_cl.jpeg
+903;E:\浦思悦\2023.3代码/datasets/test\Sellaphora stroemii\Sellaphora stroemii -Sell_stroemii_GC102062a_GS021763_2.jpg
+903;E:\浦思悦\2023.3代码/datasets/test\Sellaphora stroemii\Sellaphora stroemii -Sell_stroemii_GC102062a_GS021763_4.jpg
+903;E:\浦思悦\2023.3代码/datasets/test\Sellaphora stroemii\Sellaphora stroemii -Sell_stroemii_GC102062a_GS021763_9.jpg
+904;E:\浦思悦\2023.3代码/datasets/test\Sellaphora subbacillum\Sellaphora subbacillum -25.3(10μm).jpg
+904;E:\浦思悦\2023.3代码/datasets/test\Sellaphora subbacillum\Sellaphora subbacillum_2.jpg
+905;E:\浦思悦\2023.3代码/datasets/test\Sellaphora subfasciata\Sellaphora subfasciata -GC44264a_SEsubfasciata_1.jpg
+905;E:\浦思悦\2023.3代码/datasets/test\Sellaphora subfasciata\Sellaphora subfasciata -GC44264a_SEsubfasciata_3zeiiss.jpg
+906;E:\浦思悦\2023.3代码/datasets/test\Sellaphora wallacei\Sellaphora wallacei -GC105959_GSN95451_8.jpg
+906;E:\浦思悦\2023.3代码/datasets/test\Sellaphora wallacei\Sellaphora wallacei -GC105959_GSN95451_9.jpg
+907;E:\浦思悦\2023.3代码/datasets/test\Sellaphora wangii\Sellaphora wangii_1.jpg
+908;E:\浦思悦\2023.3代码/datasets/test\Semiorbis catillifera\Semiorbis catillifera -SEcatillifera-6.jpg
+908;E:\浦思悦\2023.3代码/datasets/test\Semiorbis catillifera\Semiorbis catillifera -SEcatillifera-8a.jpg
+909;E:\浦思悦\2023.3代码/datasets/test\Semiorbis eliasiae\Semiorbis eliasiae -SEMeliaseae_ANSP_GC-65337_26-9_768.jpeg
+909;E:\浦思悦\2023.3代码/datasets/test\Semiorbis eliasiae\Semiorbis eliasiae -SEMeliaseae_ANSP_GC-65337_31-2_891.jpeg
+910;E:\浦思悦\2023.3代码/datasets/test\Semiorbis rotundus\Semiorbis rotundus -SErotundus-5.jpg
+910;E:\浦思悦\2023.3代码/datasets/test\Semiorbis rotundus\Semiorbis rotundus -SErotundus-7.jpg
+911;E:\浦思悦\2023.3代码/datasets/test\Simonsenia delognei\Simonsenia delognei_1.jpg
+912;E:\浦思悦\2023.3代码/datasets/test\Skabitschewskia oestrupii\Skabitschewskia oestrupii -SKABoestrupii_GC111350a_7.jpg
+912;E:\浦思悦\2023.3代码/datasets/test\Skabitschewskia oestrupii\Skabitschewskia oestrupii -SKABoestrupii_GC111350a_8.jpg
+913;E:\浦思悦\2023.3代码/datasets/test\Skabitschewskia peragalloi\Skabitschewskia peragalloi -NRSA0406_GC113396_17a.jpg
+913;E:\浦思悦\2023.3代码/datasets/test\Skabitschewskia peragalloi\Skabitschewskia peragalloi -NRSA0406_GC113396_17b.jpg
+914;E:\浦思悦\2023.3代码/datasets/test\Skeletonema costatum\Skeletonema costatum_1.jpg
+915;E:\浦思悦\2023.3代码/datasets/test\Skeletonema marinoi\Skeletonema marinoi_1_vertical.jpg
+916;E:\浦思悦\2023.3代码/datasets/test\Skeletonema pseudocostatum\Skeletonema pseudocostatum_1_vertical.jpg
+917;E:\浦思悦\2023.3代码/datasets/test\Spicaticribra kingstonii\Spicaticribra kingstonii -_Spic2112a_1200.jpg
+917;E:\浦思悦\2023.3代码/datasets/test\Spicaticribra kingstonii\Spicaticribra kingstonii -_spic4_cropped.jpg
+918;E:\浦思悦\2023.3代码/datasets/test\Stauroforma exiguiformis\Stauroforma exiguiformis 11.3.png
+918;E:\浦思悦\2023.3代码/datasets/test\Stauroforma exiguiformis\Stauroforma exiguiformis 11.4.png
+918;E:\浦思悦\2023.3代码/datasets/test\Stauroforma exiguiformis\Stauroforma exiguiformis_2.jpg
+918;E:\浦思悦\2023.3代码/datasets/test\Stauroforma exiguiformis\Stauroforma exiguiformis_7.jpg
+919;E:\浦思悦\2023.3代码/datasets/test\Stauroneis absaroka\Stauroneis absaroka -Sabsaroka6.jpg
+920;E:\浦思悦\2023.3代码/datasets/test\Stauroneis acidoclinata\Stauroneis acidoclinata -Sacidoclinata6.jpg
+921;E:\浦思悦\2023.3代码/datasets/test\Stauroneis acidoclinatopsis\Stauroneis acidoclinatopsis -Sacidoclinatopsis3.jpg
+922;E:\浦思悦\2023.3代码/datasets/test\Stauroneis acuta\Stauroneis acuta -Sacuta4.jpg
+923;E:\浦思悦\2023.3代码/datasets/test\Stauroneis agrestis\Stauroneis agrestis -Stagrestis5.jpg
+923;E:\浦思悦\2023.3代码/datasets/test\Stauroneis agrestis\Stauroneis agrestis -Stagrestis6.jpg
+924;E:\浦思悦\2023.3代码/datasets/test\Stauroneis akamina\Stauroneis akamina -Sakamina5.jpg
+924;E:\浦思悦\2023.3代码/datasets/test\Stauroneis akamina\Stauroneis akamina -Sakamina6.jpg
+925;E:\浦思悦\2023.3代码/datasets/test\Stauroneis americana\Stauroneis americana -Samer6.jpg
+926;E:\浦思悦\2023.3代码/datasets/test\Stauroneis amphicephala\Stauroneis amphicephala -Samphiceph6.jpg
+927;E:\浦思悦\2023.3代码/datasets/test\Stauroneis anceps\Stauroneis anceps -Sanceps7.jpg
+927;E:\浦思悦\2023.3代码/datasets/test\Stauroneis anceps\Stauroneis anceps-19 10μm.PNG
+928;E:\浦思悦\2023.3代码/datasets/test\Stauroneis ancepsfallax\Stauroneis ancepsfallax -Sancepsfallax5.jpg
+929;E:\浦思悦\2023.3代码/datasets/test\Stauroneis angustilancea\Stauroneis angustilancea -Sangustilanc4.jpg
+929;E:\浦思悦\2023.3代码/datasets/test\Stauroneis angustilancea\Stauroneis angustilancea -Sangustilanc6.jpg
+930;E:\浦思悦\2023.3代码/datasets/test\Stauroneis baconiana\Stauroneis baconiana -Sbacon6.jpg
+931;E:\浦思悦\2023.3代码/datasets/test\Stauroneis beeskovea\Stauroneis beeskovea -Sbeesk6.jpg
+932;E:\浦思悦\2023.3代码/datasets/test\Stauroneis bovbjergii\Stauroneis bovbjergii -STbovbjergii-4.jpg
+933;E:\浦思悦\2023.3代码/datasets/test\Stauroneis boyntoniae\Stauroneis boyntoniae -Staurosboyntoniae6.jpg
+933;E:\浦思悦\2023.3代码/datasets/test\Stauroneis boyntoniae\Stauroneis boyntoniae_2.jpg
+934;E:\浦思悦\2023.3代码/datasets/test\Stauroneis bryocola\Stauroneis bryocola -Sbryocola5.jpg
+935;E:\浦思悦\2023.3代码/datasets/test\Stauroneis circumborealis\Stauroneis circumborealis -Scircumbor6.jpg
+936;E:\浦思悦\2023.3代码/datasets/test\Stauroneis conspicua\Stauroneis conspicua -Sitalica3_1.jpg
+937;E:\浦思悦\2023.3代码/datasets/test\Stauroneis finlandia\Stauroneis finlandia -Sfinlandia5.jpg
+937;E:\浦思悦\2023.3代码/datasets/test\Stauroneis finlandia\Stauroneis finlandia_3.jpg
+938;E:\浦思悦\2023.3代码/datasets/test\Stauroneis fluminopsis\Stauroneis fluminopsis -Sfluminopsis5.jpg
+939;E:\浦思悦\2023.3代码/datasets/test\Stauroneis gracilis\Stauroneis gracilis -Sgracilis6.jpg
+940;E:\浦思悦\2023.3代码/datasets/test\Stauroneis heinii\Stauroneis heinii -Sheinii4.jpg
+941;E:\浦思悦\2023.3代码/datasets/test\Stauroneis kingstonii\Stauroneis kingstonii_1.jpg
+942;E:\浦思悦\2023.3代码/datasets/test\Stauroneis kishinena\Stauroneis kishinena -Skish4.jpg
+942;E:\浦思悦\2023.3代码/datasets/test\Stauroneis kishinena\Stauroneis kishinena -Skish5.jpg
+943;E:\浦思悦\2023.3代码/datasets/test\Stauroneis kootenai\Stauroneis kootenai -Skootenai5.jpg
+944;E:\浦思悦\2023.3代码/datasets/test\Stauroneis kriegeri\Stauroneis kriegeri 6.3.png
+944;E:\浦思悦\2023.3代码/datasets/test\Stauroneis kriegeri\Stauroneis kriegeri 6.7.png
+944;E:\浦思悦\2023.3代码/datasets/test\Stauroneis kriegeri\Stauroneis kriegeri_4.jpg
+944;E:\浦思悦\2023.3代码/datasets/test\Stauroneis kriegeri\Stauroneis kriegeri_5.jpg
+945;E:\浦思悦\2023.3代码/datasets/test\Stauroneis lauenburgiana\Stauroneis lauenburgiana -Slauenburg6.jpg
+945;E:\浦思悦\2023.3代码/datasets/test\Stauroneis lauenburgiana\Stauroneis lauenburgiana -Slauenburg7.jpg
+946;E:\浦思悦\2023.3代码/datasets/test\Stauroneis livingstonii\Stauroneis livingstonii -Slivingston5.jpg
+947;E:\浦思悦\2023.3代码/datasets/test\Stauroneis neohyalina\Stauroneis neohyalina -Sneohyalina5.jpg
+948;E:\浦思悦\2023.3代码/datasets/test\Stauroneis pax\Stauroneis pax -Spax6.jpg
+949;E:\浦思悦\2023.3代码/datasets/test\Stauroneis phoenicenteron\Stauroneis phoenicenteron -Sphoen3.jpg
+950;E:\浦思悦\2023.3代码/datasets/test\Stauroneis pikuni\Stauroneis pikuni -Spikuni6.jpg
+950;E:\浦思悦\2023.3代码/datasets/test\Stauroneis pikuni\Stauroneis pikuni -Spikuni7.jpg
+951;E:\浦思悦\2023.3代码/datasets/test\Stauroneis pseudagrestis\Stauroneis pseudagrestis -Stpseudagrestis6.jpg
+951;E:\浦思悦\2023.3代码/datasets/test\Stauroneis pseudagrestis\Stauroneis pseudagrestis -Stpseudagrestis7.jpg
+952;E:\浦思悦\2023.3代码/datasets/test\Stauroneis reichardtii\Stauroneis reichardtii -Sreichardtii6.jpg
+953;E:\浦思悦\2023.3代码/datasets/test\Stauroneis rex\Stauroneis rex -Srex5.jpg
+954;E:\浦思悦\2023.3代码/datasets/test\Stauroneis sacajaweae\Stauroneis sacajaweae -Staurossacaja5.jpg
+955;E:\浦思悦\2023.3代码/datasets/test\Stauroneis schroederi\Stauroneis schroederi4.jpg
+956;E:\浦思悦\2023.3代码/datasets/test\Stauroneis separanda\Stauroneis separanda -Stauroneis_separanda_3.jpg
+957;E:\浦思悦\2023.3代码/datasets/test\Stauroneis siberica\Stauroneis siberica -Ssiberica6.jpg
+957;E:\浦思悦\2023.3代码/datasets/test\Stauroneis siberica\Stauroneis siberica -Ssiberica7.jpg
+958;E:\浦思悦\2023.3代码/datasets/test\Stauroneis smithii\Stauroneis smithii -Staurossmithii3.jpg
+958;E:\浦思悦\2023.3代码/datasets/test\Stauroneis smithii\Stauroneis smithii -Staurossmithii7.jpg
+959;E:\浦思悦\2023.3代码/datasets/test\Stauroneis smithii var. incisa\Stauroneis smithii var. incisa -st_smit_incis_15654c_03222016_07a_stauroneis_sp1_SESQA_cl.jpeg
+959;E:\浦思悦\2023.3代码/datasets/test\Stauroneis smithii var. incisa\Stauroneis smithii var. incisa -st_smit_incis_15654c_03222016_07_stauroneis_sp1_SESQA_cl.jpeg
+959;E:\浦思悦\2023.3代码/datasets/test\Stauroneis smithii var. incisa\Stauroneis smithii var. incisa -st_smit_incis_15654c_03222016_09_stauroneis_sp1_SESQA_cl.jpeg
+960;E:\浦思悦\2023.3代码/datasets/test\Stauroneis sonyae\Stauroneis sonyae -Ssonyae5.jpg
+961;E:\浦思悦\2023.3代码/datasets/test\Stauroneis staurolineata\Stauroneis staurolineata -Stauroneis-staurolineata-NH10067_A_121117_35_c.jpg
+961;E:\浦思悦\2023.3代码/datasets/test\Stauroneis staurolineata\Stauroneis staurolineata -Stauroneis-staurolineata-NH10891_A_110117_09_c.jpg
+962;E:\浦思悦\2023.3代码/datasets/test\Stauroneis stodderi\Stauroneis stodderi7.jpg
+962;E:\浦思悦\2023.3代码/datasets/test\Stauroneis stodderi\Stauroneis stodderi_3.jpg
+963;E:\浦思悦\2023.3代码/datasets/test\Stauroneis subborealis\Stauroneis subborealis -Ssubbor6.jpg
+963;E:\浦思悦\2023.3代码/datasets/test\Stauroneis subborealis\Stauroneis subborealis -Ssubbor7.jpg
+964;E:\浦思悦\2023.3代码/datasets/test\Stauroneis submarginalis\Stauroneis submarginalis -Stsubmarginalis2.jpg
+965;E:\浦思悦\2023.3代码/datasets/test\Stauroneis supergracilis\Stauroneis supergracilis -Stsupergracilis1.jpg
+965;E:\浦思悦\2023.3代码/datasets/test\Stauroneis supergracilis\Stauroneis supergracilis -Stsupergracilis8.jpg
+966;E:\浦思悦\2023.3代码/datasets/test\Stauroneis superkuelbsii\Stauroneis superkuelbsii -Ssuperkuelbs6.jpg
+967;E:\浦思悦\2023.3代码/datasets/test\Stauroneis thompsonii\Stauroneis thompsonii -Staurosthompson5.jpg
+968;E:\浦思悦\2023.3代码/datasets/test\Stauroneis vandevijveri\Stauroneis vandevijveri -Svandevijveri7.jpg
+969;E:\浦思悦\2023.3代码/datasets/test\Staurophora amphioxys\Staurophora amphioxys -Staurophora_amphioxys_074601_6.jpg
+970;E:\浦思悦\2023.3代码/datasets/test\Staurophora brantii\Staurophora brantii -Staurophorabrantii7.jpg
+970;E:\浦思悦\2023.3代码/datasets/test\Staurophora brantii\Staurophora brantii_4.jpg
+971;E:\浦思悦\2023.3代码/datasets/test\Staurophora columbiana\Staurophora columbiana -Stcolumbiana5.jpg
+971;E:\浦思悦\2023.3代码/datasets/test\Staurophora columbiana\Staurophora columbiana -Stcolumbiana7.jpg
+972;E:\浦思悦\2023.3代码/datasets/test\Staurophora soodensis\Staurophora soodensis -Stlegleri5.jpg
+972;E:\浦思悦\2023.3代码/datasets/test\Staurophora soodensis\Staurophora soodensis -Stlegleri6.jpg
+973;E:\浦思悦\2023.3代码/datasets/test\Staurophora tackei\Staurophora tackei -Staurophoratackei5.jpg
+974;E:\浦思悦\2023.3代码/datasets/test\Staurophora wislouchii\Staurophora wislouchii -Stwislouch6.jpg
+974;E:\浦思悦\2023.3代码/datasets/test\Staurophora wislouchii\Staurophora wislouchii -Stwislouch7.jpg
+975;E:\浦思悦\2023.3代码/datasets/test\Staurosira binodis\Staurosira binodis_1.jpg
+975;E:\浦思悦\2023.3代码/datasets/test\Staurosira binodis\Staurosira binodis_6.jpg
+976;E:\浦思悦\2023.3代码/datasets/test\Staurosira construens\Staurosira construens 11.1.png
+976;E:\浦思悦\2023.3代码/datasets/test\Staurosira construens\Staurosira construens_5.jpg
+977;E:\浦思悦\2023.3代码/datasets/test\Staurosira construens var. venter\Staurosira construens var. venter -Staurosira_construens_var_venter_IH042875_ID_2001_22_11_3014.jpg
+977;E:\浦思悦\2023.3代码/datasets/test\Staurosira construens var. venter\Staurosira construens var. venter -Staurosira_construens_var_venter_IH042875_ID_2001_3_18_493.jpg
+978;E:\浦思悦\2023.3代码/datasets/test\Staurosira stevensonii\Staurosira stevensonii -27_57564.jpg
+978;E:\浦思悦\2023.3代码/datasets/test\Staurosira stevensonii\Staurosira stevensonii -57578_Stauroneis_stevensonii_holotype_02.jpg
+979;E:\浦思悦\2023.3代码/datasets/test\Staurosirella berolinensis\Staurosirella berolinensis -STberolinensis__441_20.1.jpg
+979;E:\浦思悦\2023.3代码/datasets/test\Staurosirella berolinensis\Staurosirella berolinensis -STberolinensis__533_24.2.jpg
+979;E:\浦思悦\2023.3代码/datasets/test\Staurosirella berolinensis\Staurosirella berolinensis -STberolinensis__570_25.9-1.jpg
+980;E:\浦思悦\2023.3代码/datasets/test\Staurosirella leptostauron\Staurosirella leptostauron 11.1(5μm).png
+980;E:\浦思悦\2023.3代码/datasets/test\Staurosirella leptostauron\Staurosirella leptostauron 11.1.png
+980;E:\浦思悦\2023.3代码/datasets/test\Staurosirella leptostauron\Staurosirella leptostauron_5.jpg
+981;E:\浦思悦\2023.3代码/datasets/test\Staurosirella leptostauron var. dubia\Staurosirella leptostauron var. dubia -8.jpg
+981;E:\浦思悦\2023.3代码/datasets/test\Staurosirella leptostauron var. dubia\Staurosirella leptostauron var. dubia_1.jpg
+982;E:\浦思悦\2023.3代码/datasets/test\Staurosirella martyi\Staurosirella martyi -S.marty24.jpg
+982;E:\浦思悦\2023.3代码/datasets/test\Staurosirella martyi\Staurosirella martyi -_13.jpg
+982;E:\浦思悦\2023.3代码/datasets/test\Staurosirella martyi\Staurosirella martyi_3.jpg
+983;E:\浦思悦\2023.3代码/datasets/test\Staurosirella pinnata\Staurosirella pinnata -Staurosirella_pinnata_NX000610_NM_2007_8_219_a.jpg
+983;E:\浦思悦\2023.3代码/datasets/test\Staurosirella pinnata\Staurosirella pinnata 11.1(3μm).png
+984;E:\浦思悦\2023.3代码/datasets/test\Staurosirella rhomboides\Staurosirella rhomboides -ANSP_GC107082-27.jpg
+984;E:\浦思悦\2023.3代码/datasets/test\Staurosirella rhomboides\Staurosirella rhomboides -ANSP_GC107082-28.jpg
+985;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus alpinus\Stephanodiscus alpinus -Stephanodiscus_alpinus_5.jpg
+985;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus alpinus\Stephanodiscus alpinus -Stephanodiscus_alpinus_8.jpg
+986;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus binderanus\Stephanodiscus binderanus -STbinderanus5.jpg
+986;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus binderanus\Stephanodiscus binderanus_4.jpg
+987;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus hantzschii\Stephanodiscus hantzschii -SThantzschii-5_CR.jpg
+988;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus hantzschii fo. tenuis\Stephanodiscus hantzschii fo. tenuis-STtennuis-6.jpg
+988;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus hantzschii fo. tenuis\Stephanodiscus hantzschii fo. tenuis-STtennuis-7.jpg
+988;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus hantzschii fo. tenuis\Stephanodiscus hantzschii fo. tenuis_3.jpg
+989;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus minutulus\Stephanodiscus minutulus -STminutulus_MBE1654_222_10.jpg
+989;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus minutulus\Stephanodiscus minutulus_3.jpg
+990;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus niagarae\Stephanodiscus niagarae_5.jpg
+990;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus niagarae\Stephanodiscus niagarae_6.jpg
+991;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus oregonicus\Stephanodiscus oregonicus -Stephanodiscus_oregonicus_7.jpg
+991;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus oregonicus\Stephanodiscus oregonicus -Stephanodiscus_oregonicus_8.jpg
+992;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus parvus\Stephanodiscus parvus_4.jpg
+993;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus reimeri\Stephanodiscus reimeri5.jpg
+994;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus yellowstonensis\Stephanodiscus yellowstonensis _10.jpg
+994;E:\浦思悦\2023.3代码/datasets/test\Stephanodiscus yellowstonensis\Stephanodiscus yellowstonensis_4.jpg
+995;E:\浦思悦\2023.3代码/datasets/test\Surirella amphioxys\Surirella amphioxys -GC3778a_amphioxys_1.jpg
+995;E:\浦思悦\2023.3代码/datasets/test\Surirella amphioxys\Surirella amphioxys_4.jpg
+996;E:\浦思悦\2023.3代码/datasets/test\Surirella angusta\Surirella angusta -GC111490b_angusta_interior_1.jpg
+996;E:\浦思悦\2023.3代码/datasets/test\Surirella angusta\Surirella angusta -GC2530a_angusta_1.jpg
+997;E:\浦思悦\2023.3代码/datasets/test\Surirella arctica\Surirella arctica -DotUS_Detail2_SurArc_GCM5285-109G_16_ps.jpg
+997;E:\浦思悦\2023.3代码/datasets/test\Surirella arctica\Surirella arctica -DotUS_Detail3_Driftwood110_09_ps.jpg
+997;E:\浦思悦\2023.3代码/datasets/test\Surirella arctica\Surirella arctica -DotUS_Frustule-in_SurArc_GCM5285-109Gb_20_ps.jpg
+997;E:\浦思悦\2023.3代码/datasets/test\Surirella arctica\Surirella arctica_2.jpg
+998;E:\浦思悦\2023.3代码/datasets/test\Surirella atomus\Surirella atomus -GC114255b_atomus_0009.jpg
+998;E:\浦思悦\2023.3代码/datasets/test\Surirella atomus\Surirella atomus -GC114255b_atomus_0011.jpg
+999;E:\浦思悦\2023.3代码/datasets/test\Surirella brebissonii\Surirella brebissonii -GC112761a_brebissonii_7.jpg
+999;E:\浦思悦\2023.3代码/datasets/test\Surirella brebissonii\Surirella brebissonii -GC112761a_brebissonii_9.jpg
+999;E:\浦思悦\2023.3代码/datasets/test\Surirella brebissonii\Surirella brebissonii_2.jpg
+1000;E:\浦思悦\2023.3代码/datasets/test\Surirella cruciata\Surirella cruciata -GC-113401a_NanticR_DE_SC2b_DoUS.jpg
+1000;E:\浦思悦\2023.3代码/datasets/test\Surirella cruciata\Surirella cruciata -GC-115390b_SycamoreLNJ_SC27b_DoUS_copy.jpg
+1001;E:\浦思悦\2023.3代码/datasets/test\Surirella crumena\Surirella crumena -Surirella_crumena_074601_7.jpg
+1002;E:\浦思悦\2023.3代码/datasets/test\Surirella iowensis\Surirella iowensis -GC100589a_iowensis-0085.jpg
+1002;E:\浦思悦\2023.3代码/datasets/test\Surirella iowensis\Surirella iowensis_5.jpg
+1003;E:\浦思悦\2023.3代码/datasets/test\Surirella lacrimula\Surirella lacrimula -GC109827b_lacrimula_0001.jpg
+1003;E:\浦思悦\2023.3代码/datasets/test\Surirella lacrimula\Surirella lacrimula -GC110629a_lacrimula_0039.jpg
+1004;E:\浦思悦\2023.3代码/datasets/test\Surirella librile\Surirella librile -solea_001.jpg
+1004;E:\浦思悦\2023.3代码/datasets/test\Surirella librile\Surirella librile -solea_002.jpg
+1005;E:\浦思悦\2023.3代码/datasets/test\Surirella ovalis\Surirella ovalis -GC109807b_ovalis_5.jpg
+1005;E:\浦思悦\2023.3代码/datasets/test\Surirella ovalis\Surirella ovalis -GC109807b_ovalis_6.jpg
+1006;E:\浦思悦\2023.3代码/datasets/test\Surirella pinnata\Surirella pinnata -GC4055b_minuta_7.jpg
+1006;E:\浦思悦\2023.3代码/datasets/test\Surirella pinnata\Surirella pinnata -GC4055b_minuta_8.jpg
+1007;E:\浦思悦\2023.3代码/datasets/test\Surirella stalagma\Surirella stalagma -GC102882a_stalagma_7.jpg
+1007;E:\浦思悦\2023.3代码/datasets/test\Surirella stalagma\Surirella stalagma -VA000161_05.jpg
+1007;E:\浦思悦\2023.3代码/datasets/test\Surirella stalagma\Surirella stalagma_4.jpg
+1008;E:\浦思悦\2023.3代码/datasets/test\Surirella striatula\Surirella striatula -S_striatula_036_2_2ss.jpg
+1008;E:\浦思悦\2023.3代码/datasets/test\Surirella striatula\Surirella striatula -S_striatula_036_2_6ss.jpg
+1009;E:\浦思悦\2023.3代码/datasets/test\Surirella suecica\Surirella suecica -VA000161_16.jpg
+1009;E:\浦思悦\2023.3代码/datasets/test\Surirella suecica\Surirella suecica -VA000161_17.jpg
+1009;E:\浦思悦\2023.3代码/datasets/test\Surirella suecica\Surirella suecica_5.jpg
+1010;E:\浦思悦\2023.3代码/datasets/test\Surirella tenera\Surirella tenera -Sur_tenera_4_20ss.jpg
+1010;E:\浦思悦\2023.3代码/datasets/test\Surirella tenera\Surirella tenera -Sur_tenera_5_23.jpg
+1011;E:\浦思悦\2023.3代码/datasets/test\Surirella terryi\Surirella terryi -GC-42664_fossilPhila_SurTer1a_copy.jpg
+1011;E:\浦思悦\2023.3代码/datasets/test\Surirella terryi\Surirella terryi -TPII-78_SurirellaTer42-Lectotype.jpg
+1012;E:\浦思悦\2023.3代码/datasets/test\Surirella undulata\Surirella undulata -Surirella-undulata_ILL_2018-79-6.jpg
+1012;E:\浦思悦\2023.3代码/datasets/test\Surirella undulata\Surirella undulata -Surirella-undulata_ILL_2018-80-7.jpg
+1013;E:\浦思悦\2023.3代码/datasets/test\Synedra cyclopum\Synedra cyclopum -Synedracyclopum8.jpg
+1014;E:\浦思悦\2023.3代码/datasets/test\Synedra famelica\Synedra famelica -Synfam5.jpg
+1014;E:\浦思悦\2023.3代码/datasets/test\Synedra famelica\Synedra famelica -Synfam6.jpg
+1015;E:\浦思悦\2023.3代码/datasets/test\Synedra goulardii\Synedra goulardii -Synedra_goulardii_GC109962H_03_cl.jpeg
+1015;E:\浦思悦\2023.3代码/datasets/test\Synedra goulardii\Synedra goulardii -Synedra_goulardii_GC109962H_07_cl.jpeg
+1016;E:\浦思悦\2023.3代码/datasets/test\Synedra mazamaensis\Synedra mazamaensis -GSN89558_LM6_1.jpg
+1016;E:\浦思悦\2023.3代码/datasets/test\Synedra mazamaensis\Synedra mazamaensis -GSN89558_LM7_1.jpg
+1017;E:\浦思悦\2023.3代码/datasets/test\Tabellaria fenestrata\Tabellaria fenestrata -KAN_5_1_Cropped.jpg
+1017;E:\浦思悦\2023.3代码/datasets/test\Tabellaria fenestrata\Tabellaria fenestrata -WLO_1971_Cropped.jpg
+1018;E:\浦思悦\2023.3代码/datasets/test\Tabellaria flocculosa\Tabellaria flocculosa -KAN2_StrainIV_Girdle_Cropped.jpg
+1018;E:\浦思悦\2023.3代码/datasets/test\Tabellaria flocculosa\Tabellaria flocculosa 11.1(5μm).png
+1018;E:\浦思悦\2023.3代码/datasets/test\Tabellaria flocculosa\Tabellaria flocculosa_5.jpg
+1019;E:\浦思悦\2023.3代码/datasets/test\Tabularia fasciculata\Tabularia fasciculata5.jpg
+1020;E:\浦思悦\2023.3代码/datasets/test\Terpsinoe musica\Terpsinoe musica -image_2_1.jpg
+1021;E:\浦思悦\2023.3代码/datasets/test\Tetracyclus glans\Tetracyclus glans -IWB-0026_1_Tglans_004_cropped_adjusted_small.jpg
+1022;E:\浦思悦\2023.3代码/datasets/test\Tetracyclus hinziae\Tetracyclus hinziae -trup_vv_6_cropped.jpg
+1022;E:\浦思悦\2023.3代码/datasets/test\Tetracyclus hinziae\Tetracyclus hinziae -trup_vv_8_cropped.jpg
+1022;E:\浦思悦\2023.3代码/datasets/test\Tetracyclus hinziae\Tetracyclus hinziae -trup_vv_9_cropped.jpg
+1023;E:\浦思悦\2023.3代码/datasets/test\Tetracyclus rupestris\Tetracyclus rupestris_1.jpg
+1023;E:\浦思悦\2023.3代码/datasets/test\Tetracyclus rupestris\Tetracyclus rupestris_5.jpg
+1024;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira baltica\Thalassiosira baltica -Tbalt5-2.jpg
+1024;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira baltica\Thalassiosira baltica -THbalt-8.jpg
+1025;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira eccentrica\Thalassiosira eccentrica_1_horizontal.jpg
+1025;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira eccentrica\Thalassiosira eccentrica_2_vertical.jpg
+1026;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira lacustris\Thalassiosira lacustris -thalassiosira_visurgis_003c.jpg
+1026;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira lacustris\Thalassiosira lacustris -thalassiosira_visurgis_004.jpg
+1027;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira minima\Thalassiosira minima8.jpg
+1027;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira minima\Thalassiosira minima9.jpg
+1027;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira minima\Thalassiosira minima_1.jpg
+1028;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira pseudonana\Thalassiosira pseudonana2.1.PNG
+1028;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira pseudonana\Thalassiosira pseudonana_2_vertical.jpg
+1028;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira pseudonana\Thalassiosira pseudonana_4.jpg
+1029;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira weissflogii\Thalassiosira weissflogii -thalassiosira_004.jpg
+1029;E:\浦思悦\2023.3代码/datasets/test\Thalassiosira weissflogii\Thalassiosira weissflogii-13 bar = 500 nm.PNG
+1030;E:\浦思悦\2023.3代码/datasets/test\Tryblionella apiculata\Tryblionella apiculata -Tryblionella_apiculata_9.jpg
+1031;E:\浦思悦\2023.3代码/datasets/test\Tryblionella brunoi\Tryblionella brunoi -Tryblionella-brunoi_ILL_2018-16_6.jpg
+1031;E:\浦思悦\2023.3代码/datasets/test\Tryblionella brunoi\Tryblionella brunoi -Tryblionella-brunoi_ILL_2018-16_7.jpg
+1032;E:\浦思悦\2023.3代码/datasets/test\Tryblionella calida\Tryblionella calida -Nitzschia_calida_003_copy.jpg
+1033;E:\浦思悦\2023.3代码/datasets/test\Tryblionella gracilis\Tryblionella gracilis -slide_11_image_10.jpg
+1034;E:\浦思悦\2023.3代码/datasets/test\Tryblionella granulata\Tryblionella granulata7.jpg
+1034;E:\浦思悦\2023.3代码/datasets/test\Tryblionella granulata\Tryblionella granulata_2.jpg
+1035;E:\浦思悦\2023.3代码/datasets/test\Tryblionella hungarica\Tryblionella hungarica -nitzschia_hungarica_006.jpg
+1035;E:\浦思悦\2023.3代码/datasets/test\Tryblionella hungarica\Tryblionella hungarica -nitzschia_hungarica_007.jpg
+1036;E:\浦思悦\2023.3代码/datasets/test\Tryblionella lanceola\Tryblionella lanceola -Nitzschia-lanceola-LM6.jpg
+1037;E:\浦思悦\2023.3代码/datasets/test\Ulnaria acus\Ulnaria acus -ULdelicatissima-3a.jpg
+1037;E:\浦思悦\2023.3代码/datasets/test\Ulnaria acus\Ulnaria acus -ULdelicatissima-6a.jpg
+1038;E:\浦思悦\2023.3代码/datasets/test\Ulnaria capitata\Ulnaria capitata -Ulnaria-capitata-LM4.jpg
+1038;E:\浦思悦\2023.3代码/datasets/test\Ulnaria capitata\Ulnaria capitata -Ulnaria_capitata_01.jpg
+1039;E:\浦思悦\2023.3代码/datasets/test\Ulnaria contracta\Ulnaria contracta -Ulnaria_contracta_GC111326a_08_cl.jpeg
+1039;E:\浦思悦\2023.3代码/datasets/test\Ulnaria contracta\Ulnaria contracta -Ulnaria_contracta_GC111326a_10_cl.jpeg
+1040;E:\浦思悦\2023.3代码/datasets/test\Ulnaria delicatissima\Ulnaria delicatissima -ULdelic_L-6-90_3385_187.jpg
+1040;E:\浦思悦\2023.3代码/datasets/test\Ulnaria delicatissima\Ulnaria delicatissima -ULdelic_NESQA15967D_3903_215.jpg
+1041;E:\浦思悦\2023.3代码/datasets/test\Urosolenia eriensis\Urosolenia eriensis_1.jpg
