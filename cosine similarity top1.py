@@ -115,7 +115,7 @@ def evaluteTop5(classfication, lines):
 
                 # print(all)
                 # print(averagecosin)
-            # prenumber = distancelist.index(max(similaritylist))
+            # prenumber = similaritylist.index(max(similaritylist))
             # print(prenumber)
             # print(similaritylist)
 
