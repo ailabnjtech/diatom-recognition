@@ -70,7 +70,7 @@ def evaluteTop5(classfication, lines):
         name4 = classfication.detect_image(x)[5]
         pro = classfication.detect_image(x)[6]
         if pro[0]<0.3:
-            distancelist = []
+            similaritylist = []
 
             def get_thumbnail(image, size=(224, 224), greyscale=False):
                 image = image.resize(size, Image.ANTIALIAS)
@@ -111,17 +111,17 @@ def evaluteTop5(classfication, lines):
                         cosin = image_similarity_vectors_via_numpy(image1, image2)
                         all += cosin
                 averagecosin = all / image_number
-                distancelist.append(averagecosin)
+                similaritylist.append(averagecosin)
 
                 # print(all)
                 # print(averagecosin)
-            # prenumber = distancelist.index(max(distancelist))
+            # prenumber = distancelist.index(max(similaritylist))
             # print(prenumber)
-            # print(distancelist)
+            # print(similaritylist)
 
-            prenumber = distancelist.index(max(distancelist))
+            prenumber = similaritylist.index(max(similaritylist))
             prenew =pred[prenumber]
-            distancelist.clear()
+            similaritylist.clear()
         else:
             prenew=pred[0]
 
