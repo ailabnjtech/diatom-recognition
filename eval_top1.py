@@ -3,7 +3,7 @@ import torch
 import os.path
 from PIL import Image
 from torch.autograd import Variable
-
+from sklearn.metrics import precision_score, recall_score, f1_score
 from classification import Classification, _preprocess_input
 from utils.utils import letterbox_image
 
@@ -62,13 +62,29 @@ def evaluteTop1(classfication, lines):
             print("[%d/%d]"%(index,total))
     return correct / total
 
-
-
 classfication = top1_Classification()
 with open(r"./cls_test.txt","r") as f:
     lines = f.readlines()
 top1 = evaluteTop1(classfication, lines)
 print("top-1 accuracy = %.2f%%" % (top1*100))
 
-# fw.write("top-1 accuracy = %.2f%%" % (top1*100))
+# def evaluteTop1(classfication, lines):
+#     y_true = []
+#     y_pred = []
+#     total = len(lines)
+
+#     for index, line in enumerate(lines):
+#         annotation_path = line.split(';')[1].replace('\n', '')
+#         x = Image.open(annotation_path)
+#         y = int(line.split(';')[0])
+
+#         pred, _, _ = classfication.detect_image(x)
+
+#         y_true.append(y)
+#         y_pred.append(pred)
+
+#         if index % 100 == 0:
+#             print("[%d/%d]" % (index, total))
+
+#     return y_true, y_pred
 
